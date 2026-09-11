@@ -1,0 +1,254 @@
+{
+  "key": "520::61",
+  "id": "520",
+  "name": "520 - Castle Douglas to Carsphairn - from 7 August",
+  "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/520%20Castle%20Douglas%20to%20Dalmellington%20-%20From%207th%20August%202025.pdf",
+  "extractedAt": "2026-09-11",
+  "title": "Service 520 Castle Douglas to Carsphairn",
+  "sections": [
+    {
+      "title": "Monday to Saturday",
+      "rows": [
+        {
+          "stop": "SSH Castle Douglas Health Centre",
+          "times": [
+            "",
+            "",
+            "",
+            "1000",
+            "1200",
+            "1400",
+            "1440",
+            "",
+            "1725"
+          ]
+        },
+        {
+          "stop": "Castle Douglas, Swimming Pool",
+          "times": [
+            "0640",
+            "0730",
+            "0740",
+            "1004",
+            "1204",
+            "1404",
+            "1444",
+            "1530",
+            "1729"
+          ]
+        },
+        {
+          "stop": "Castle Douglas, Carlingwark St",
+          "times": [
+            "0644",
+            "0734",
+            "0744",
+            "1008",
+            "1208",
+            "1408",
+            "1447",
+            "1540",
+            "1733"
+          ]
+        },
+        {
+          "stop": "Crossmichael",
+          "times": [
+            "0650",
+            "0740",
+            "0750",
+            "1016",
+            "1216",
+            "1416",
+            "1500",
+            "1548",
+            "1741"
+          ]
+        },
+        {
+          "stop": "Parton",
+          "times": [
+            "0655",
+            "0746",
+            "0755",
+            "1021",
+            "1221",
+            "1421",
+            "1505",
+            "1553",
+            "1746"
+          ]
+        },
+        {
+          "stop": "New Galloway",
+          "times": [
+            "",
+            "",
+            "",
+            "1035",
+            "1235",
+            "1435",
+            "1519",
+            "1607",
+            "1800"
+          ]
+        },
+        {
+          "stop": "Balmaclellan, Post Office",
+          "times": [
+            "",
+            "",
+            "",
+            "1040",
+            "1240",
+            "1440",
+            "",
+            "1617",
+            "1805"
+          ]
+        },
+        {
+          "stop": "St Johns Dalry",
+          "times": [
+            "0705",
+            "0755",
+            "0810",
+            "1047",
+            "1247",
+            "1447",
+            "1525",
+            "1622",
+            "1815"
+          ]
+        },
+        {
+          "stop": "Carsphairn",
+          "times": [
+            "0725",
+            "",
+            "0825",
+            "",
+            "",
+            "",
+            "1540",
+            ""
+          ]
+        },
+        {
+          "stop": "RR SD SSH Carsphairn",
+          "times": [
+            "0725",
+            "",
+            "0830",
+            "",
+            "",
+            "",
+            "1540",
+            ""
+          ]
+        },
+        {
+          "stop": "RR St Johns Dalry",
+          "times": [
+            "0740",
+            "0800",
+            "0845",
+            "1050",
+            "1250",
+            "1450",
+            "1555",
+            "1622",
+            "1827"
+          ]
+        },
+        {
+          "stop": "Balmaclellan, Post Office",
+          "times": [
+            "0752",
+            "0807",
+            "0852",
+            "1055",
+            "1255",
+            "1455",
+            "",
+            "1629",
+            "1834"
+          ]
+        },
+        {
+          "stop": "New Galloway",
+          "times": [
+            "0757",
+            "0812",
+            "0857",
+            "1100",
+            "1300",
+            "1500",
+            "",
+            "1634",
+            "1839"
+          ]
+        },
+        {
+          "stop": "Parton",
+          "times": [
+            "0812",
+            "0827",
+            "0912",
+            "1112",
+            "1312",
+            "1512",
+            "1610",
+            "1649",
+            "1851"
+          ]
+        },
+        {
+          "stop": "Crossmichael",
+          "times": [
+            "0827",
+            "0833",
+            "0918",
+            "1118",
+            "1318",
+            "1518",
+            "1615",
+            "1655",
+            "1857"
+          ]
+        },
+        {
+          "stop": "Castle Douglas, Swimming Pool",
+          "times": [
+            "0838",
+            "0843",
+            "0928",
+            "1128",
+            "1328",
+            "1528",
+            "1625",
+            "1705",
+            "1907"
+          ]
+        },
+        {
+          "stop": "Castle Douglas Health Centre",
+          "times": [
+            "",
+            "0848",
+            "0930",
+            "1130",
+            "1330",
+            "",
+            "1630",
+            "",
+            ""
+          ]
+        }
+      ]
+    }
+  ],
+  "rawText": "Local Bus Tender PUBLIC # 520 Castle Douglas to Carsphairn\n\nService 520 Castle Douglas to Carsphairn\n\nTIMETABLE\n\nMonday to Saturday SSH Castle Douglas Health Centre ... ... ... 1000 1200 1400 1440 ... 1725 Castle Douglas, Swimming Pool 0640 0730 0740 1004 1204 1404 1444 1530 1729 Castle Douglas, Carlingwark St 0644 0734 0744 1008 1208 1408 1447 1540 1733 Crossmichael 0650 0740 0750 1016 1216 1416 1500 1548 1741 Parton 0655 0746 0755 1021 1221 1421 1505 1553 1746 New Galloway ... ... ... 1035 1235 1435 1519 1607 1800 Balmaclellan, Post Office ... ... ... 1040 1240 1440 ... 1617 1805 St Johns Dalry 0705 0755 0810 1047 1247 1447 1525 1622 1815 Carsphairn 0725 ... 0825 ... ... ... 1540 ... RR\n\nSD SSH Carsphairn 0725 ... 0830 ... ... ... 1540 ... RR St Johns Dalry 0740 0800 0845 1050 1250 1450 1555 1622 1827 Balmaclellan, Post Office 0752 0807 0852 1055 1255 1455 ... 1629 1834 New Galloway 0757 0812 0857 1100 1300 1500 ... 1634 1839 Parton 0812 0827 0912 1112 1312 1512 1610 1649 1851 Crossmichael 0827 0833 0918 1118 1318 1518 1615 1655 1857 Castle Douglas, Swimming Pool 0838 0843 0928 1128 1328 1528 1625 1705 1907 Castle Douglas Health Centre ... 0848 0930 1130 1330 ... 1630 ... ...\n\nNo Sunday Service\n\nKey to Codes RR Runs on request to the driver SD School Days Only, Operates via Castle Douglas High School Operates on Saturdays and School Holidays Only SSH\n\n# PUBLIC\n",
+  "ok": true,
+  "error": null
+}

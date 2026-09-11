@@ -1,0 +1,183 @@
+{
+  "key": "112::20",
+  "id": "112",
+  "name": "112 - Lockerbie to Eskdalemuir - from 7 August",
+  "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/112%20Lockerbie%20to%20Eskdalemuir%20-%20From%207th%20August%202025.pdf",
+  "extractedAt": "2026-09-11",
+  "title": "LAICIFFO",
+  "sections": [
+    {
+      "title": "Timetable",
+      "rows": [
+        {
+          "stop": "rutaS S syadiloHloohcS&yadrutaS HSS yadrutaStoN SN sedoC ot yeK ecivreS yadnuS oN",
+          "times": [
+            "0381",
+            "0561",
+            "0461",
+            "5331",
+            "0501",
+            "2480"
+          ]
+        },
+        {
+          "stop": "ocseT,eibrekcoL",
+          "times": [
+            "0281",
+            "0461",
+            "0361",
+            "5231",
+            "0401",
+            "2380"
+          ]
+        },
+        {
+          "stop": "eibdlabbiS",
+          "times": [
+            "3181",
+            "3361",
+            "3261",
+            "8131",
+            "3301",
+            "5280"
+          ]
+        },
+        {
+          "stop": "dnaleroB",
+          "times": [
+            "8081",
+            "8261",
+            "8161",
+            "3131",
+            "8201",
+            "0280"
+          ]
+        },
+        {
+          "stop": "drofydnaS",
+          "times": [
+            "0081",
+            "0261",
+            "0161",
+            "5031",
+            "0201",
+            "2180"
+          ]
+        },
+        {
+          "stop": "hcruhC,riumela dksE 3571 7",
+          "times": [
+            "161",
+            "7061",
+            "2031",
+            "7101",
+            "9080"
+          ]
+        },
+        {
+          "stop": "gniLeymaS - 21 61",
+          "times": [
+            "2061",
+            "7521",
+            "2101",
+            "4080"
+          ]
+        },
+        {
+          "stop": "yrotav resbO",
+          "times": [
+            "-",
+            "0161",
+            "006"
+          ]
+        },
+        {
+          "stop": "kcossaCrehteN SN S AL - 0",
+          "times": [
+            "161",
+            "0061",
+            "5521",
+            "0101",
+            "2080"
+          ]
+        },
+        {
+          "stop": "kcossaCrehteN",
+          "times": [
+            "-",
+            "8061",
+            "8551",
+            "3521",
+            "8001",
+            "0080"
+          ]
+        },
+        {
+          "stop": "yrotavr esbO",
+          "times": [
+            "3571",
+            "3061",
+            "3551",
+            "8421",
+            "3001",
+            "5570"
+          ]
+        },
+        {
+          "stop": "gniLeymaS",
+          "times": [
+            "0571",
+            "0061",
+            "0551",
+            "5421",
+            "0001",
+            "2570"
+          ]
+        },
+        {
+          "stop": "hcruhC,riumeladksE",
+          "times": [
+            "2471",
+            "2551",
+            "2451",
+            "7321",
+            "2590",
+            "5470"
+          ]
+        },
+        {
+          "stop": "drofydnaS",
+          "times": [
+            "7371",
+            "7451",
+            "7351",
+            "2321",
+            "7490",
+            "0470"
+          ]
+        },
+        {
+          "stop": "dnaleroB",
+          "times": [
+            "0371",
+            "0451",
+            "0351",
+            "5221",
+            "0490",
+            "8370"
+          ]
+        },
+        {
+          "stop": "e ibdlabbiS",
+          "times": [
+            "0271",
+            "025"
+          ]
+        }
+      ]
+    }
+  ],
+  "rawText": "# LAICIFFO\n\nsyadloo h csnoymedacAeibrekcoLaivsetarep O AL ylnOyadrutaS S syadiloHloohcS&yadrutaS HSS yadrutaStoN SN sedoC ot yeK\n\necivreS yadnuS oN\n\n0381 0561 0461 5331 0501 2480 ocseT,eibrekcoL 0281 0461 0361 5231 0401 2380 eibdlabbiS 3181 3361 3261 8131 3301 5280 dnaleroB 8081 8261 8161 3131 8201 0280 drofydnaS 0081 0261 0161 5031 0201 2180 hcruhC,riumela dksE 3571 7 161 7061 2031 7101 9080 gniLeymaS - 21 61 2061 7521 2101 4080 yrotav resbO - 0161 006 1 5521 0101 208 0 kcossaCrehteN SN S AL\n\n- 0 161 0061 5521 0101 2080 kcossaCrehteN - 8061 8551 3521 8001 0080 yrotavr esbO 3571 3061 3551 8421 3001 5570 gniLeymaS 0571 0061 0551 5421 0001 2570 hcruhC,riumeladksE 2471 2551 2451 7321 2590 5470 drofydnaS 7371 7451 7351 2321 7490 0470 dnaleroB 0371 0451 0351 5221 0490 8370 e ibdlabbiS 0271 025 1 0251 5121 0390 5270 ocseT,eibrekcoL SN AL HSS yadrutaS ot yadnoM\n\nELBATEMIT\n\nriumeladksE ot eibrekcoL 211 ecivreS riumeladks #EoteibrekcoL211 LAICIFFO\n",
+  "ok": true,
+  "error": null
+}

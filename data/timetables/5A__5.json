@@ -1,0 +1,82 @@
+{
+  "key": "5A::5",
+  "id": "5A",
+  "name": "5A - Georgetown to Crichton - from 7 August 2025",
+  "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/5A%20Georgetown%20to%20Crichton%20-%20From%207th%20August%202025%20%281%29.pdf",
+  "extractedAt": "2026-09-11",
+  "title": "OFFICIAL",
+  "sections": [
+    {
+      "title": "Monday to Friday",
+      "rows": [
+        {
+          "stop": "Carthagena Place",
+          "times": [
+            "",
+            "0729",
+            "0759"
+          ]
+        },
+        {
+          "stop": "Craigs Road, St Andrews Primary",
+          "times": [
+            "",
+            "0735",
+            "0805"
+          ]
+        },
+        {
+          "stop": "Mountainhall TC",
+          "times": [
+            "",
+            "0740",
+            "0810"
+          ]
+        },
+        {
+          "stop": "Crichton Campus",
+          "times": [
+            "",
+            "0745",
+            "0815"
+          ]
+        },
+        {
+          "stop": "Mountainhall TC",
+          "times": [
+            "",
+            "0747",
+            ""
+          ]
+        },
+        {
+          "stop": "Craigs Road, St Andrews Primary",
+          "times": [
+            "",
+            "0749",
+            ""
+          ]
+        },
+        {
+          "stop": "Kirkland Road",
+          "times": [
+            "0723",
+            "0753",
+            ""
+          ]
+        },
+        {
+          "stop": "Carthagena Place",
+          "times": [
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    }
+  ],
+  "rawText": "5A Georgetown to Crichton\n\nService 5A Georgetown to Crichton From 7th August 2025\n\nTIMETABLE\n\nMonday to Friday Calside Road (Opp Terminus) ... 0725 0755 Carthagena Place ... 0729 0759 Craigs Road, St Andrews Primary ... 0735 0805 Mountainhall TC ... 0740 0810 Crichton Campus ... 0745 0815 Mountainhall TC ... 0747 ... Craigs Road, St Andrews Primary ... 0749 ... Calside Road (Georgetown Prim) 0720 0750 ... Kirkland Road 0723 0753 ... Calside Road (Opp Terminus) 0725 0755 ... Carthagena Place ... ... ...\n\nNo Saturday or Sunday Service\n\n#OFFICIAL\n",
+  "ok": true,
+  "error": null
+}

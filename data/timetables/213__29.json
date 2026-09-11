@@ -1,0 +1,32 @@
+{
+  "key": "213::29",
+  "id": "213",
+  "name": "213 - Thornhill - Gatelawbridge - Park - Dumfries - From 7 August",
+  "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-08/213-Thornhill-to-Gatelawbridge-to-Park-to%20Dumfries-from-7-Aug-2025_0.pdf",
+  "extractedAt": "2026-09-11",
+  "title": "OFFICIAL",
+  "sections": [
+    {
+      "title": "Monday to Friday",
+      "rows": [
+        {
+          "stop": "Wallace Hall Academy",
+          "times": [
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Townfoot",
+          "times": [
+            "",
+            ""
+          ]
+        }
+      ]
+    }
+  ],
+  "rawText": "213 Thornhill to Gatelawbridge to Park to Dumfries\n\nService 213 Thornhill - Gatelawbridge - Park - Dumfries\n\nTIMETABLE\n\nMonday to Friday Dumfries Whitesands ... 10:15 13:15 17:00 Dumfries, Great King St ... 10:20 13:20 17:05 Dumfries, Loreburne Cntr ... 10:23 13:23 17:10 Holywood ... 10:30 13:30 17:20 Auldgirth 8:00 10:38 13:38 17:28 Park 8:10 10:44 13:44 17:34 Croalchapel 8:13 10:47 13:47 17:37 Cample 8:18 10:52 13:52 17:42 Townfoot 8:24 ... ... ... Gatelawbridge 8:29 10:56 13:56 17:46 Wallace Hall Academy 8:40 ... ... ... Thornhill, Cross 8:45 11:00 14:00 17:50\n\nThornhill, Cross 9:00 12:00 15:15 ... Wallace Hall Academy ... ... 15:20 ... Greenhead 9:03 12:03 15:28 ... Townfoot ... ... 15:32 ... Gatelawbridge 9:07 12:07 15:36 ... Cample 9:11 12:11 15:40 ... Croalchapel 9:16 12:16 15:45 ... Park 9:20 12:20 15:49 ... Auldgirth 9:26 12:26 15:55 ... Holywood 9:34 12:34 16:10 ... Dumfries, Buccluech St 9:40 12:40 16:07 ... Dumfries, Great King St 9:45 12:45 16:13 ... Dumfries Loreburne Centre 9:48 12:48 16:18 ... Dumfries, Whitesands 9:50 12:50 16:20 ...\n\nNo Saturday or Sunday Service\n\n# OFFICIAL\n",
+  "ok": true,
+  "error": null
+}

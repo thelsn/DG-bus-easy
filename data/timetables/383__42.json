@@ -1,0 +1,401 @@
+{
+  "key": "383::42",
+  "id": "383",
+  "name": "383 - Annan to Lockerbie - from 7 August",
+  "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/383%20Annan%20to%20Lockerbie%20-%20From%207th%20August%202025.pdf",
+  "extractedAt": "2026-09-11",
+  "title": "Service 383 Annan to Lockerbie",
+  "sections": [
+    {
+      "title": "Monday to Saturday",
+      "rows": [
+        {
+          "stop": "Lockerbie Academy",
+          "times": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "1535",
+            ""
+          ]
+        },
+        {
+          "stop": "Lockerbie, Hillcourt",
+          "times": [
+            "0645",
+            "0715",
+            "0750",
+            "0750",
+            "0915",
+            "1045",
+            "1315",
+            "1445",
+            "1540",
+            "1715"
+          ]
+        },
+        {
+          "stop": "Lockerbie, Bridge Street",
+          "times": [
+            "",
+            "0716",
+            "0752",
+            "0752",
+            "0917",
+            "1047",
+            "1317",
+            "1447",
+            "",
+            "1717"
+          ]
+        },
+        {
+          "stop": "Lockerbie, High Street",
+          "times": [
+            "0646",
+            "0718",
+            "0754",
+            "0754",
+            "0919",
+            "1049",
+            "1319",
+            "1449",
+            "1542",
+            "1720"
+          ]
+        },
+        {
+          "stop": "Kettleholm",
+          "times": [
+            "0650",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "1547",
+            ""
+          ]
+        },
+        {
+          "stop": "Castlemilk",
+          "times": [
+            "",
+            "0723",
+            "0758",
+            "0805",
+            "0923",
+            "1053",
+            "1323",
+            "1453",
+            "",
+            "1728"
+          ]
+        },
+        {
+          "stop": "Ecclefechan",
+          "times": [
+            "",
+            "0730",
+            "0805",
+            "0813",
+            "0930",
+            "1100",
+            "1330",
+            "1500",
+            "1557",
+            "1735"
+          ]
+        },
+        {
+          "stop": "Eaglesfield",
+          "times": [
+            "",
+            "0738",
+            "0813",
+            "0822",
+            "0938",
+            "1108",
+            "1338",
+            "1508",
+            "1605",
+            "1740"
+          ]
+        },
+        {
+          "stop": "Brydekirk",
+          "times": [
+            "",
+            "0744",
+            "0822",
+            "0828",
+            "0944",
+            "1114",
+            "1344",
+            "1514",
+            "1614",
+            "1749"
+          ]
+        },
+        {
+          "stop": "Annan Academy",
+          "times": [
+            "",
+            "",
+            "0828",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Annan Tesco",
+          "times": [
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "RR ...",
+          "times": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Annan, Butts Street",
+          "times": [
+            "0710",
+            "0755",
+            "0830",
+            "0836",
+            "0955",
+            "1125",
+            "1355",
+            "1525",
+            "1620",
+            "1757"
+          ]
+        },
+        {
+          "stop": "Annan Academy",
+          "times": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "1530",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Monday to Saturday",
+      "rows": [
+        {
+          "stop": "SD Annan Academy",
+          "times": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "1535",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Annan, Butts Street",
+          "times": [
+            "0710",
+            "0800",
+            "0836",
+            "",
+            "1000",
+            "1130",
+            "1400",
+            "1545",
+            "1620",
+            "1800"
+          ]
+        },
+        {
+          "stop": "Brydekirk",
+          "times": [
+            "0718",
+            "0808",
+            "0840",
+            "",
+            "1008",
+            "1138",
+            "1407",
+            "1553",
+            "1628",
+            "1808"
+          ]
+        },
+        {
+          "stop": "Eaglesfield",
+          "times": [
+            "0727",
+            "0817",
+            "0847",
+            "",
+            "1017",
+            "1147",
+            "1415",
+            "1602",
+            "1637",
+            "1817"
+          ]
+        },
+        {
+          "stop": "Ecclefechan",
+          "times": [
+            "0735",
+            "0825",
+            "0856",
+            "",
+            "1024",
+            "1154",
+            "1422",
+            "1609",
+            "1644",
+            "1825"
+          ]
+        },
+        {
+          "stop": "Hoddam Cross",
+          "times": [
+            "",
+            "0829",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Kettleholm",
+          "times": [
+            "",
+            "0835",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Castlemilk",
+          "times": [
+            "0742",
+            "",
+            "0902",
+            "",
+            "1030",
+            "1200",
+            "1428",
+            "1615",
+            "1650",
+            "1830"
+          ]
+        },
+        {
+          "stop": "Lockerbie, High Street",
+          "times": [
+            "0748",
+            "0840",
+            "0906",
+            "",
+            "1034",
+            "1204",
+            "1432",
+            "1619",
+            "1654",
+            "1835"
+          ]
+        },
+        {
+          "stop": "Lockerbie, Bridge Street",
+          "times": [
+            "",
+            "",
+            "0908",
+            "",
+            "1036",
+            "1206",
+            "1435",
+            "1621",
+            "1656",
+            "1836"
+          ]
+        },
+        {
+          "stop": "Lockerbie, Hillcourt",
+          "times": [
+            "0750",
+            "",
+            "0910",
+            "",
+            "1040",
+            "1210",
+            "1440",
+            "1625",
+            "1658",
+            "1838"
+          ]
+        },
+        {
+          "stop": "Lockerbie Academy",
+          "times": [
+            "",
+            "0845",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    }
+  ],
+  "rawText": "Local Bus Tender PUBLIC # 383 Annan to Lockerbie\n\nService 383 Annan to Lockerbie\n\nTIMETABLE\n\nOperator HO HO HO ML HO/ML HO/ML HO/ML HO/ML HO HO/ML Monday to Saturday NS SD NS # S NS * Lockerbie Academy ... ... ... ... ... ... ... ... 1535 ... Lockerbie, Hillcourt 0645 0715 0750 0750 0915 1045 1315 1445 1540 1715 Lockerbie, Bridge Street ... 0716 0752 0752 0917 1047 1317 1447 ... 1717 Lockerbie, High Street 0646 0718 0754 0754 0919 1049 1319 1449 1542 1720 Kettleholm 0650 ... ... ... ... ... ... ... 1547 ... Castlemilk ... 0723 0758 0805 0923 1053 1323 1453 ... 1728 Ecclefechan ... 0730 0805 0813 0930 1100 1330 1500 1557 1735 Eaglesfield ... 0738 0813 0822 0938 1108 1338 1508 1605 1740 Brydekirk ... 0744 0822 0828 0944 1114 1344 1514 1614 1749 Annan Academy ... ... 0828 ... ... ... ... ... ... ... Annan Tesco ... ... RR ... ... ... ... ... ... ... Annan, Butts Street 0710 0755 0830 0836 0955 1125 1355 1525 1620 1757 Annan Academy ... ... ... ... ... ... ... 1530 ... ...\n\nOperator HO/ML HO HO/ML HO/ML HO/ML HO/ML HO/ML HO HO/ML Monday to Saturday SD * # SD Annan Academy ... ... ... ... ... ... ... 1535 ... ... Annan, Butts Street 0710 0800 0836 ... 1000 1130 1400 1545 1620 1800 Brydekirk 0718 0808 0840 ... 1008 1138 1407 1553 1628 1808 Eaglesfield 0727 0817 0847 ... 1017 1147 1415 1602 1637 1817 Ecclefechan 0735 0825 0856 ... 1024 1154 1422 1609 1644 1825 Hoddam Cross ... 0829 ... ... ... ... ... ... ... ... Kettleholm ... 0835 ... ... ... ... ... ... ... ... Castlemilk 0742 ... 0902 ... 1030 1200 1428 1615 1650 1830 Lockerbie, High Street 0748 0840 0906 ... 1034 1204 1432 1619 1654 1835 Lockerbie, Bridge Street ... ... 0908 ... 1036 1206 1435 1621 1656 1836 Lockerbie, Hillcourt 0750 ... 0910 ... 1040 1210 1440 1625 1658 1838 Lockerbie Academy ... 0845 ... ... ... ... ... ... ... ...\n\nKey to Codes SD School Days Only # To & From Annan Academy on School Days NS Not on Saturdays * To & From Lockerbie Academy on School Days S Saturdays Only Runs on Request to the Driver RR\n\nOperator Codes HO Houstons HO/ML Houstons Mon-Fri / McCalls Saturday ML McCalls\n\n# PUBLIC\n",
+  "ok": true,
+  "error": null
+}

@@ -1,0 +1,242 @@
+{
+  "key": "555::63",
+  "id": "555",
+  "name": "555 - Kirkcudbright to Dumfries - from 7 August",
+  "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/555%20Kirkcudbright%20to%20Dumfries%20-%20From%207th%20August%202025.pdf",
+  "extractedAt": "2026-09-11",
+  "title": "Service 555 Kirkcudbright - Castle Douglas - Dumfries",
+  "sections": [
+    {
+      "title": "Monday to Friday",
+      "rows": [
+        {
+          "stop": "Kirkcudbright Academy",
+          "times": [
+            "0845",
+            ""
+          ]
+        },
+        {
+          "stop": "Kirkcudbright Harbour Square",
+          "times": [
+            "0855",
+            ""
+          ]
+        },
+        {
+          "stop": "Tongland",
+          "times": [
+            "0903",
+            ""
+          ]
+        },
+        {
+          "stop": "Bridge of Dee",
+          "times": [
+            "0910",
+            ""
+          ]
+        },
+        {
+          "stop": "Rhonehouse",
+          "times": [
+            "0915",
+            ""
+          ]
+        },
+        {
+          "stop": "Castle Douglas, King Street",
+          "times": [
+            "0920",
+            "1240"
+          ]
+        },
+        {
+          "stop": "Castle Douglas Swimming Pool",
+          "times": [
+            "0925",
+            "1245"
+          ]
+        },
+        {
+          "stop": "Castle Douglas, Tesco",
+          "times": [
+            "0927",
+            "1247"
+          ]
+        },
+        {
+          "stop": "Castle Douglas Health Centre",
+          "times": [
+            "0930",
+            "1250"
+          ]
+        },
+        {
+          "stop": "Haugh of Urr",
+          "times": [
+            "",
+            "1255"
+          ]
+        },
+        {
+          "stop": "Springholm",
+          "times": [
+            "0938",
+            "1300"
+          ]
+        },
+        {
+          "stop": "Crocketford",
+          "times": [
+            "0943",
+            "1305"
+          ]
+        },
+        {
+          "stop": "Dumfries DGRI",
+          "times": [
+            "0957",
+            "1319"
+          ]
+        },
+        {
+          "stop": "Dumfries, Buccleuch Street",
+          "times": [
+            "1002",
+            "1325"
+          ]
+        },
+        {
+          "stop": "Dumfries, Railway Station",
+          "times": [
+            "1005",
+            "1335"
+          ]
+        },
+        {
+          "stop": "Dumfries, Railway Station",
+          "times": [
+            "1005",
+            "1335"
+          ]
+        },
+        {
+          "stop": "Dumfries, Morrisons",
+          "times": [
+            "1007",
+            "1337"
+          ]
+        },
+        {
+          "stop": "Dumfries, DGOne",
+          "times": [
+            "1009",
+            "1339"
+          ]
+        },
+        {
+          "stop": "Dumfries, Loreburne Centre",
+          "times": [
+            "1012",
+            "1342"
+          ]
+        },
+        {
+          "stop": "Dumfries, Whitesands",
+          "times": [
+            "1015",
+            "1345"
+          ]
+        },
+        {
+          "stop": "Dumfries DGRI",
+          "times": [
+            "1030",
+            "1400"
+          ]
+        },
+        {
+          "stop": "Crocketford",
+          "times": [
+            "1035",
+            "1405"
+          ]
+        },
+        {
+          "stop": "Springholm",
+          "times": [
+            "1040",
+            "1410"
+          ]
+        },
+        {
+          "stop": "Haugh of Urr",
+          "times": [
+            "1050",
+            ""
+          ]
+        },
+        {
+          "stop": "Castle Douglas Health Centre",
+          "times": [
+            "1055",
+            "1425"
+          ]
+        },
+        {
+          "stop": "Castle Douglas Swimming Pool",
+          "times": [
+            "1057",
+            "1427"
+          ]
+        },
+        {
+          "stop": "Castle Douglas, Coop",
+          "times": [
+            "1100",
+            ""
+          ]
+        },
+        {
+          "stop": "Castle Douglas, Carlingwark Street",
+          "times": [
+            "",
+            "1432"
+          ]
+        },
+        {
+          "stop": "Rhonehouse",
+          "times": [
+            "",
+            "1437"
+          ]
+        },
+        {
+          "stop": "Bridge of Dee",
+          "times": [
+            "",
+            "1442"
+          ]
+        },
+        {
+          "stop": "Tongland",
+          "times": [
+            "",
+            "1449"
+          ]
+        },
+        {
+          "stop": "Kirkcudbright Harbour Square",
+          "times": [
+            "",
+            "1450"
+          ]
+        }
+      ]
+    }
+  ],
+  "rawText": "PUBLIC #\n\nService 555 Kirkcudbright - Castle Douglas - Dumfries\n\nTIMETABLE\n\nMonday to Friday Kirkcudbright Academy 0845 ... Kirkcudbright Harbour Square 0855 ... Tongland 0903 ... Bridge of Dee 0910 ... Rhonehouse 0915 ... Castle Douglas, King Street 0920 1240 Castle Douglas Swimming Pool 0925 1245 Castle Douglas, Tesco 0927 1247 Castle Douglas Health Centre 0930 1250 Haugh of Urr ... 1255 Springholm 0938 1300 Crocketford 0943 1305 Dumfries DGRI 0957 1319 Dumfries, Buccleuch Street 1002 1325 Dumfries, Railway Station 1005 1335\n\nDumfries, Railway Station 1005 1335 \nDumfries, Morrisons 1007 1337 \nDumfries, DGOne 1009 1339 \nDumfries, Loreburne Centre 1012 1342 \nDumfries, Whitesands 1015 1345 \nDumfries DGRI 1030 1400 \nCrocketford 1035 1405 \nSpringholm 1040 1410 \nHaugh of Urr 1050 ... \nCastle Douglas Health Centre 1055 1425 \nCastle Douglas Swimming Pool 1057 1427 \nCastle Douglas, Coop 1100 ... \nCastle Douglas, Carlingwark Street ... 1432 \nRhonehouse ... 1437 \nBridge of Dee ... 1442 \nTongland ... 1449 \nKirkcudbright Harbour Square ... 1450 \n\nNo Saturday or Sunday Service\n\n# PUBLIC\n",
+  "ok": true,
+  "error": null
+}

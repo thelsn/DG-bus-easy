@@ -1,0 +1,110 @@
+{
+  "key": "384::43",
+  "id": "384",
+  "name": "384 - Falford to Waterbeck to Annan - from 7 August",
+  "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/384%20Falford%20to%20Waterbeck%20to%20Annan%20-%20From%207th%20August%202025.pdf",
+  "extractedAt": "2026-09-11",
+  "title": "OFFICIAL",
+  "sections": [
+    {
+      "title": "Monday to Friday",
+      "rows": [
+        {
+          "stop": "Debate",
+          "times": [
+            "0905",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Falford",
+          "times": [
+            "0910",
+            "1100",
+            "1140"
+          ]
+        },
+        {
+          "stop": "Waterbeck",
+          "times": [
+            "0915",
+            "1105",
+            "1145"
+          ]
+        },
+        {
+          "stop": "Middlebie",
+          "times": [
+            "0920",
+            "1110",
+            "1150"
+          ]
+        },
+        {
+          "stop": "Ecclefechan",
+          "times": [
+            "0927",
+            "1120",
+            "1200"
+          ]
+        },
+        {
+          "stop": "Annan",
+          "times": [
+            "0940",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Annan",
+          "times": [
+            "1025",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Ecclefechan",
+          "times": [
+            "1040",
+            "1120",
+            "1200"
+          ]
+        },
+        {
+          "stop": "Middlebie",
+          "times": [
+            "1050",
+            "1130"
+          ]
+        },
+        {
+          "stop": "RR Waterbeck",
+          "times": [
+            "1055",
+            "1135"
+          ]
+        },
+        {
+          "stop": "RR Falford",
+          "times": [
+            "1100",
+            "1140"
+          ]
+        },
+        {
+          "stop": "RR Debate",
+          "times": [
+            "",
+            ""
+          ]
+        }
+      ]
+    }
+  ],
+  "rawText": "384 Falford to Waterbeck to Annan\n\nService 384 Falford - Waterbeck - Annan\n\nTIMETABLE\n\nMonday to Friday Debate 0905 ... ... Falford 0910 1100 1140 Waterbeck 0915 1105 1145 Middlebie 0920 1110 1150 Ecclefechan 0927 1120 1200 Annan 0940 ... ...\n\nAnnan 1025 ... ... Ecclefechan 1040 1120 1200 Middlebie 1050 1130 RR Waterbeck 1055 1135 RR Falford 1100 1140 RR Debate ... ... RR\n\nNo Saturday or Sunday Service\n\n# OFFICIAL\n",
+  "ok": true,
+  "error": null
+}

@@ -1,0 +1,347 @@
+{
+  "key": "115::21",
+  "id": "115",
+  "name": "115 - Dumfries to Ae - from 7 August",
+  "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/115%20Dumfries%20to%20Ae%20-%20From%207th%20August%202025.pdf",
+  "extractedAt": "2026-09-11",
+  "title": "Service 115 Dumfries to Ae",
+  "sections": [
+    {
+      "title": "MONDAY TO SATURDAY",
+      "rows": [
+        {
+          "stop": "Ae Village",
+          "times": [
+            "0800",
+            "",
+            "1130",
+            "1451",
+            "1610"
+          ]
+        },
+        {
+          "stop": "Shieldhill",
+          "times": [
+            "0812",
+            "",
+            "1140",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Amisfield",
+          "times": [
+            "0819",
+            "",
+            "1147",
+            "1500",
+            "1618"
+          ]
+        },
+        {
+          "stop": "Locharbriggs, Knowehead Rd",
+          "times": [
+            "",
+            "0855",
+            "1157",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Locharbriggs, Burntscarthgreen",
+          "times": [
+            "",
+            "0857",
+            "1200",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Locharbriggs, Catherinefield Cres",
+          "times": [
+            "",
+            "0900",
+            "1202",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Heathhall Garden Centre",
+          "times": [
+            "0824",
+            "0903",
+            "1205",
+            "1507",
+            ""
+          ]
+        },
+        {
+          "stop": "Dumfries, Loreburne Centre",
+          "times": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Dumfries, Loreburn Street",
+          "times": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Dumfries, Buccleuch Street",
+          "times": [
+            "0828",
+            "",
+            "1512",
+            ""
+          ]
+        },
+        {
+          "stop": "Dumfries High School",
+          "times": [
+            "0835",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Dumfries Academy",
+          "times": [
+            "0840",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Dumfries, Whitesands",
+          "times": [
+            "",
+            "",
+            "",
+            "1515",
+            "1630"
+          ]
+        },
+        {
+          "stop": "Dumfries, Great King St",
+          "times": [
+            "",
+            "0915",
+            "1212",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Dumfries, DG One",
+          "times": [
+            "",
+            "0917",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Dumfries, Morrisons",
+          "times": [
+            "",
+            "0921",
+            "1215",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "title": "MONDAY TO SATURDAY",
+      "rows": [
+        {
+          "stop": "Dumfries St Josephs",
+          "times": [
+            "",
+            "",
+            "",
+            "1520",
+            ""
+          ]
+        },
+        {
+          "stop": "Dumfries, Whitesands",
+          "times": [
+            "",
+            "",
+            "",
+            "1530",
+            ""
+          ]
+        },
+        {
+          "stop": "Dumfries Academy",
+          "times": [
+            "",
+            "",
+            "",
+            "1533",
+            ""
+          ]
+        },
+        {
+          "stop": "Dumfries High School",
+          "times": [
+            "",
+            "",
+            "",
+            "1542",
+            ""
+          ]
+        },
+        {
+          "stop": "Dumfries, Great King St",
+          "times": [
+            "",
+            "",
+            "1402",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Dumfries, Morrisons",
+          "times": [
+            "",
+            "1047",
+            "1404",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Dumfries, DG One",
+          "times": [
+            "",
+            "1048",
+            "1405",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Dumfries, Loreburne Centre",
+          "times": [
+            "",
+            "1050",
+            "1407",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Dumfries, Whitesands",
+          "times": [
+            "",
+            "1052",
+            "1410",
+            "",
+            "1740"
+          ]
+        },
+        {
+          "stop": "Dumfries, Academy Street",
+          "times": [
+            "",
+            "1055",
+            "1412",
+            "",
+            "1745"
+          ]
+        },
+        {
+          "stop": "Heathhall Garden Centre",
+          "times": [
+            "0740",
+            "",
+            "1419",
+            "1545",
+            "1752"
+          ]
+        },
+        {
+          "stop": "Locharbriggs, Catherinefield Cres",
+          "times": [
+            "",
+            "1105",
+            "1424",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Locharbriggs, Burntscarthgreen",
+          "times": [
+            "",
+            "1108",
+            "1427",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Locharbriggs, Knowehead Rd",
+          "times": [
+            "",
+            "1110",
+            "1429",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Amisfield",
+          "times": [
+            "0750",
+            "1115",
+            "1435",
+            "1554"
+          ]
+        },
+        {
+          "stop": "RR RR",
+          "times": [
+            "1600",
+            ""
+          ]
+        },
+        {
+          "stop": "Ae Village",
+          "times": [
+            "0759",
+            "1130",
+            "1450",
+            "1610"
+          ]
+        }
+      ]
+    }
+  ],
+  "rawText": "Local Bus Tender PUBLIC # 115 Dumfries to Ae\n\nService 115 Dumfries to Ae\n\nTIMETABLE\n\nMONDAY TO SATURDAY Ae Village 0800 … 1130 1451 1610 Shieldhill 0812 … 1140 … … Amisfield 0819 … 1147 1500 1618 Locharbriggs, Knowehead Rd … 0855 1157 … … Locharbriggs, Burntscarthgreen … 0857 1200 … … Locharbriggs, Catherinefield Cres … 0900 1202 … … Heathhall Garden Centre 0824 0903 1205 1507 … Dumfries, Loreburne Centre … … … … … Dumfries, Loreburn Street … … … … … Dumfries, Buccleuch Street 0828 … 1512 … Dumfries High School 0835 … … … … Dumfries Academy 0840 … … … … Dumfries, Whitesands … … … 1515 1630\n\nDumfries, Great King St … 0915 1212 … … Dumfries, DG One … 0917 … … … Dumfries, Morrisons … 0921 1215 … …\n\nMONDAY TO SATURDAY Dumfries St Josephs … … … 1520 … Dumfries, Whitesands … … … 1530 … Dumfries Academy … … … 1533 … Dumfries High School … … … 1542 … Dumfries, Great King St … … 1402 … … Dumfries, Morrisons … 1047 1404 … … Dumfries, DG One … 1048 1405 … … Dumfries, Loreburne Centre … 1050 1407 … … Dumfries, Whitesands … 1052 1410 … 1740 Dumfries, Academy Street … 1055 1412 … 1745 Heathhall Garden Centre 0740 … 1419 1545 1752 Locharbriggs, Catherinefield Cres … 1105 1424 … … Locharbriggs, Burntscarthgreen … 1108 1427 … … Locharbriggs, Knowehead Rd … 1110 1429 … … Amisfield 0750 1115 1435 1554 RR Shieldhill … RR RR 1600 … Ae Village 0759 1130 1450 1610 RR\n\nNo Sunday Service\n\nKey to Codes RR Runs on Request\n\n# PUBLIC\n",
+  "ok": true,
+  "error": null
+}

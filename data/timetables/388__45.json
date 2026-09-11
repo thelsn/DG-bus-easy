@@ -1,0 +1,39 @@
+{
+  "key": "388::45",
+  "id": "388",
+  "name": "388 - Annan Back of the Hill - from 7 August",
+  "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/388%20Annan%20Back%20of%20the%20Hill%20-%20From%207th%20August%202025.pdf",
+  "extractedAt": "2026-09-11",
+  "title": "388 - Annan Back of the Hill - from 7 August",
+  "sections": [
+    {
+      "title": "Timetable",
+      "rows": [
+        {
+          "stop": "CILBUP ecivreS yadnuS oN",
+          "times": [
+            "0221",
+            "2501"
+          ]
+        },
+        {
+          "stop": "teertSsttu B, nan nA",
+          "times": [
+            "5121",
+            "7401"
+          ]
+        },
+        {
+          "stop": "lliH eht'o kcaB",
+          "times": [
+            "0121",
+            "2401"
+          ]
+        }
+      ]
+    }
+  ],
+  "rawText": "#\n\nCILBUP\n\necivreS yadnuS oN\n\n0221 2501 teertSsttu B, nan nA 5121 7401 lliH eht'o kcaB 0121 2401 teertSsttuB,nannA yadrutaS ot yadnoM\n\nELBATEMIT\n\nlliH eht fo kcaB nannA 883 ecivreS lliH eht fo k #caB nannA 883 CILBUP\n",
+  "ok": true,
+  "error": null
+}
