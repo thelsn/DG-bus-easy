@@ -4,9 +4,279 @@
   "name": "431 - Gatehouse to Kirkcudbright - from 7 August - Kirkcudbright Bridge Closure",
   "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/431%20Gatehouse%20to%20Kirkcudbright%20-%20From%207th%20August%202025%20-%20Kirkcudbright%20Bridge%20Closure.pdf",
   "extractedAt": "2026-09-11",
-  "title": "431 - Gatehouse to Kirkcudbright - from 7 August - Kirkcudbright Bridge Closure",
-  "sections": [],
-  "rawText": "",
-  "ok": false,
-  "error": "404 Not Found"
+  "title": "431 Gatehouse to Kirkcudbright",
+  "sections": [
+    {
+      "title": "431 Gatehouse to Kirkcudbright Monday to Saturday",
+      "rows": [
+        {
+          "stop": "-",
+          "times": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "stop": "Gatehouse of Fleet",
+          "times": [
+            "",
+            "10:15",
+            "",
+            "12:25",
+            "",
+            "",
+            "",
+            "17:17",
+            ""
+          ]
+        },
+        {
+          "stop": "Twynholm",
+          "times": [
+            "",
+            "10:25",
+            "",
+            "12:35",
+            "",
+            "",
+            "",
+            "17:27",
+            ""
+          ]
+        },
+        {
+          "stop": "Kirkcudbright, Merse Drive",
+          "times": [
+            "",
+            "10:32",
+            "11:30",
+            "12:42",
+            "",
+            "",
+            "",
+            "17:34",
+            ""
+          ]
+        },
+        {
+          "stop": "Kirkcudbright, Harbour Square",
+          "times": [
+            "09:10",
+            "",
+            "10:50",
+            "11:43",
+            "13:00",
+            "13:30",
+            "",
+            "",
+            "17:52"
+          ]
+        },
+        {
+          "stop": "Tongland Road",
+          "times": [
+            "09:12",
+            "",
+            "",
+            "11:45",
+            "",
+            "13:32",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Boreland Road",
+          "times": [
+            "09:13",
+            "",
+            "",
+            "11:46",
+            "",
+            "13:33",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Telford Road",
+          "times": [
+            "09:14",
+            "",
+            "",
+            "11:47",
+            "",
+            "13:34",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Mill flats",
+          "times": [
+            "09:15",
+            "",
+            "",
+            "11:48",
+            "",
+            "13:35",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Health Centre",
+          "times": [
+            "RR",
+            "",
+            "",
+            "RR",
+            "",
+            "RR",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Harbour Square",
+          "times": [
+            "09:17",
+            "",
+            "11:05",
+            "11:50",
+            "13:38",
+            "14:40",
+            "16:30",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Woodlands Avenue",
+          "times": [
+            "09:20",
+            "",
+            "11:08",
+            "",
+            "13:41",
+            "14:43",
+            "16:33",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Deacon Road",
+          "times": [
+            "09:25",
+            "",
+            "11:13",
+            "",
+            "13:46",
+            "14:48",
+            "16:38",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Castle Street",
+          "times": [
+            "09:27",
+            "",
+            "11:15",
+            "",
+            "13:48",
+            "14:50",
+            "16:40",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Kirkcudbright, Harbour Square",
+          "times": [
+            "09:29",
+            "09:40",
+            "11:17",
+            "11:50",
+            "13:53",
+            "14:52",
+            "16:42",
+            "17:52",
+            ""
+          ]
+        },
+        {
+          "stop": "Kirkcudbright, Merse Drive",
+          "times": [
+            "",
+            "09:58",
+            "11:30",
+            "12:08",
+            "",
+            "",
+            "17:00",
+            "18:10",
+            ""
+          ]
+        },
+        {
+          "stop": "Twynholm",
+          "times": [
+            "",
+            "10:05",
+            "",
+            "12:15",
+            "",
+            "",
+            "17:07",
+            "18:17",
+            ""
+          ]
+        },
+        {
+          "stop": "Gatehouse of Fleet",
+          "times": [
+            "",
+            "10:15",
+            "",
+            "12:25",
+            "",
+            "",
+            "17:17",
+            "18:27",
+            ""
+          ]
+        }
+      ],
+      "headers": [
+        "Stop",
+        "t1",
+        "t2",
+        "t3",
+        "t4",
+        "t5",
+        "t6",
+        "t7",
+        "t8",
+        "t9"
+      ]
+    }
+  ],
+  "rawText": "# 431 Gatehouse to Kirkcudbright\n\n## Monday to Saturday\n\n431 Gatehouse to Kirkcudbright Monday to Saturday\n\nRR Driver request\n\n| Stop | t1 | t2 | t3 | t4 | t5 | t6 | t7 | t8 | t9 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Gatehouse of Fleet | ... | 10:15 | ... | 12:25 | ... | ... | ... | 17:17 | |\n| Twynholm | ... | 10:25 | ... | 12:35 | ... | ... | ... | 17:27 | |\n| Kirkcudbright, Merse Drive | ... | 10:32 | 11:30 | 12:42 | ... | ... | ... | 17:34 | |\n| Kirkcudbright, Harbour Square | 09:10 | ... | 10:50 | 11:43 | 13:00 | 13:30 | ... | ... | 17:52 |\n| Tongland Road | 09:12 | ... | ... | 11:45 | ... | 13:32 | ... | ... | ... |\n| Boreland Road | 09:13 | ... | ... | 11:46 | ... | 13:33 | ... | ... | ... |\n| Telford Road | 09:14 | ... | ... | 11:47 | ... | 13:34 | ... | ... | ... |\n| Mill flats | 09:15 | ... | ... | 11:48 | ... | 13:35 | ... | ... | ... |\n| Health Centre | RR | ... | ... | RR | ... | RR | ... | ... | ... |\n| Harbour Square | 09:17 | ... | 11:05 | 11:50 | 13:38 | 14:40 | 16:30 | ... | |\n| Woodlands Avenue | 09:20 | ... | 11:08 | ... | 13:41 | 14:43 | 16:33 | ... | |\n| Deacon Road | 09:25 | ... | 11:13 | ... | 13:46 | 14:48 | 16:38 | ... | |\n| Castle Street | 09:27 | ... | 11:15 | ... | 13:48 | 14:50 | 16:40 | ... | |\n| Kirkcudbright, Harbour Square | 09:29 | 09:40 | 11:17 | 11:50 | 13:53 | 14:52 | 16:42 | 17:52 | |\n| Kirkcudbright, Merse Drive | ... | 09:58 | 11:30 | 12:08 | ... | ... | 17:00 | 18:10 | |\n| Twynholm | ... | 10:05 | ... | 12:15 | ... | ... | 17:07 | 18:17 | |\n| Gatehouse of Fleet | ... | 10:15 | ... | 12:25 | ... | ... | 17:17 | 18:27 | |\n\nThe 431 service is operating under a revised timetable following the bridge closure\nTerm Time only\n",
+  "ok": true,
+  "error": null
 }

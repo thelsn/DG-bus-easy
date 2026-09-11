@@ -4,9 +4,48 @@
   "name": "501 - Dumfries to Castle Douglas to Kirkcudbright - From 7 August 2025",
   "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-08/501-Dumfries-to-Castle-Douglas-to-Kirkcudbright-From-7-August-2025.pdf",
   "extractedAt": "2026-09-11",
-  "title": "501 - Dumfries to Castle Douglas to Kirkcudbright - From 7 August 2025",
-  "sections": [],
-  "rawText": "",
-  "ok": false,
-  "error": "404 Not Found"
+  "title": "LAICIFFO",
+  "sections": [
+    {
+      "title": "Monday to Saturday",
+      "rows": [
+        {
+          "stop": "-",
+          "times": [
+            "-",
+            "-"
+          ]
+        },
+        {
+          "stop": "",
+          "times": [
+            "3500 3512 3581 ... ... ... ... 3400 3412 3481 ... ... ... ... 7300 7312 7381 ... ... ... ... 2300 2312 2381 7171 7161 8551 7151 7200 7212 7281 2171 2161 3551 2151 9100 9112 9181 4071 4061 5451 4051 2100 2112 2181 7561 7551 8351 7541 9000 9012 9081 4561 4551 5351 4541 5000 5012 5081 0561 0551 1351 0541 7532 7502 7571 2441 2451 3251 2441 2532 2502 2571 7361 7351 8151 7341 3432 3402 3471 8261 8251 9051 8241 5332 5302 5371 0261 0251 1051 0241 0332 0302 0371 5161 5151 654 1 5141",
+            "... ... ... ... ... ... ... thgirbduckriK ... ... ... ... ... ... ... drofgniR ... ... ... ... ... ... ... eeD fo egdirB 8541 8521 8511 2001 2380 7170 4360 tS krawgnilraC salguoD eltsaC 3541 3521 3511 7590 7280 2170 9260 looP gnimmiwS salguoD eltsaC 5441 5421 5411 9490 9180 4070 4260 rrU fo hguaH 8341 8321 8311 2490 2180 7560 7160 smrA llewxaM eittaeblaD 5341 5321 5311 9390 9080 4560 4160 teertS hgiH eittaeblaD 1341 1321 1311 5390 5080 0560 0160 daoR troP eittaeblaD 3241 3221 3211 7290 7570 2460 2060 noeznugkriK 8141 8121 8111 2290 2570 7360 7550 gniwseeB 9041 9021 9011 3190 3470 8260 8450 IRGD ,gninaoL hcorraG 1041 1021 1011 5090 537 0 0260 0450 sdnasetihW seirfmuD 653 1 6511 6501 0090 … 5160 5350 ertneC enruberoL ,seirfmuD"
+          ]
+        },
+        {
+          "stop": "",
+          "times": [
+            "SN S SN",
+            "S yadrutaS ot yadnoM"
+          ]
+        },
+        {
+          "stop": "",
+          "times": [
+            "",
+            "ELBATEMIT"
+          ]
+        }
+      ],
+      "headers": [
+        "",
+        "SN S SN",
+        "S"
+      ]
+    }
+  ],
+  "rawText": "# LAICIFFO\n\n## Monday to Saturday\n\n| | SN S SN | S |\n| --- | --- | --- |\n| | 3500 3512 3581 ... ... ... ... 3400 3412 3481 ... ... ... ... 7300 7312 7381 ... ... ... ... 2300 2312 2381 7171 7161 8551 7151 7200 7212 7281 2171 2161 3551 2151 9100 9112 9181 4071 4061 5451 4051 2100 2112 2181 7561 7551 8351 7541 9000 9012 9081 4561 4551 5351 4541 5000 5012 5081 0561 0551 1351 0541 7532 7502 7571 2441 2451 3251 2441 2532 2502 2571 7361 7351 8151 7341 3432 3402 3471 8261 8251 9051 8241 5332 5302 5371 0261 0251 1051 0241 0332 0302 0371 5161 5151 654 1 5141 | ... ... ... ... ... ... ... thgirbduckriK ... ... ... ... ... ... ... drofgniR ... ... ... ... ... ... ... eeD fo egdirB 8541 8521 8511 2001 2380 7170 4360 tS krawgnilraC salguoD eltsaC 3541 3521 3511 7590 7280 2170 9260 looP gnimmiwS salguoD eltsaC 5441 5421 5411 9490 9180 4070 4260 rrU fo hguaH 8341 8321 8311 2490 2180 7560 7160 smrA llewxaM eittaeblaD 5341 5321 5311 9390 9080 4560 4160 teertS hgiH eittaeblaD 1341 1321 1311 5390 5080 0560 0160 daoR troP eittaeblaD 3241 3221 3211 7290 7570 2460 2060 noeznugkriK 8141 8121 8111 2290 2570 7360 7550 gniwseeB 9041 9021 9011 3190 3470 8260 8450 IRGD ,gninaoL hcorraG 1041 1021 1011 5090 537 0 0260 0450 sdnasetihW seirfmuD 653 1 6511 6501 0090 … 5160 5350 ertneC enruberoL ,seirfmuD |\n| | SN S SN | S yadrutaS ot yadnoM |\n| | | ELBATEMIT |\n\nthgirbduckriK ot salguoD eltsaC ot seirfmuD 105 ecivreS\n\n# LAICIFFO\n\n## Sunday\n\nyadrutaS toN SN ylnO yadrutaS S setoN\n\n1471 1431 1490 ertneC enruberoL ,seirfmuD \n7371 7331 7390 teertS hcuelccuB ,seirfmuD \n2371 2331 2390 IRGD ,gninaoL hcorraG \n4271 4231 4290 gniwseeB \n0271 0231 0290 noeznugkriK \n2171 2131 2190 daoR troP eittaeblaD \n8071 8031 8090 teertS hgiH eittaeblaD \n5071 5031 5090 smrA llewxaM eittaeblaD \n6561 6521 6580 rrU fo hguaH \n5461 5421 5480 looP gnimmiwS salguoD eltsaC \n0461 0421 0480 tS krawgnilraC salguoD eltsaC \n1361 1321 1380 eeD fo egdirB \n5261 5221 5280 drofgniR \n5161 5121 5180 thgirbduckriK \n7491 2061 2021 thgirbduckriK \n7391 2551 2511 drofgniR \n1391 6451 6411 eeD fo egdirB \n5291 0451 0411 tS krawgnilraC salguoD eltsaC \n2291 7351 7311 looP gnimmiwS salguoD eltsaC \n1191 6251 6211 rrU fo hguaH \n2091 7151 7111 smrA llewxaM eittaeblaD \n9581 4151 4111 teertS hgiH eittaeblaD \n5581 0151 0111 daoR troP eittaeblaD \n7481 2051 2011 noeznugkriK \n3481 8541 8501 gniwseeB \n5381 0541 0501 IRGD ,gninaoL hcorraG \n0381 5441 5401 sdnasetihW seirfmuD \n6281 1441 1401 ertneC enruberoL ,seirfmuD \nyadnuS \n\nthgirbduckriK ot salg #uoD eltsaC ot seirfmuD 105 LAICIFFO\n",
+  "ok": true,
+  "error": null
 }

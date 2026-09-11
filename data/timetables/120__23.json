@@ -5,8 +5,278 @@
   "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/120%20Langholm%20Town%20to%20Eskdalemuir%20-%20From%207th%20August%202025.pdf",
   "extractedAt": "2026-09-11",
   "title": "120 - Langholm Town to Eskdalemuir - from 7 August",
-  "sections": [],
-  "rawText": "",
-  "ok": false,
-  "error": "404 Not Found"
+  "sections": [
+    {
+      "title": "Timetable",
+      "rows": [
+        {
+          "stop": "P ylno syaD loohcS DS revird ot tseuqeR no snuR RR sedoC ot yeK ecivres yadnuS oN",
+          "times": [
+            "0461",
+            "9151",
+            "1241",
+            "2231",
+            "1501",
+            "7201",
+            "1480"
+          ]
+        },
+        {
+          "stop": "rra po-oC ,mlohgnaL",
+          "times": [
+            "9361",
+            "8151",
+            "0241",
+            "1231",
+            "0501",
+            "6201",
+            "048"
+          ]
+        },
+        {
+          "stop": "eciffO tsoP ,teertS hgiH",
+          "times": [
+            "6361",
+            "5151",
+            "7141",
+            "8131",
+            "7401",
+            "3201",
+            ""
+          ]
+        },
+        {
+          "stop": "teertS eniloraC",
+          "times": [
+            "4361",
+            "2151",
+            "4141",
+            "5131",
+            "4401",
+            "0201",
+            ""
+          ]
+        },
+        {
+          "stop": "evirD doowmloH 236 1 015 1 214 1 313 1 240 1 810 1 ... edismlohelkieM",
+          "times": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "7380"
+          ]
+        },
+        {
+          "stop": "ymedacA mlohgnaL 916 1",
+          "times": [
+            "",
+            "",
+            "0031",
+            "",
+            "5001",
+            "7280"
+          ]
+        },
+        {
+          "stop": "htaptneB",
+          "times": [
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "RR ... RR 7180 lliheilliaB",
+          "times": [
+            "5061",
+            "",
+            "",
+            "0421",
+            "",
+            "5490",
+            "2080"
+          ]
+        },
+        {
+          "stop": "hcruhC riumeladksE 206 1",
+          "times": [
+            "",
+            "",
+            "7321",
+            "",
+            "2490",
+            "957"
+          ]
+        },
+        {
+          "stop": "gniL eymaS",
+          "times": [
+            "",
+            "",
+            "",
+            "2321",
+            "",
+            "7390",
+            ""
+          ]
+        },
+        {
+          "stop": "yrotavresbO",
+          "times": [
+            "",
+            "",
+            "",
+            "0321",
+            "",
+            "5390",
+            ""
+          ]
+        },
+        {
+          "stop": "tped kcossaC rehteN DS DS",
+          "times": [
+            "",
+            "",
+            "",
+            "9221",
+            "",
+            "4390",
+            ""
+          ]
+        },
+        {
+          "stop": "rra kcossaC rehteN",
+          "times": [
+            "",
+            "",
+            "",
+            "7221",
+            "",
+            "2390",
+            ""
+          ]
+        },
+        {
+          "stop": "yrotavresbO",
+          "times": [
+            "0061",
+            "",
+            "",
+            "2221",
+            "",
+            "7290",
+            "8570"
+          ]
+        },
+        {
+          "stop": "gniL eymaS",
+          "times": [
+            "7551",
+            "",
+            "",
+            "912"
+          ]
+        },
+        {
+          "stop": "hcruhC riumeladksE",
+          "times": [
+            "5451",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "lliheilliaB 635 1",
+          "times": [
+            "",
+            "",
+            "5021",
+            "",
+            "0190",
+            "147"
+          ]
+        },
+        {
+          "stop": "htaptneB",
+          "times": [
+            "",
+            "9051",
+            "9041",
+            "4511",
+            "9301"
+          ]
+        },
+        {
+          "stop": "RR ... edismlohelkieM",
+          "times": [
+            "",
+            "7051",
+            "7041",
+            "2511",
+            "7301"
+          ]
+        },
+        {
+          "stop": "RR ... evirD doowmloH",
+          "times": [
+            "",
+            "505"
+          ]
+        },
+        {
+          "stop": "RR ... teertS eniloraC 525 1",
+          "times": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "137"
+          ]
+        },
+        {
+          "stop": "ymedacA mlohgnaL ... RR RR RR RR RR ... neergnliK",
+          "times": [
+            "2251",
+            "2051",
+            "2041",
+            "7411",
+            "2301",
+            "2580",
+            "037"
+          ]
+        },
+        {
+          "stop": "teertS hgiH ,mlohgnaL",
+          "times": [
+            "0251",
+            "0051",
+            "0041",
+            "5411",
+            "0301",
+            "0580",
+            ""
+          ]
+        },
+        {
+          "stop": "M ELBATEMIT riumeladksE ot nwoT mlohgnaL 021 ecivreS riumeladksE ot nwoT mlohgnaL",
+          "times": [
+            "021",
+            "6202"
+          ]
+        }
+      ],
+      "headers": []
+    }
+  ],
+  "rawText": "#\n\nCILBUP\n\nylno syaD loohcS DS \nrevird ot tseuqeR no snuR RR sedoC ot yeK \necivres yadnuS oN \n0461 9151 1241 2231 1501 7201 1480 rra po-oC ,mlohgnaL \n9361 8151 0241 1231 0501 6201 048 0 eciffO tsoP ,teertS hgiH \n6361 5151 7141 8131 7401 3201 ... teertS eniloraC \n4361 2151 4141 5131 4401 0201 ... evirD doowmloH \n236 1 015 1 214 1 313 1 240 1 810 1 ... edismlohelkieM \n... ... ... ... ... ... 7380 ymedacA mlohgnaL \n916 1 ... ... 0031 ... 5001 7280 htaptneB \n... ... ... RR ... RR 7180 lliheilliaB \n5061 ... ... 0421 ... 5490 2080 hcruhC riumeladksE \n206 1 ... ... 7321 ... 2490 957 0 gniL eymaS \n... ... ... 2321 ... 7390 ... yrotavresbO \n... ... ... 0321 ... 5390 ... tped kcossaC rehteN \nDS DS \n... ... ... 9221 ... 4390 ... rra kcossaC rehteN \n... ... ... 7221 ... 2390 ... yrotavresbO \n0061 ... ... 2221 ... 7290 8570 gniL eymaS \n7551 ... ... 912 1 ... 429 0 557 0 hcruhC riumeladksE \n5451 ... ... ... ... ... ... lliheilliaB \n635 1 ... ... 5021 ... 0190 147 0 htaptneB \n... 9051 9041 4511 9301 RR ... edismlohelkieM \n ... 7051 7041 2511 7301 RR ... evirD doowmloH \n... 505 1 504 1 051 1 530 1 RR ... teertS eniloraC \n525 1 ... ... ... ... ... 137 0 ymedacA mlohgnaL \n... RR RR RR RR RR ... neergnliK \n2251 2051 2041 7411 2301 2580 037 0 teertS hgiH ,mlohgnaL \n0251 0051 0041 5411 0301 0580 ... tped po-oC ,mlohgnaL \nDS DS yadrutaS ot yadnoM \nELBATEMIT \nriumeladksE ot nwoT mlohgnaL 021 ecivreS \n\nriumeladksE ot nwoT mlohgnaL 021\n\n6202 yraunaJ ht5 morF\n",
+  "ok": true,
+  "error": null
 }
