@@ -17,10 +17,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Prepare publish directory
+        run: |
+          mkdir -p _site
+          cp index.html styles.css app.js .nojekyll README.md _site/
+          cp -r data _site/data
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: .
+          publish_dir: ./_site
           force_orphan: true
-          exclude_assets: '.github,scripts,.git'
