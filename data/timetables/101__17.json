@@ -8,6 +8,7 @@
   "sections": [
     {
       "title": "Monday to Saturday",
+      "headers": [],
       "rows": [
         {
           "stop": "",
@@ -993,6 +994,7 @@
     },
     {
       "title": "Monday to Saturday",
+      "headers": [],
       "rows": [
         {
           "stop": "",

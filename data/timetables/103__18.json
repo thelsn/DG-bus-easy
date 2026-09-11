@@ -8,6 +8,7 @@
   "sections": [
     {
       "title": "Monday to Saturday",
+      "headers": [],
       "rows": [
         {
           "stop": "Tesco",

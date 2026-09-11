@@ -2,67 +2,56 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>DG Bus Easy — Dumfries &amp; Galloway timetables</title>
-  <meta name="description" content="Browse official Dumfries &amp; Galloway Council bus PDF timetables, parse them in your browser, and save favourites." />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>DG Buses</title>
+  <meta name="description" content="Dumfries and Galloway bus timetables from official council PDFs." />
+  <meta name="theme-color" content="#5b2c86" />
   <link rel="stylesheet" href="styles.css" />
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🚌</text></svg>" />
 </head>
 <body>
-  <header class="site-header">
-    <div class="wrap header-row">
-      <div>
-        <p class="eyebrow">Dumfries &amp; Galloway</p>
-        <h1>DG Bus Easy</h1>
-        <p class="tagline">Official council PDF timetables for services 1–95, 100s, 200s, 300s, 400s and 500s. Favourites stay on this device.</p>
-      </div>
-      <button id="refreshBtn" class="btn secondary" type="button">↻ Refresh list</button>
+  <header class="top">
+    <div class="wrap">
+      <h1>DG Buses</h1>
+      <p class="sub">Official D&amp;G Council timetables</p>
     </div>
   </header>
 
-  <main class="wrap layout">
-    <section class="panel list-panel" aria-label="Bus services">
-      <div class="toolbar">
-        <label class="search-wrap">
-          <span class="sr-only">Search buses</span>
-          <input id="search" type="search" placeholder="Search number or place…" autocomplete="off" />
-        </label>
-        <div id="groupChips" class="chips" role="tablist" aria-label="Service ranges"></div>
-        <label class="fav-toggle"><input type="checkbox" id="favOnly" /> Favourites only</label>
-      </div>
-      <p id="listStatus" class="status" role="status"></p>
-      <ul id="serviceList" class="service-list"></ul>
+  <main class="wrap">
+    <div class="controls">
+      <input id="search" type="search" placeholder="Search bus or place" autocomplete="off" />
+      <div id="groupChips" class="chips"></div>
+      <label class="check"><input type="checkbox" id="favOnly" /> Favourites only</label>
+    </div>
+
+    <p id="listStatus" class="msg"></p>
+    <ul id="serviceList" class="list"></ul>
+
+    <section id="emptyState" class="box">
+      <p>Tap a bus to see the timetable.</p>
     </section>
 
-    <section class="panel detail-panel" aria-label="Timetable">
-      <div id="emptyState" class="empty">
-        <h2>Pick a bus</h2>
-        <p>Choose a service to fetch the official D&amp;G Council PDF and display the timetable.</p>
-      </div>
-
-      <div id="detail" class="detail hidden">
-        <div class="detail-head">
-          <div>
-            <p id="detailBadge" class="service-badge"></p>
-            <h2 id="detailTitle"></h2>
-            <p id="detailMeta" class="muted"></p>
-          </div>
-          <div class="detail-actions">
-            <button id="favBtn" class="btn star" type="button" aria-pressed="false">☆ Favourite</button>
-            <a id="pdfLink" class="btn secondary" href="#" target="_blank" rel="noopener">Open PDF</a>
-          </div>
+    <section id="detail" class="box hidden">
+      <div class="detail-top">
+        <div>
+          <div id="detailBadge" class="badge"></div>
+          <h2 id="detailTitle"></h2>
+          <p id="detailMeta" class="msg"></p>
         </div>
-        <p id="parseStatus" class="status" role="status"></p>
-        <div id="timetable" class="timetable"></div>
+        <div class="actions">
+          <button id="favBtn" type="button">☆ Favourite</button>
+          <a id="pdfLink" href="#" target="_blank" rel="noopener">Open PDF</a>
+        </div>
       </div>
+      <p id="parseStatus" class="msg"></p>
+      <div id="timetable"></div>
     </section>
   </main>
 
-  <footer class="site-footer wrap">
+  <footer class="foot wrap">
     <p>
-      Timetable PDFs from
+      PDFs from
       <a href="https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-1-95-7-august-2025" target="_blank" rel="noopener">Dumfries and Galloway Council</a>.
-      Favourites use localStorage only. Not affiliated with the council.
+      Favourites saved on this phone only.
     </p>
   </footer>
 

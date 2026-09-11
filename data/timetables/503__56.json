@@ -8,6 +8,7 @@
   "sections": [
     {
       "title": "Timetable",
+      "headers": [],
       "rows": [
         {
           "stop": "LAICIFFO revirdottseuqernosetarepO RR sedoC ot yeK ecivreS yadnuS oN",
@@ -212,7 +213,7 @@
       ]
     }
   ],
-  "rawText": "#\n\nLAICIFFO\n\nrevirdottseuqernosetarepO RR sedoC ot yeK \necivreS yadnuS oN \n0391 0361 5231 0221 0101 no itatSliaR,s eirfmuD \n8291 8261 3231 8121 8001 teertShcuelccuB,seirfmuD \n0191 016 1 5031 0 021 0590 toofhcoL \n3091 - - 351 1 349 0 notliM \n- 0061 - … … droftekcorC \n5581 5551 - 54 11 5390 m lohgnirpS \n1581 1551 - 14 11 1390 mahruD kc irtapkr iK \n6481 6451 - 6 311 6290 rrUfoegdirBdlO \n3481 3451 - 33 11 3290 dnarbe ralC \n5381 5351 - 5 211 5190 looP gnimmiwSs alguoDel tsaC \n0381 0351 - 0211 0190 tSkrawgnilraC,salguoDeltsaC \n0181 0351 - 51 11 5580 tSkrawgn ilraC,sa lguoDel tsaC \n2081 5251 - 7 011 5480 ertneChtlaeHsalguoDeltsaC \n4571 7151 - 95 01 7380 dn arbera lC \n1571 4151 - 6 501 4380 rrUfoe gdirBdlO \n6471 9051 - 1 501 9280 mahruDkcirtapkriK \n2471 505 1 - 7401 52 80 mlohgnirpS \n- … - - 028 0 droftek corC \n4371 9441 RR 9301 - notliM \n7271 2441 2521 2301 0180 toofhcoL \n5171 0341 0421 0201 7570 sdn asetihW,s eirfmuD \n3171 8241 8321 8101 557 0 ertneCe nruber oL,s eirfmuD \n0171 5241 5321 5101 - noitatSliaR,seirfmuD \nyadrutaS ot yadnoM \nELBATEMIT \nsalguoD eltsaC ot seirfmuD 305 ecivreS \n\nsalguoDeltsaCotseirfmuD305\n",
+  "rawText": "#\n\nLAICIFFO\n\nrevirdottseuqernosetarepO RR sedoC ot yeK \necivreS yadnuS oN \n0391 0361 5231 0221 0101 no itatSliaR,s eirfmuD \n8291 8261 3231 8121 8001 teertShcuelccuB,seirfmuD \n0191 016 1 5031 0 021 0590 toofhcoL \n3091 - - 351 1 349 0 notliM \n- 0061 - \u2026 \u2026 droftekcorC \n5581 5551 - 54 11 5390 m lohgnirpS \n1581 1551 - 14 11 1390 mahruD kc irtapkr iK \n6481 6451 - 6 311 6290 rrUfoegdirBdlO \n3481 3451 - 33 11 3290 dnarbe ralC \n5381 5351 - 5 211 5190 looP gnimmiwSs alguoDel tsaC \n0381 0351 - 0211 0190 tSkrawgnilraC,salguoDeltsaC \n0181 0351 - 51 11 5580 tSkrawgn ilraC,sa lguoDel tsaC \n2081 5251 - 7 011 5480 ertneChtlaeHsalguoDeltsaC \n4571 7151 - 95 01 7380 dn arbera lC \n1571 4151 - 6 501 4380 rrUfoe gdirBdlO \n6471 9051 - 1 501 9280 mahruDkcirtapkriK \n2471 505 1 - 7401 52 80 mlohgnirpS \n- \u2026 - - 028 0 droftek corC \n4371 9441 RR 9301 - notliM \n7271 2441 2521 2301 0180 toofhcoL \n5171 0341 0421 0201 7570 sdn asetihW,s eirfmuD \n3171 8241 8321 8101 557 0 ertneCe nruber oL,s eirfmuD \n0171 5241 5321 5101 - noitatSliaR,seirfmuD \nyadrutaS ot yadnoM \nELBATEMIT \nsalguoD eltsaC ot seirfmuD 305 ecivreS \n\nsalguoDeltsaCotseirfmuD305\n",
   "ok": true,
   "error": null
 }

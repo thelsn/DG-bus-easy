@@ -8,6 +8,7 @@
   "sections": [
     {
       "title": "Monday to Saturday",
+      "headers": [],
       "rows": [
         {
           "stop": "Lockerbie Academy",
@@ -211,6 +212,7 @@
     },
     {
       "title": "Monday to Saturday",
+      "headers": [],
       "rows": [
         {
           "stop": "SD Annan Academy",

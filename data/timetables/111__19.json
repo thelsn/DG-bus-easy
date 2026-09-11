@@ -8,6 +8,7 @@
   "sections": [
     {
       "title": "TIMETABLE",
+      "headers": [],
       "rows": [
         {
           "stop": "Burns Statue",
@@ -279,6 +280,7 @@
     },
     {
       "title": "Monday to Saturday",
+      "headers": [],
       "rows": [
         {
           "stop": "Burns Statue",

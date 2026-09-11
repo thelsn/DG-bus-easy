@@ -8,6 +8,7 @@
   "sections": [
     {
       "title": "MONDAY TO SATURDAY",
+      "headers": [],
       "rows": [
         {
           "stop": "Ae Village",
@@ -172,6 +173,7 @@
     },
     {
       "title": "MONDAY TO SATURDAY",
+      "headers": [],
       "rows": [
         {
           "stop": "Dumfries St Josephs",
@@ -341,7 +343,7 @@
       ]
     }
   ],
-  "rawText": "Local Bus Tender PUBLIC # 115 Dumfries to Ae\n\nService 115 Dumfries to Ae\n\nTIMETABLE\n\nMONDAY TO SATURDAY Ae Village 0800 … 1130 1451 1610 Shieldhill 0812 … 1140 … … Amisfield 0819 … 1147 1500 1618 Locharbriggs, Knowehead Rd … 0855 1157 … … Locharbriggs, Burntscarthgreen … 0857 1200 … … Locharbriggs, Catherinefield Cres … 0900 1202 … … Heathhall Garden Centre 0824 0903 1205 1507 … Dumfries, Loreburne Centre … … … … … Dumfries, Loreburn Street … … … … … Dumfries, Buccleuch Street 0828 … 1512 … Dumfries High School 0835 … … … … Dumfries Academy 0840 … … … … Dumfries, Whitesands … … … 1515 1630\n\nDumfries, Great King St … 0915 1212 … … Dumfries, DG One … 0917 … … … Dumfries, Morrisons … 0921 1215 … …\n\nMONDAY TO SATURDAY Dumfries St Josephs … … … 1520 … Dumfries, Whitesands … … … 1530 … Dumfries Academy … … … 1533 … Dumfries High School … … … 1542 … Dumfries, Great King St … … 1402 … … Dumfries, Morrisons … 1047 1404 … … Dumfries, DG One … 1048 1405 … … Dumfries, Loreburne Centre … 1050 1407 … … Dumfries, Whitesands … 1052 1410 … 1740 Dumfries, Academy Street … 1055 1412 … 1745 Heathhall Garden Centre 0740 … 1419 1545 1752 Locharbriggs, Catherinefield Cres … 1105 1424 … … Locharbriggs, Burntscarthgreen … 1108 1427 … … Locharbriggs, Knowehead Rd … 1110 1429 … … Amisfield 0750 1115 1435 1554 RR Shieldhill … RR RR 1600 … Ae Village 0759 1130 1450 1610 RR\n\nNo Sunday Service\n\nKey to Codes RR Runs on Request\n\n# PUBLIC\n",
+  "rawText": "Local Bus Tender PUBLIC # 115 Dumfries to Ae\n\nService 115 Dumfries to Ae\n\nTIMETABLE\n\nMONDAY TO SATURDAY Ae Village 0800 \u2026 1130 1451 1610 Shieldhill 0812 \u2026 1140 \u2026 \u2026 Amisfield 0819 \u2026 1147 1500 1618 Locharbriggs, Knowehead Rd \u2026 0855 1157 \u2026 \u2026 Locharbriggs, Burntscarthgreen \u2026 0857 1200 \u2026 \u2026 Locharbriggs, Catherinefield Cres \u2026 0900 1202 \u2026 \u2026 Heathhall Garden Centre 0824 0903 1205 1507 \u2026 Dumfries, Loreburne Centre \u2026 \u2026 \u2026 \u2026 \u2026 Dumfries, Loreburn Street \u2026 \u2026 \u2026 \u2026 \u2026 Dumfries, Buccleuch Street 0828 \u2026 1512 \u2026 Dumfries High School 0835 \u2026 \u2026 \u2026 \u2026 Dumfries Academy 0840 \u2026 \u2026 \u2026 \u2026 Dumfries, Whitesands \u2026 \u2026 \u2026 1515 1630\n\nDumfries, Great King St \u2026 0915 1212 \u2026 \u2026 Dumfries, DG One \u2026 0917 \u2026 \u2026 \u2026 Dumfries, Morrisons \u2026 0921 1215 \u2026 \u2026\n\nMONDAY TO SATURDAY Dumfries St Josephs \u2026 \u2026 \u2026 1520 \u2026 Dumfries, Whitesands \u2026 \u2026 \u2026 1530 \u2026 Dumfries Academy \u2026 \u2026 \u2026 1533 \u2026 Dumfries High School \u2026 \u2026 \u2026 1542 \u2026 Dumfries, Great King St \u2026 \u2026 1402 \u2026 \u2026 Dumfries, Morrisons \u2026 1047 1404 \u2026 \u2026 Dumfries, DG One \u2026 1048 1405 \u2026 \u2026 Dumfries, Loreburne Centre \u2026 1050 1407 \u2026 \u2026 Dumfries, Whitesands \u2026 1052 1410 \u2026 1740 Dumfries, Academy Street \u2026 1055 1412 \u2026 1745 Heathhall Garden Centre 0740 \u2026 1419 1545 1752 Locharbriggs, Catherinefield Cres \u2026 1105 1424 \u2026 \u2026 Locharbriggs, Burntscarthgreen \u2026 1108 1427 \u2026 \u2026 Locharbriggs, Knowehead Rd \u2026 1110 1429 \u2026 \u2026 Amisfield 0750 1115 1435 1554 RR Shieldhill \u2026 RR RR 1600 \u2026 Ae Village 0759 1130 1450 1610 RR\n\nNo Sunday Service\n\nKey to Codes RR Runs on Request\n\n# PUBLIC\n",
   "ok": true,
   "error": null
 }

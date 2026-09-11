@@ -8,6 +8,13 @@
   "sections": [
     {
       "title": "Timetable",
+      "headers": [
+        "revirD eht ot tseuqeR no snuR",
+        "",
+        "",
+        "RR",
+        ""
+      ],
       "rows": [
         {
           "stop": "-",
@@ -36,13 +43,6 @@
             "sedoC ot yeK"
           ]
         }
-      ],
-      "headers": [
-        "revirD eht ot tseuqeR no snuR",
-        "",
-        "",
-        "RR",
-        ""
       ]
     }
   ],

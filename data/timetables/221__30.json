@@ -8,6 +8,11 @@
   "sections": [
     {
       "title": "Timetable",
+      "headers": [
+        "",
+        "syadloohcsnoymedacArahuqnaSaivsetarepO",
+        "AS sedoC ot yeK ecivres yadnuS oN"
+      ],
       "rows": [
         {
           "stop": "-",
@@ -19,8 +24,8 @@
         {
           "stop": "",
           "times": [
-            "5471 … … 3371 … … 6271 1261 5251 3271 816 1 2251 1271 … 0251 0271 5161 915 6171 1161 … 9071 4061 0151 6071 1061 7051 0071 5551 1051",
-            "3141 5411 5190 … daehk colnaW 1041 3311 209 0 … k conneM 4531 6211 … 0480 kraPre eDr ahuqnaS 1531 3211 8580 738 0 teertS hgiHra huqnaS 9431 1211 6580 … ertneC htlaeHra huqnaS 1 8431 0211 558 0 … tsrCsneeuQrah uqnaS 4431 6111 … … esrevitluM kciwarC 7331 9011 … … vAnegrah wnelGml oholleK 4331 6011 … 1380 evirDdna lkriKm loholleK 8231 0011 … 5280 teertSniaMlennockriK"
+            "5471 \u2026 \u2026 3371 \u2026 \u2026 6271 1261 5251 3271 816 1 2251 1271 \u2026 0251 0271 5161 915 6171 1161 \u2026 9071 4061 0151 6071 1061 7051 0071 5551 1051",
+            "3141 5411 5190 \u2026 daehk colnaW 1041 3311 209 0 \u2026 k conneM 4531 6211 \u2026 0480 kraPre eDr ahuqnaS 1531 3211 8580 738 0 teertS hgiHra huqnaS 9431 1211 6580 \u2026 ertneC htlaeHra huqnaS 1 8431 0211 558 0 \u2026 tsrCsneeuQrah uqnaS 4431 6111 \u2026 \u2026 esrevitluM kciwarC 7331 9011 \u2026 \u2026 vAnegrah wnelGml oholleK 4331 6011 \u2026 1380 evirDdna lkriKm loholleK 8231 0011 \u2026 5280 teertSniaMlennockriK"
           ]
         },
         {
@@ -33,8 +38,8 @@
         {
           "stop": "",
           "times": [
-            "… 8561 5451 1051 … 2561 045 1 5541 … 946 1 … 2541 618 1 … … … … 2461 … 5441 318 1 8361 … 1441 … 4361 … 9341 8081 3361 8251 8341 5081 036 1 525 1 5341 8571 … … 8241 5471 … … 5141",
-            "1321 3101 … 5280 teertS niaMlen nockriK 5221 700 1 … 918 0 ev irDdnalkriKml oholleK 2221 … … … vAnegrahwne lGm loholleK … … 349 0 … teertShgiHrah uqnaS 5121 0001 … … esr evitluM kciwarC 1121 3590 0490 … tsrCsne euQra huqnaS 9021 9490 6390 … ertneChtla eHr ahuqnaS 8021 8490 539 0 3180 teertSh giHr ahuqnaS 5021 549 0 … 018 0 kraPreeDrahuqnaS 8511 … 8290 … kconneM 5411 … 5190 … daehkcolnaW"
+            "\u2026 8561 5451 1051 \u2026 2561 045 1 5541 \u2026 946 1 \u2026 2541 618 1 \u2026 \u2026 \u2026 \u2026 2461 \u2026 5441 318 1 8361 \u2026 1441 \u2026 4361 \u2026 9341 8081 3361 8251 8341 5081 036 1 525 1 5341 8571 \u2026 \u2026 8241 5471 \u2026 \u2026 5141",
+            "1321 3101 \u2026 5280 teertS niaMlen nockriK 5221 700 1 \u2026 918 0 ev irDdnalkriKml oholleK 2221 \u2026 \u2026 \u2026 vAnegrahwne lGm loholleK \u2026 \u2026 349 0 \u2026 teertShgiHrah uqnaS 5121 0001 \u2026 \u2026 esr evitluM kciwarC 1121 3590 0490 \u2026 tsrCsne euQra huqnaS 9021 9490 6390 \u2026 ertneChtla eHr ahuqnaS 8021 8490 539 0 3180 teertSh giHr ahuqnaS 5021 549 0 \u2026 018 0 kraPreeDrahuqnaS 8511 \u2026 8290 \u2026 kconneM 5411 \u2026 5190 \u2026 daehkcolnaW"
           ]
         },
         {
@@ -51,15 +56,10 @@
             "ELBATEMIT"
           ]
         }
-      ],
-      "headers": [
-        "",
-        "syadloohcsnoymedacArahuqnaSaivsetarepO",
-        "AS sedoC ot yeK ecivres yadnuS oN"
       ]
     }
   ],
-  "rawText": "#\n\nCILBUP\n\n| | syadloohcsnoymedacArahuqnaSaivsetarepO | AS sedoC ot yeK ecivres yadnuS oN |\n| --- | --- | --- |\n| | 5471 … … 3371 … … 6271 1261 5251 3271 816 1 2251 1271 … 0251 0271 5161 915 6171 1161 … 9071 4061 0151 6071 1061 7051 0071 5551 1051 | 3141 5411 5190 … daehk colnaW 1041 3311 209 0 … k conneM 4531 6211 … 0480 kraPre eDr ahuqnaS 1531 3211 8580 738 0 teertS hgiHra huqnaS 9431 1211 6580 … ertneC htlaeHra huqnaS 1 8431 0211 558 0 … tsrCsneeuQrah uqnaS 4431 6111 … … esrevitluM kciwarC 7331 9011 … … vAnegrah wnelGml oholleK 4331 6011 … 1380 evirDdna lkriKm loholleK 8231 0011 … 5280 teertSniaMlennockriK |\n| | | AS |\n| | … 8561 5451 1051 … 2561 045 1 5541 … 946 1 … 2541 618 1 … … … … 2461 … 5441 318 1 8361 … 1441 … 4361 … 9341 8081 3361 8251 8341 5081 036 1 525 1 5341 8571 … … 8241 5471 … … 5141 | 1321 3101 … 5280 teertS niaMlen nockriK 5221 700 1 … 918 0 ev irDdnalkriKml oholleK 2221 … … … vAnegrahwne lGm loholleK … … 349 0 … teertShgiHrah uqnaS 5121 0001 … … esr evitluM kciwarC 1121 3590 0490 … tsrCsne euQra huqnaS 9021 9490 6390 … ertneChtla eHr ahuqnaS 8021 8490 539 0 3180 teertSh giHr ahuqnaS 5021 549 0 … 018 0 kraPreeDrahuqnaS 8511 … 8290 … kconneM 5411 … 5190 … daehkcolnaW |\n| | AS | yadrutaS ot yadnoM |\n| | | |\n| | | ELBATEMIT |\n\nlennockriK ot daehkcolnaW 122 ecivreS\n\nlennockriKotdaehkcolnaW122\n\n#\n\nCILBUP\n",
+  "rawText": "#\n\nCILBUP\n\n| | syadloohcsnoymedacArahuqnaSaivsetarepO | AS sedoC ot yeK ecivres yadnuS oN |\n| --- | --- | --- |\n| | 5471 \u2026 \u2026 3371 \u2026 \u2026 6271 1261 5251 3271 816 1 2251 1271 \u2026 0251 0271 5161 915 6171 1161 \u2026 9071 4061 0151 6071 1061 7051 0071 5551 1051 | 3141 5411 5190 \u2026 daehk colnaW 1041 3311 209 0 \u2026 k conneM 4531 6211 \u2026 0480 kraPre eDr ahuqnaS 1531 3211 8580 738 0 teertS hgiHra huqnaS 9431 1211 6580 \u2026 ertneC htlaeHra huqnaS 1 8431 0211 558 0 \u2026 tsrCsneeuQrah uqnaS 4431 6111 \u2026 \u2026 esrevitluM kciwarC 7331 9011 \u2026 \u2026 vAnegrah wnelGml oholleK 4331 6011 \u2026 1380 evirDdna lkriKm loholleK 8231 0011 \u2026 5280 teertSniaMlennockriK |\n| | | AS |\n| | \u2026 8561 5451 1051 \u2026 2561 045 1 5541 \u2026 946 1 \u2026 2541 618 1 \u2026 \u2026 \u2026 \u2026 2461 \u2026 5441 318 1 8361 \u2026 1441 \u2026 4361 \u2026 9341 8081 3361 8251 8341 5081 036 1 525 1 5341 8571 \u2026 \u2026 8241 5471 \u2026 \u2026 5141 | 1321 3101 \u2026 5280 teertS niaMlen nockriK 5221 700 1 \u2026 918 0 ev irDdnalkriKml oholleK 2221 \u2026 \u2026 \u2026 vAnegrahwne lGm loholleK \u2026 \u2026 349 0 \u2026 teertShgiHrah uqnaS 5121 0001 \u2026 \u2026 esr evitluM kciwarC 1121 3590 0490 \u2026 tsrCsne euQra huqnaS 9021 9490 6390 \u2026 ertneChtla eHr ahuqnaS 8021 8490 539 0 3180 teertSh giHr ahuqnaS 5021 549 0 \u2026 018 0 kraPreeDrahuqnaS 8511 \u2026 8290 \u2026 kconneM 5411 \u2026 5190 \u2026 daehkcolnaW |\n| | AS | yadrutaS ot yadnoM |\n| | | |\n| | | ELBATEMIT |\n\nlennockriK ot daehkcolnaW 122 ecivreS\n\nlennockriKotdaehkcolnaW122\n\n#\n\nCILBUP\n",
   "ok": true,
   "error": null
 }

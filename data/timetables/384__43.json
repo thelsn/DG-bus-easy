@@ -8,6 +8,7 @@
   "sections": [
     {
       "title": "Monday to Friday",
+      "headers": [],
       "rows": [
         {
           "stop": "Debate",

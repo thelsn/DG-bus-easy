@@ -4,9 +4,158 @@
   "name": "79 - Dumfries - Carlisle - from 9 August 2025",
   "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/79-Dumfries-to-Carlisle-From-9th-August-2025.pdf",
   "extractedAt": "2026-09-11",
-  "title": "79 - Dumfries - Carlisle - from 9 August 2025",
-  "sections": [],
-  "rawText": "",
-  "ok": false,
-  "error": "404 Not Found"
+  "title": "Service 379 Gretna to Annan",
+  "sections": [
+    {
+      "title": "TIMETABLE",
+      "headers": [],
+      "rows": [
+        {
+          "stop": "Gretna, Caledonia Park",
+          "times": [
+            "0736",
+            "",
+            "0850",
+            "",
+            "1050",
+            "",
+            "1150",
+            "",
+            "1350",
+            "",
+            "1500",
+            ""
+          ]
+        },
+        {
+          "stop": "-",
+          "times": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "stop": "Gretna, Central Avenue",
+          "times": [
+            "0738",
+            "",
+            "0852",
+            "",
+            "1052",
+            "",
+            "1152",
+            "",
+            "1352",
+            "",
+            "1502",
+            ""
+          ]
+        },
+        {
+          "stop": "Annan, Butts Street (Stance 2)",
+          "times": [
+            "0756",
+            "",
+            "0910",
+            "",
+            "1110",
+            "",
+            "1210",
+            "",
+            "1410",
+            "",
+            "1520",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Monday to Saturday S",
+      "headers": [],
+      "rows": [
+        {
+          "stop": "Annan, Butts Street (Stance 2)",
+          "times": [
+            "0800",
+            "",
+            "0930",
+            "",
+            "1115",
+            "",
+            "1230",
+            "",
+            "1430",
+            "",
+            "1522",
+            ""
+          ]
+        },
+        {
+          "stop": "-",
+          "times": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "stop": "Gretna, Central Avenue",
+          "times": [
+            "0815",
+            "",
+            "0948",
+            "",
+            "1133",
+            "",
+            "1248",
+            "",
+            "1448",
+            "",
+            "1538",
+            ""
+          ]
+        },
+        {
+          "stop": "Gretna, Caledonia Park",
+          "times": [
+            "0820",
+            "",
+            "0950",
+            "",
+            "1135",
+            "",
+            "1250",
+            "",
+            "1450",
+            "",
+            "1540",
+            ""
+          ]
+        }
+      ]
+    }
+  ],
+  "rawText": "Local Bus Tender PUBLIC # 379 Gretna to Annan\n\nService 379 Gretna to Annan\n\nTIMETABLE\n\n| Gretna, Caledonia Park | 0736 | | 0850 | | 1050 | | 1150 | | 1350 | | 1500 | |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Gretna, Central Avenue | 0738 | | 0852 | | 1052 | | 1152 | | 1352 | | 1502 | |\n| Annan, Butts Street (Stance 2) | 0756 | | 0910 | | 1110 | | 1210 | | 1410 | | 1520 | |\n\nMonday to Saturday S \nGretna, Caledonia Park 0736 0850 1050 1150 1350 1500 \nGretna, Central Avenue 0738 0852 1052 1152 1352 1502 \nAnnan, Butts Street (Stance 2) 0756 0910 1110 1210 1410 1520 \nS \nAnnan, Butts Street (Stance 2) 0800 0930 1115 1230 1430 1522 \nGretna, Central Avenue 0815 0948 1133 1248 1448 1538 \nGretna, Caledonia Park 0820 0950 1135 1250 1450 1540 \n\n| Annan, Butts Street (Stance 2) | 0800 | | 0930 | | 1115 | | 1230 | | 1430 | | 1522 | |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Gretna, Central Avenue | 0815 | | 0948 | | 1133 | | 1248 | | 1448 | | 1538 | |\n| Gretna, Caledonia Park | 0820 | | 0950 | | 1135 | | 1250 | | 1450 | | 1540 | |\n\nNo Sunday service\n\nKey to codes S Saturday only\n\n# PUBLIC\n",
+  "ok": true,
+  "error": null
 }

@@ -8,6 +8,7 @@
   "sections": [
     {
       "title": "Alternate Thursdays Only - to Castle Douglas",
+      "headers": [],
       "rows": [
         {
           "stop": "Moniaive",
@@ -55,6 +56,7 @@
     },
     {
       "title": "Alternate Thursdays Only - to Moniaive",
+      "headers": [],
       "rows": [
         {
           "stop": "Castle Douglas",

@@ -8,6 +8,7 @@
   "sections": [
     {
       "title": "TIMETABLE",
+      "headers": [],
       "rows": [
         {
           "stop": "Gretna, Caledonia Park",
@@ -81,6 +82,7 @@
     },
     {
       "title": "Monday to Saturday S",
+      "headers": [],
       "rows": [
         {
           "stop": "Annan, Butts Street (Stance 2)",

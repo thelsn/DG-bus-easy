@@ -8,6 +8,11 @@
   "sections": [
     {
       "title": "Service 127 Langholm to Newcastleton",
+      "headers": [
+        "TIMETABLE",
+        "",
+        ""
+      ],
       "rows": [
         {
           "stop": "-",
@@ -30,11 +35,6 @@
             ""
           ]
         }
-      ],
-      "headers": [
-        "TIMETABLE",
-        "",
-        ""
       ]
     }
   ],

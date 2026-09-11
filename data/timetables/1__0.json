@@ -4,9 +4,142 @@
   "name": "1 - 1a - Dumfries Town Centre - Locharbriggs - Heathhall - from 7 August",
   "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/D1-D1a%20Dumfries%20Town%20Centre%20to%20Locharbriggs%20to%20Heathhall%20-%20From%207th%20August%202025%20%281%29.pdf",
   "extractedAt": "2026-09-11",
-  "title": "1 - 1a - Dumfries Town Centre - Locharbriggs - Heathhall - from 7 August",
-  "sections": [],
-  "rawText": "",
-  "ok": false,
-  "error": "404 Not Found"
+  "title": "Service 516 Castle Douglas to Auchencairn",
+  "sections": [
+    {
+      "title": "Monday to Friday",
+      "headers": [],
+      "rows": [
+        {
+          "stop": "Castle Douglas, Health Centre",
+          "times": [
+            "0910",
+            "1215",
+            "1410",
+            ""
+          ]
+        },
+        {
+          "stop": "Castle Douglas, Tesco Road End",
+          "times": [
+            "0912",
+            "1217",
+            "1412",
+            ""
+          ]
+        },
+        {
+          "stop": "Castle Douglas, Swimming Pool",
+          "times": [
+            "0914",
+            "1219",
+            "1414",
+            "1602"
+          ]
+        },
+        {
+          "stop": "Castle Douglas, Carlingwark Street",
+          "times": [
+            "0919",
+            "1224",
+            "1419",
+            "1607"
+          ]
+        },
+        {
+          "stop": "Gelston Road End",
+          "times": [
+            "0924",
+            "1229",
+            "1424",
+            "1612"
+          ]
+        },
+        {
+          "stop": "Gelston Village 0925RR 1230RR 1425RR 1613 Auchencairn, Glebe Crescent",
+          "times": [
+            "0939",
+            "1244",
+            "1439",
+            "1629"
+          ]
+        },
+        {
+          "stop": "Auchencairn, Fountain",
+          "times": [
+            "0940",
+            "1245",
+            "1440",
+            "1630"
+          ]
+        },
+        {
+          "stop": "Auchencairn, Fountain",
+          "times": [
+            "0940",
+            "1245",
+            "1440",
+            ""
+          ]
+        },
+        {
+          "stop": "Palnackie",
+          "times": [
+            "0946",
+            "1251",
+            "1446",
+            ""
+          ]
+        },
+        {
+          "stop": "Gelston Village",
+          "times": [
+            "0956",
+            "1301",
+            "1456",
+            ""
+          ]
+        },
+        {
+          "stop": "Gelston Road End",
+          "times": [
+            "0957",
+            "1302",
+            "1457",
+            ""
+          ]
+        },
+        {
+          "stop": "Castle Douglas, Market Street",
+          "times": [
+            "1005",
+            "1311",
+            "1505",
+            ""
+          ]
+        },
+        {
+          "stop": "Castle Douglas, Tesco Road End",
+          "times": [
+            "1008",
+            "1313",
+            "1508",
+            ""
+          ]
+        },
+        {
+          "stop": "Castle Douglas, Health Centre",
+          "times": [
+            "1010",
+            "1315",
+            "1510",
+            ""
+          ]
+        }
+      ]
+    }
+  ],
+  "rawText": "PUBLIC #\n\nService 516 Castle Douglas to Auchencairn\n\nTIMETABLE\n\nMonday to Friday Castle Douglas, Health Centre 0910 1215 1410 ... Castle Douglas, Tesco Road End 0912 1217 1412 ... Castle Douglas, Swimming Pool 0914 1219 1414 1602 Castle Douglas, Carlingwark Street 0919 1224 1419 1607 Gelston Road End 0924 1229 1424 1612 Gelston Village 0925RR 1230RR 1425RR 1613 Auchencairn, Glebe Crescent 0939 1244 1439 1629 Auchencairn, Fountain 0940 1245 1440 1630\n\nAuchencairn, Fountain 0940 1245 1440 ... \nPalnackie 0946 1251 1446 ... \nGelston Village 0956 1301 1456 ... \nGelston Road End 0957 1302 1457 ... \nCastle Douglas, Market Street 1005 1311 1505 ... \nCastle Douglas, Tesco Road End 1008 1313 1508 ... \nCastle Douglas, Health Centre 1010 1315 1510 ... \n\nNo Saturday or Sunday Service RR Runs on Request to the Driver\n\n# PUBLIC\n",
+  "ok": true,
+  "error": null
 }

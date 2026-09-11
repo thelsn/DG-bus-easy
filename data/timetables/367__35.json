@@ -8,6 +8,33 @@
   "sections": [
     {
       "title": "TIMETABLE",
+      "headers": [
+        "Monday to Saturday",
+        "",
+        "",
+        "NS",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "NS",
+        "",
+        "SD",
+        "",
+        "SSH",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
       "rows": [
         {
           "stop": "-",
@@ -415,37 +442,11 @@
             ""
           ]
         }
-      ],
-      "headers": [
-        "Monday to Saturday",
-        "",
-        "",
-        "NS",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "NS",
-        "",
-        "SD",
-        "",
-        "SSH",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
       ]
     },
     {
       "title": "Timetable",
+      "headers": [],
       "rows": [
         {
           "stop": "Stranraer, Port Rodie",
