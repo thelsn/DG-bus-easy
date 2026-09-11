@@ -1,0 +1,117 @@
+{
+  "key": "3::1",
+  "id": "3",
+  "name": "3 - Dumfries Town Centre to Georgetown - from 7 August 2025",
+  "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/3%20Dumfries%20Town%20Centre%20to%20Georgetown%20-%20From%207th%20August%202025.pdf",
+  "extractedAt": "2026-09-11",
+  "title": "Service 3 Dumfries Town Centre to Georgetown",
+  "sections": [
+    {
+      "title": "Monday to Saturday",
+      "headers": [],
+      "rows": [
+        {
+          "stop": "Dumfries Great King St",
+          "times": [
+            "0705",
+            "0835",
+            "0935",
+            "1050",
+            "1205",
+            "1320",
+            "1435",
+            "1550",
+            "1705"
+          ]
+        },
+        {
+          "stop": "Dumfries DG One Stance D",
+          "times": [
+            "0707",
+            "0837",
+            "0937",
+            "1052",
+            "1207",
+            "1322",
+            "1437",
+            "1552",
+            "1707"
+          ]
+        },
+        {
+          "stop": "Dumfries Moreig Hotel",
+          "times": [
+            "0709",
+            "0839",
+            "0939",
+            "1054",
+            "1209",
+            "1324",
+            "1439",
+            "1554",
+            "1709"
+          ]
+        },
+        {
+          "stop": "Georgetown Carthagena Pl",
+          "times": [
+            "0718",
+            "0849",
+            "0948",
+            "1103",
+            "1218",
+            "1333",
+            "1448",
+            "1603",
+            "1718"
+          ]
+        },
+        {
+          "stop": "Georgetown Mosspark Cres",
+          "times": [
+            "0721",
+            "0851",
+            "0951",
+            "1106",
+            "1221",
+            "1336",
+            "1451",
+            "1606",
+            "1721"
+          ]
+        },
+        {
+          "stop": "Dumfries Moreig Hotel",
+          "times": [
+            "0726",
+            "0856",
+            "0956",
+            "1111",
+            "1226",
+            "1341",
+            "1456",
+            "1611",
+            "1726"
+          ]
+        },
+        {
+          "stop": "Dumfries Great King St",
+          "times": [
+            "0739",
+            "0909",
+            "1009",
+            "1124",
+            "1239",
+            "1354",
+            "1509",
+            "1624",
+            "1739"
+          ]
+        }
+      ]
+    }
+  ],
+  "rawText": "PUBLIC # 3 Dumfries Town Centre to Georgetown\n\nService 3 Dumfries Town Centre to Georgetown\n\nTIMETABLE\n\nMonday to Saturday NS Dumfries Great King St 0705 0835 0935 1050 1205 1320 1435 1550 1705 Dumfries DG One Stance D 0707 0837 0937 1052 1207 1322 1437 1552 1707 Dumfries Moreig Hotel 0709 0839 0939 1054 1209 1324 1439 1554 1709 Georgetown Carthagena Pl 0718 0849 0948 1103 1218 1333 1448 1603 1718 Georgetown Mosspark Cres 0721 0851 0951 1106 1221 1336 1451 1606 1721 Dumfries Moreig Hotel 0726 0856 0956 1111 1226 1341 1456 1611 1726 Dumfries Great King St 0739 0909 1009 1124 1239 1354 1509 1624 1739\n\nNo Sunday Service\n\nKey to Codes NS Not Saturday\n\n# PUBLIC\n",
+  "ok": true,
+  "error": null
+}

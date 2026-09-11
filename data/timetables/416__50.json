@@ -1,0 +1,275 @@
+{
+  "key": "416::50",
+  "id": "416",
+  "name": "416 - Newton Stewart to Stranraer - From 7 August 2025",
+  "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-08/416-Newton-Stewart-to-Stranraer-From-7_August_2025.pdf",
+  "extractedAt": "2026-09-11",
+  "title": "Service 416 Newton Stewart to Stranraer",
+  "sections": [
+    {
+      "title": "Monday to Saturday",
+      "headers": [],
+      "rows": [
+        {
+          "stop": "Newton Stewart, Dashwood Sq",
+          "times": [
+            "0700",
+            "-"
+          ]
+        },
+        {
+          "stop": "Wigtown",
+          "times": [
+            "0713",
+            "-"
+          ]
+        },
+        {
+          "stop": "Kirkinner",
+          "times": [
+            "0717",
+            "-"
+          ]
+        },
+        {
+          "stop": "Garlieston",
+          "times": [
+            "0726",
+            "-"
+          ]
+        },
+        {
+          "stop": "Sorbie",
+          "times": [
+            "0730",
+            "-"
+          ]
+        },
+        {
+          "stop": "Whithorn",
+          "times": [
+            "0737",
+            "-"
+          ]
+        },
+        {
+          "stop": "Isle of Whithorn",
+          "times": [
+            "0744",
+            "-"
+          ]
+        },
+        {
+          "stop": "Monrieth",
+          "times": [
+            "0757",
+            "-"
+          ]
+        },
+        {
+          "stop": "Port William",
+          "times": [
+            "0802",
+            "1015",
+            "1355"
+          ]
+        },
+        {
+          "stop": "Garheugh",
+          "times": [
+            "0815",
+            "1028",
+            "1408"
+          ]
+        },
+        {
+          "stop": "Auchenmalg",
+          "times": [
+            "0820",
+            "1033",
+            "1413"
+          ]
+        },
+        {
+          "stop": "Glenluce",
+          "times": [
+            "0829",
+            "1042",
+            "1422"
+          ]
+        },
+        {
+          "stop": "Dunragit",
+          "times": [
+            "0835",
+            "1048",
+            "1428"
+          ]
+        },
+        {
+          "stop": "Castle Kennedy",
+          "times": [
+            "0840",
+            "1052",
+            "1432"
+          ]
+        },
+        {
+          "stop": "Stranraer, John Niven Centre",
+          "times": [
+            "0845",
+            "1103",
+            "1443"
+          ]
+        },
+        {
+          "stop": "Stranraer, Port Rodie",
+          "times": [
+            "0850",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "stop": "Stranraer, John Niven Centre",
+          "times": [
+            "-",
+            "-",
+            "1700"
+          ]
+        },
+        {
+          "stop": "Stranraer, Charlotte Street",
+          "times": [
+            "0920",
+            "1300",
+            "1704"
+          ]
+        },
+        {
+          "stop": "Stranraer, Port Rodie",
+          "times": [
+            "0925",
+            "1305",
+            "1709"
+          ]
+        },
+        {
+          "stop": "Castle Kennedy",
+          "times": [
+            "0931",
+            "1311",
+            "1715"
+          ]
+        },
+        {
+          "stop": "Dunragit",
+          "times": [
+            "0936",
+            "1316",
+            "1720"
+          ]
+        },
+        {
+          "stop": "Glenluce",
+          "times": [
+            "0941",
+            "1321",
+            "1725"
+          ]
+        },
+        {
+          "stop": "Auchenmalg",
+          "times": [
+            "0950",
+            "1330",
+            "1734"
+          ]
+        },
+        {
+          "stop": "Garheugh",
+          "times": [
+            "0955",
+            "1335",
+            "1739"
+          ]
+        },
+        {
+          "stop": "Port William",
+          "times": [
+            "1005",
+            "1345",
+            "1750"
+          ]
+        },
+        {
+          "stop": "Monrieth",
+          "times": [
+            "-",
+            "-",
+            "1755"
+          ]
+        },
+        {
+          "stop": "Isle of Whithorn",
+          "times": [
+            "-",
+            "-",
+            "1810"
+          ]
+        },
+        {
+          "stop": "Whithorn",
+          "times": [
+            "-",
+            "-",
+            "1818"
+          ]
+        },
+        {
+          "stop": "Sorbie",
+          "times": [
+            "-",
+            "-",
+            "1828"
+          ]
+        },
+        {
+          "stop": "Garlieston",
+          "times": [
+            "-",
+            "-",
+            "1835"
+          ]
+        },
+        {
+          "stop": "Kirkinner",
+          "times": [
+            "-",
+            "-",
+            "1848"
+          ]
+        },
+        {
+          "stop": "Wigtown",
+          "times": [
+            "-",
+            "-",
+            "1856"
+          ]
+        },
+        {
+          "stop": "Newton Stewart, Dashwood Sq",
+          "times": [
+            "-",
+            "-",
+            "1910"
+          ]
+        }
+      ]
+    }
+  ],
+  "rawText": "PUBLIC # 416 Newton Stewart to Stranraer\n\nService 416 Newton Stewart to Stranraer\n\nTIMETABLE\n\nMonday to Saturday Newton Stewart, Dashwood Sq 0700 - -Wigtown 0713 - -Kirkinner 0717 - -Garlieston 0726 - -Sorbie 0730 - -Whithorn 0737 - -Isle of Whithorn 0744 - -Monrieth 0757 - -Port William 0802 1015 1355 Garheugh 0815 1028 1408 Auchenmalg 0820 1033 1413 Glenluce 0829 1042 1422 Dunragit 0835 1048 1428 Castle Kennedy 0840 1052 1432 Stranraer, John Niven Centre 0845 1103 1443 Stranraer, Port Rodie 0850 - -\n\nStranraer, John Niven Centre - - 1700 \nStranraer, Charlotte Street 0920 1300 1704 \nStranraer, Port Rodie 0925 1305 1709 \nCastle Kennedy 0931 1311 1715 \nDunragit 0936 1316 1720 \nGlenluce 0941 1321 1725 \nAuchenmalg 0950 1330 1734 \nGarheugh 0955 1335 1739 \nPort William 1005 1345 1750 \nMonrieth - - 1755 \nIsle of Whithorn - - 1810 \nWhithorn - - 1818 \nSorbie - - 1828 \nGarlieston - - 1835 \nKirkinner - - 1848 \nWigtown - - 1856 \nNewton Stewart, Dashwood Sq - - 1910 \n\nNo Sunday Service\n\n# PUBLIC\n",
+  "ok": true,
+  "error": null
+}

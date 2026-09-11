@@ -1,0 +1,189 @@
+{
+  "key": "385::44",
+  "id": "385",
+  "name": "385 - Dumfries to Annan - from 7 August",
+  "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/385%20Dumfries%20to%20Annan%20-%20From%207th%20August%202025.pdf",
+  "extractedAt": "2026-09-11",
+  "title": "385 - Dumfries to Annan - from 7 August",
+  "sections": [
+    {
+      "title": "Timetable",
+      "headers": [],
+      "rows": [
+        {
+          "stop": "CILBUP syadloohcsnoegelloCshpesoJtSaivsetarepO JS sedoC ot yeK ecivres yadnuS oN",
+          "times": [
+            "8071",
+            "2531",
+            "2501",
+            "0480"
+          ]
+        },
+        {
+          "stop": "sdn asetihW,s eirfmuD",
+          "times": [
+            "3071",
+            "7431",
+            "7401",
+            "8380"
+          ]
+        },
+        {
+          "stop": "ertneCenru beroL,s eirfmuD",
+          "times": [
+            "0071",
+            "4431",
+            "4401",
+            "5380"
+          ]
+        },
+        {
+          "stop": "daoR dleifaeL,s eirfmuD",
+          "times": [
+            "7361",
+            "1431",
+            "1401",
+            "2380"
+          ]
+        },
+        {
+          "stop": "gninaoLggirnwo rB,seir fmuD",
+          "times": [
+            "0361",
+            "4331",
+            "4301",
+            "0280"
+          ]
+        },
+        {
+          "stop": "daoRnacuoR,nilloC",
+          "times": [
+            "7161",
+            "2231",
+            "2201",
+            "8080"
+          ]
+        },
+        {
+          "stop": "nwotsrehturraC",
+          "times": [
+            "1361",
+            "6131",
+            "6101",
+            "1080"
+          ]
+        },
+        {
+          "stop": "notlaD",
+          "times": [
+            "3261",
+            "8031",
+            "8001",
+            "3570"
+          ]
+        },
+        {
+          "stop": "tnu omniK",
+          "times": [
+            "5161",
+            "0031",
+            "0001"
+          ]
+        },
+        {
+          "stop": "teertSsttuB,n annA",
+          "times": [
+            "-",
+            "-",
+            "-",
+            "8370"
+          ]
+        },
+        {
+          "stop": "enaladnatS,nannA JS",
+          "times": [
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "stop": "enaladn atS, nannA",
+          "times": [
+            "0381",
+            "5161",
+            "9421",
+            "9490"
+          ]
+        },
+        {
+          "stop": "teertSsttuB,nannA",
+          "times": [
+            "2281",
+            "5061",
+            "1421",
+            "1490"
+          ]
+        },
+        {
+          "stop": "tnuomniK",
+          "times": [
+            "4181",
+            "5351",
+            "3321",
+            "3390"
+          ]
+        },
+        {
+          "stop": "notlaD",
+          "times": [
+            "8081",
+            "8251",
+            "7221",
+            "7290"
+          ]
+        },
+        {
+          "stop": "nw otsreht urraC",
+          "times": [
+            "5571",
+            "5151",
+            "5121",
+            "5190"
+          ]
+        },
+        {
+          "stop": "d aoRnacuo R,nilloC",
+          "times": [
+            "5471",
+            "8251",
+            "8021",
+            "8090"
+          ]
+        },
+        {
+          "stop": "gninaoLggirnwor B,s eirfmuD",
+          "times": [
+            "1471",
+            "5251",
+            "5021",
+            "5090"
+          ]
+        },
+        {
+          "stop": "enOGD,s eirfmuD",
+          "times": [
+            "5371",
+            "0251",
+            "0021",
+            "0090"
+          ]
+        }
+      ]
+    }
+  ],
+  "rawText": "#\n\nCILBUP\n\nsyadloohcsnoegelloCshpesoJtSaivsetarepO JS sedoC ot yeK\n\necivres yadnuS oN\n\n8071 2531 2501 0480 sdn asetihW,s eirfmuD 3071 7431 7401 8380 ertneCenru beroL,s eirfmuD 0071 4431 4401 5380 daoR dleifaeL,s eirfmuD 7361 1431 1401 2380 gninaoLggirnwo rB,seir fmuD 0361 4331 4301 0280 daoRnacuoR,nilloC 7161 2231 2201 8080 nwotsrehturraC 1361 6131 6101 1080 notlaD 3261 8031 8001 3570 tnu omniK 5161 0031 0001 5 470 teertSsttuB,n annA - - - 8370 enaladnatS,nannA JS\n\n- - - - enaladn atS, nannA 0381 5161 9421 9490 teertSsttuB,nannA 2281 5061 1421 1490 tnuomniK 4181 5351 3321 3390 notlaD 8081 8251 7221 7290 nw otsreht urraC 5571 5151 5121 5190 d aoRnacuo R,nilloC 5471 8251 8021 8090 gninaoLggirnwor B,s eirfmuD 1471 5251 5021 5090 enOGD,s eirfmuD 5371 0251 0021 0090 sdn asetihW,seirfmuD JS yadrutaS ot yadnoM\n\nELBATEMIT\n\nnannA ot seirfmuD 583 ecivreS nannA ot # seirfmuD 583 CILBUP\n",
+  "ok": true,
+  "error": null
+}

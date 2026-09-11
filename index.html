@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>DG Buses</title>
+  <meta name="description" content="Dumfries and Galloway bus timetables from official council PDFs." />
+  <meta name="theme-color" content="#5b2c86" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="top">
+    <div class="wrap">
+      <h1>DG Buses</h1>
+      <p class="sub">Official D&amp;G Council timetables</p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <div class="controls">
+      <input id="search" type="search" placeholder="Search bus or place" autocomplete="off" />
+      <div id="groupChips" class="chips"></div>
+      <label class="check"><input type="checkbox" id="favOnly" /> Favourites only</label>
+    </div>
+
+    <p id="listStatus" class="msg"></p>
+    <ul id="serviceList" class="list"></ul>
+
+    <section id="emptyState" class="box">
+      <p>Tap a bus to see the timetable.</p>
+    </section>
+
+    <section id="detail" class="box hidden">
+      <div class="detail-top">
+        <div>
+          <div id="detailBadge" class="badge"></div>
+          <h2 id="detailTitle"></h2>
+          <p id="detailMeta" class="msg"></p>
+        </div>
+        <div class="actions">
+          <button id="favBtn" type="button">☆ Favourite</button>
+          <a id="pdfLink" href="#" target="_blank" rel="noopener">Open PDF</a>
+        </div>
+      </div>
+      <p id="parseStatus" class="msg"></p>
+      <div id="timetable"></div>
+    </section>
+  </main>
+
+  <footer class="foot wrap">
+    <p>
+      PDFs from
+      <a href="https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-1-95-7-august-2025" target="_blank" rel="noopener">Dumfries and Galloway Council</a>.
+      Favourites saved on this phone only.
+    </p>
+  </footer>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>

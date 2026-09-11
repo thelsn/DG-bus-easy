@@ -1,0 +1,258 @@
+{
+  "key": "236::31",
+  "id": "236",
+  "name": "236 - Dumfries to Kirkton to Thornhill - from 7 August",
+  "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/236%20Dumfries%20to%20Kirkton%20to%20Thornhill%20-%20From%207th%20August%202025%20%281%29.pdf",
+  "extractedAt": "2026-09-11",
+  "title": "Service 236 Dumfries to Kirkton to Thornhill",
+  "sections": [
+    {
+      "title": "Monday to Saturday",
+      "headers": [],
+      "rows": [
+        {
+          "stop": "SD SD Dumfries, Whitesands",
+          "times": [
+            "0715",
+            "0755",
+            "1100",
+            "1250",
+            "1440",
+            "1500",
+            "1740"
+          ]
+        },
+        {
+          "stop": "Kirkton",
+          "times": [
+            "",
+            "0808",
+            "1113",
+            "1303",
+            "1453",
+            "",
+            "1753"
+          ]
+        },
+        {
+          "stop": "Duncow",
+          "times": [
+            "",
+            "0811",
+            "1116",
+            "1306",
+            "1456",
+            "",
+            "1756"
+          ]
+        },
+        {
+          "stop": "Dalswinton",
+          "times": [
+            "",
+            "0815",
+            "1121",
+            "1311",
+            "1501",
+            "",
+            "1801"
+          ]
+        },
+        {
+          "stop": "Auldgirth",
+          "times": [
+            "0730",
+            "0820",
+            "1125",
+            "1315",
+            "1505",
+            "1515",
+            "1805"
+          ]
+        },
+        {
+          "stop": "Burnhead",
+          "times": [
+            "",
+            "0830",
+            "1135",
+            "1325",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Closeburn",
+          "times": [
+            "",
+            "0835",
+            "",
+            "1335",
+            "1515",
+            "",
+            "1815"
+          ]
+        },
+        {
+          "stop": "Thornhill",
+          "times": [
+            "0735",
+            "0845",
+            "",
+            "1340",
+            "1525",
+            "",
+            "1820"
+          ]
+        },
+        {
+          "stop": "Wallace Hall",
+          "times": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Penpont",
+          "times": [
+            "0745",
+            "0900",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "RR WA SD SD Penpont",
+          "times": [
+            "0745",
+            "0918",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Wallace Hall",
+          "times": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "1530",
+            ""
+          ]
+        },
+        {
+          "stop": "Thornhill",
+          "times": [
+            "0752",
+            "0925",
+            "",
+            "1350",
+            "",
+            "1532",
+            "1830"
+          ]
+        },
+        {
+          "stop": "Closeburn",
+          "times": [
+            "0757",
+            "0930",
+            "",
+            "1355",
+            "",
+            "1537",
+            "1838"
+          ]
+        },
+        {
+          "stop": "Burnhead",
+          "times": [
+            "",
+            "0938",
+            "1135",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Auldgirth",
+          "times": [
+            "0803",
+            "0945",
+            "1140",
+            "1405",
+            "1515",
+            "1545",
+            "1845"
+          ]
+        },
+        {
+          "stop": "Dalswinton",
+          "times": [
+            "0808",
+            "0950",
+            "1145",
+            "1410",
+            "1520",
+            "1549",
+            ""
+          ]
+        },
+        {
+          "stop": "Duncow",
+          "times": [
+            "0812",
+            "0954",
+            "1149",
+            "1414",
+            "1524",
+            "1554",
+            ""
+          ]
+        },
+        {
+          "stop": "Kirkton",
+          "times": [
+            "0816",
+            "0958",
+            "1153",
+            "1418",
+            "1528",
+            "1558",
+            ""
+          ]
+        },
+        {
+          "stop": "Dumfries, Whitesands",
+          "times": [
+            "0830",
+            "1010",
+            "1205",
+            "1430",
+            "1540",
+            "1613",
+            "1855"
+          ]
+        }
+      ]
+    }
+  ],
+  "rawText": "Local Bus Tender PUBLIC # 236 Dumfries to Kirkton to Thornhill\n\nService 236 Dumfries to Kirkton to Thornhill\n\nTIMETABLE\n\nWA \nMonday to Saturday SD SD \nDumfries, Whitesands 0715 0755 1100 1250 1440 1500 1740 \nKirkton ... 0808 1113 1303 1453 ... 1753 \nDuncow ... 0811 1116 1306 1456 ... 1756 \nDalswinton ... 0815 1121 1311 1501 ... 1801 \nAuldgirth 0730 0820 1125 1315 1505 1515 1805 \nBurnhead ... 0830 1135 1325 ... ... ... \nCloseburn ... 0835 ... 1335 1515 ... 1815 \nThornhill 0735 0845 ... 1340 1525 ... 1820 \nWallace Hall ... ... ... ... ... ... ... \nPenpont 0745 0900 ... ... ... ... RR \nWA \nSD SD \nPenpont 0745 0918 ... ... ... ... ... \nWallace Hall ... ... ... ... ... 1530 ... \nThornhill 0752 0925 ... 1350 ... 1532 1830 \nCloseburn 0757 0930 ... 1355 ... 1537 1838 \nBurnhead ... 0938 1135 ... ... ... ... \nAuldgirth 0803 0945 1140 1405 1515 1545 1845 \nDalswinton 0808 0950 1145 1410 1520 1549 ... \nDuncow 0812 0954 1149 1414 1524 1554 ... \nKirkton 0816 0958 1153 1418 1528 1558 ... \nDumfries, Whitesands 0830 1010 1205 1430 1540 1613 1855 \n\nNo Sunday Service\n\nKey to Codes SD School Days only Runs on Request to the Driver RR WA Operates to/from Wallace Hall Academy on schooldays\n\n# PUBLIC\n",
+  "ok": true,
+  "error": null
+}

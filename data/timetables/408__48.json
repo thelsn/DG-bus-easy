@@ -1,0 +1,178 @@
+{
+  "key": "408::48",
+  "id": "408",
+  "name": "408 - Stranraer to Kirkcolm - from 7 August 2025",
+  "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/408%20Stranraer%20to%20Kirkcolm%20-%20From%207th%20August%202025%20%281%29.pdf",
+  "extractedAt": "2026-09-11",
+  "title": "OFFICIAL",
+  "sections": [
+    {
+      "title": "Monday to Saturday",
+      "headers": [],
+      "rows": [
+        {
+          "stop": "SD Stranraer Academy",
+          "times": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "1530"
+          ]
+        },
+        {
+          "stop": "Stranraer, Port Rodie",
+          "times": [
+            "0750",
+            "1010",
+            "1150",
+            "1410",
+            "1535",
+            "1720"
+          ]
+        },
+        {
+          "stop": "Stranraer, Cross",
+          "times": [
+            "0752",
+            "1012",
+            "1152",
+            "1412",
+            "1537",
+            "1722"
+          ]
+        },
+        {
+          "stop": "Leswalt",
+          "times": [
+            "0759",
+            "1019",
+            "1159",
+            "1419",
+            "1544",
+            "1729"
+          ]
+        },
+        {
+          "stop": "Kirkcolm, Bayview Terrace",
+          "times": [
+            "0809",
+            "1029",
+            "1209",
+            "1429",
+            "1554",
+            "1739"
+          ]
+        },
+        {
+          "stop": "Kirkcolm, Bowls Club",
+          "times": [
+            "0810",
+            "1030",
+            "1210",
+            "1430",
+            "1555",
+            "1740"
+          ]
+        },
+        {
+          "stop": "Ardwell Shop",
+          "times": [
+            "0815",
+            "-",
+            "-",
+            "-",
+            "1600",
+            "-"
+          ]
+        },
+        {
+          "stop": "SD SH SD Ardwell Shop",
+          "times": [
+            "0815",
+            "0815",
+            "-",
+            "-",
+            "-",
+            "1602"
+          ]
+        },
+        {
+          "stop": "Kirkcolm, Bowls Club",
+          "times": [
+            "0820",
+            "0820",
+            "1030",
+            "1212",
+            "1432",
+            "1607",
+            "1742"
+          ]
+        },
+        {
+          "stop": "Kirkcolm, Main Street",
+          "times": [
+            "0822",
+            "0822",
+            "1032",
+            "1214",
+            "1434",
+            "1609",
+            "1744"
+          ]
+        },
+        {
+          "stop": "Leswalt",
+          "times": [
+            "0830",
+            "0830",
+            "1040",
+            "1222",
+            "1442",
+            "1617",
+            "1752"
+          ]
+        },
+        {
+          "stop": "Stranraer, Charlotte St",
+          "times": [
+            "-",
+            "-",
+            "1047",
+            "1230",
+            "1450",
+            "-",
+            "1800"
+          ]
+        },
+        {
+          "stop": "Stranraer, Port Rodie",
+          "times": [
+            "0840",
+            "0840",
+            "1050",
+            "1232",
+            "1452",
+            "1627",
+            "1802"
+          ]
+        },
+        {
+          "stop": "Stranraer Academy",
+          "times": [
+            "0842",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        }
+      ]
+    }
+  ],
+  "rawText": "408 Stranraer to Kirkcolm\n\nService 408 Stranraer to Kirkcolm\n\nTIMETABLE\n\nMonday to Saturday NS SD Stranraer Academy - - - - 1530 -Stranraer, Port Rodie 0750 1010 1150 1410 1535 1720 Stranraer, Cross 0752 1012 1152 1412 1537 1722 Leswalt 0759 1019 1159 1419 1544 1729 Kirkcolm, Bayview Terrace 0809 1029 1209 1429 1554 1739 Kirkcolm, Bowls Club 0810 1030 1210 1430 1555 1740 Ardwell Shop 0815 - - - 1600 -\n\nSD SH SD Ardwell Shop 0815 0815 - - - 1602 -Kirkcolm, Bowls Club 0820 0820 1030 1212 1432 1607 1742 Kirkcolm, Main Street 0822 0822 1032 1214 1434 1609 1744 Leswalt 0830 0830 1040 1222 1442 1617 1752 Stranraer, Charlotte St - - 1047 1230 1450 - 1800 Stranraer, Port Rodie 0840 0840 1050 1232 1452 1627 1802 Stranraer Academy 0842 - - - - - -\n\nNo Sunday Service\n\nKey to Codes NS Not Saturdays SD Operates on schooldays only SH Operates on Monday to Friday school holidays only\n\n#OFFICIAL\n",
+  "ok": true,
+  "error": null
+}

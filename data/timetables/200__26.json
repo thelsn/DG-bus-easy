@@ -1,0 +1,54 @@
+{
+  "key": "200::26",
+  "id": "200",
+  "name": "200 - Thornhill to Durisdeer - from 7 August",
+  "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-08/200-Thornhill-to-Durisdeer-From-7th-August-2025.pdf",
+  "extractedAt": "2026-09-11",
+  "title": "OFFICIAL",
+  "sections": [
+    {
+      "title": "Monday to Friday",
+      "headers": [],
+      "rows": [
+        {
+          "stop": "Thornhill, Cross",
+          "times": [
+            "1000",
+            "1415"
+          ]
+        },
+        {
+          "stop": "Carronbridge",
+          "times": [
+            "1003",
+            "1418"
+          ]
+        },
+        {
+          "stop": "Durisdeer Mill",
+          "times": [
+            "1015",
+            "1430"
+          ]
+        },
+        {
+          "stop": "Durisdeer",
+          "times": [
+            "1020",
+            "1435"
+          ]
+        },
+        {
+          "stop": "Thornhill, Cross",
+          "times": [
+            "1030",
+            "1445"
+          ]
+        }
+      ]
+    }
+  ],
+  "rawText": "200 Thornhill to Durisdeer\n\nService 200 Thornhill to Durisdeer\n\nTIMETABLE\n\nMonday to Friday \nThornhill, Cross 1000 1415 \nCarronbridge 1003 1418 \nDurisdeer Mill 1015 1430 \nDurisdeer 1020 1435 \nThornhill, Cross 1030 1445 \n\nNo Saturday or Sunday Service\n\n# OFFICIAL\n",
+  "ok": true,
+  "error": null
+}

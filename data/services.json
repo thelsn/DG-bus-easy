@@ -1,0 +1,738 @@
+{
+  "updated": "2025-08-10",
+  "note": "Official D&G Council bus PDF listings",
+  "sourcePages": [
+    "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-1-95-7-august-2025",
+    "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-101-127-7-august-2025",
+    "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-200-246-7-august-2025",
+    "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-358-390-7-august-2025",
+    "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-407-431-7-august-2025",
+    "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-500-555-7-august-2025"
+  ],
+  "services": [
+    {
+      "id": "1",
+      "numbers": [
+        "1"
+      ],
+      "name": "1 - 1a - Dumfries Town Centre - Locharbriggs - Heathhall - from 7 August",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/D1-D1a%20Dumfries%20Town%20Centre%20to%20Locharbriggs%20to%20Heathhall%20-%20From%207th%20August%202025%20%281%29.pdf",
+      "group": "1-95",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-1-95-7-august-2025",
+      "key": "1::0"
+    },
+    {
+      "id": "3",
+      "numbers": [
+        "3"
+      ],
+      "name": "3 - Dumfries Town Centre to Georgetown - from 7 August 2025",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/3%20Dumfries%20Town%20Centre%20to%20Georgetown%20-%20From%207th%20August%202025.pdf",
+      "group": "1-95",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-1-95-7-august-2025",
+      "key": "3::1"
+    },
+    {
+      "id": "4",
+      "numbers": [
+        "4",
+        "4A"
+      ],
+      "name": "4-4A - Dumfries Town Centre to Lochvale - from 7 August 2025",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/4-4A%20Dumfries%20Town%20Centre%20to%20Lochvale%20-%20From%207th%20August%202025%20%281%29.pdf",
+      "group": "1-95",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-1-95-7-august-2025",
+      "key": "4::2"
+    },
+    {
+      "id": "4A",
+      "numbers": [
+        "4A"
+      ],
+      "name": "4A - Great King Street, Dumfries to Barkerland - from 7 August 2025",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/4A%20Great%20King%20Street%2C%20Dumfries%20to%20Barkerland%20-%20From%207th%20August%202025%20%281%29.pdf",
+      "group": "1-95",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-1-95-7-august-2025",
+      "key": "4A::3"
+    },
+    {
+      "id": "5",
+      "numbers": [
+        "5"
+      ],
+      "name": "5 - Dumfries Town Centre - Crichton - From 7 August",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/5%20Dumfries%20Town%20Centre%20to%20Crichton%20-%20From%207th%20August%202025.pdf",
+      "group": "1-95",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-1-95-7-august-2025",
+      "key": "5::4"
+    },
+    {
+      "id": "5A",
+      "numbers": [
+        "5A"
+      ],
+      "name": "5A - Georgetown to Crichton - from 7 August 2025",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/5A%20Georgetown%20to%20Crichton%20-%20From%207th%20August%202025%20%281%29.pdf",
+      "group": "1-95",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-1-95-7-august-2025",
+      "key": "5A::5"
+    },
+    {
+      "id": "6A",
+      "numbers": [
+        "6A"
+      ],
+      "name": "6A - Dumfries to Glencaple - from 7 August 2025",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/6A%20Dumfries%20to%20Glencaple%20-%20From%207th%20August%202025.pdf",
+      "group": "1-95",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-1-95-7-august-2025",
+      "key": "6A::6"
+    },
+    {
+      "id": "7",
+      "numbers": [
+        "7"
+      ],
+      "name": "7 - Dumfries Town Centre - Troqueer - from 7 August",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/7%20Dumfries%20Town%20Centre%20to%20Troqueer%20-%20From%207th%20August%202025.pdf",
+      "group": "1-95",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-1-95-7-august-2025",
+      "key": "7::7"
+    },
+    {
+      "id": "8",
+      "numbers": [
+        "8"
+      ],
+      "name": "8 - Dumfries Town Centre - Cargenbridge - from 7 August",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/8%20Dumfries%20Town%20Centre%20to%20Cargenbridge%20-%20From%207th%20August%202025.pdf",
+      "group": "1-95",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-1-95-7-august-2025",
+      "key": "8::8"
+    },
+    {
+      "id": "9",
+      "numbers": [
+        "9"
+      ],
+      "name": "9 - Dumfries Town Centre - Summerhill - from 7 August",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/9%20Dumfries%20Town%20Centre%20to%20Summerhill%20-%20From%207th%20August%202025.pdf",
+      "group": "1-95",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-1-95-7-august-2025",
+      "key": "9::9"
+    },
+    {
+      "id": "10",
+      "numbers": [
+        "10",
+        "10A"
+      ],
+      "name": "10 10a - Dumfries Town Centre - Lochside - Lincluden - from 7 August",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/10%2010A%20Dumfries%20Town%20Centre%20to%20Lochside%20Lincluden%20-%20From%207th%20August%202025.pdf",
+      "group": "1-95",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-1-95-7-august-2025",
+      "key": "10::10"
+    },
+    {
+      "id": "58",
+      "numbers": [
+        "58",
+        "60",
+        "358",
+        "360"
+      ],
+      "name": "58, 60, 358, 360 - Stranraer - Girvan - Ayr",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2024-11/Service_358-360-Ayr_to_Stranraer.pdf",
+      "group": "1-95",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-1-95-7-august-2025",
+      "key": "58::11"
+    },
+    {
+      "id": "X74",
+      "numbers": [
+        "X74"
+      ],
+      "name": "X74 - Dumfries to Glasgow - from 7 August",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/X74%20Dumfries%20to%20Glasgow%20-%20From%207th%20August%202025%20%281%29.pdf",
+      "group": "1-95",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-1-95-7-august-2025",
+      "key": "X74::12"
+    },
+    {
+      "id": "79",
+      "numbers": [
+        "79",
+        "179",
+        "579"
+      ],
+      "name": "79 179 579 Dumfries \u2013 Annan \u2013 Carlisle - until 8 August 2025",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-05/79%20179%20579%20Carlisle%20to%20Annan%20to%20Dumfries%20-%20April%202025.pdf",
+      "group": "1-95",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-1-95-7-august-2025",
+      "key": "79::13"
+    },
+    {
+      "id": "79",
+      "numbers": [
+        "79"
+      ],
+      "name": "79 - Dumfries - Carlisle - from 9 August 2025",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/79-Dumfries-to-Carlisle-From-9th-August-2025.pdf",
+      "group": "1-95",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-1-95-7-august-2025",
+      "key": "79::14"
+    },
+    {
+      "id": "80",
+      "numbers": [
+        "80"
+      ],
+      "name": "80 - Annan Town Service",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2024-11/80_%285_February_2024%29.pdf",
+      "group": "1-95",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-1-95-7-august-2025",
+      "key": "80::15"
+    },
+    {
+      "id": "X95",
+      "numbers": [
+        "X95"
+      ],
+      "name": "X95 - Edinburgh - Hawick - Langholm - Carlisle",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2024-11/Sv_X95_Full_Timetable_24th_July_2023.pdf",
+      "group": "1-95",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-1-95-7-august-2025",
+      "key": "X95::16"
+    },
+    {
+      "id": "101",
+      "numbers": [
+        "101",
+        "101A",
+        "102"
+      ],
+      "name": "101, 101a, 102 - Dumfries - Edinburgh - from 7 August 2025",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/W032Y%20Ser%20101%20101A%20102_Amended%2007.08.2025.pdf",
+      "group": "101-127",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-101-127-7-august-2025",
+      "key": "101::17"
+    },
+    {
+      "id": "103",
+      "numbers": [
+        "103"
+      ],
+      "name": "103 - 104 - Lockerbie Town to Corrie - from 7 August",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/103-104%20Lockerbie%20Town%20to%20Corrie%20-%20From%207th%20August%202025.pdf",
+      "group": "101-127",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-101-127-7-august-2025",
+      "key": "103::18"
+    },
+    {
+      "id": "111",
+      "numbers": [
+        "111"
+      ],
+      "name": "111 - Dumfries to DGRI Hospital - from 7 August",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/111%20Dumfries%20to%20DGRI%20-%20From%207th%20August%202025.pdf",
+      "group": "101-127",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-101-127-7-august-2025",
+      "key": "111::19"
+    },
+    {
+      "id": "112",
+      "numbers": [
+        "112"
+      ],
+      "name": "112 - Lockerbie to Eskdalemuir - from 7 August",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/112%20Lockerbie%20to%20Eskdalemuir%20-%20From%207th%20August%202025.pdf",
+      "group": "101-127",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-101-127-7-august-2025",
+      "key": "112::20"
+    },
+    {
+      "id": "115",
+      "numbers": [
+        "115"
+      ],
+      "name": "115 - Dumfries to Ae - from 7 August",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/115%20Dumfries%20to%20Ae%20-%20From%207th%20August%202025.pdf",
+      "group": "101-127",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-101-127-7-august-2025",
+      "key": "115::21"
+    },
+    {
+      "id": "117",
+      "numbers": [
+        "117"
+      ],
+      "name": "117 - Lockerbie to Hightae and Dumfries - from 7 August",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/117%20Lockerbie%20to%20Hightae%20and%20Dumfries%20-%20From%207th%20August%202025.pdf",
+      "group": "101-127",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-101-127-7-august-2025",
+      "key": "117::22"
+    },
+    {
+      "id": "120",
+      "numbers": [
+        "120"
+      ],
+      "name": "120 - Langholm Town to Eskdalemuir - from 7 August",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/120%20Langholm%20Town%20to%20Eskdalemuir%20-%20From%207th%20August%202025.pdf",
+      "group": "101-127",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-101-127-7-august-2025",
+      "key": "120::23"
+    },
+    {
+      "id": "122",
+      "numbers": [
+        "122"
+      ],
+      "name": "122 - 123 - Langholm to Canonbie to Annan - from 7 August",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/122%20123%20Langholm%20to%20Canonbie%20to%20Annan%20-%20From%207th%20August%202025.pdf",
+      "group": "101-127",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-101-127-7-august-2025",
+      "key": "122::24"
+    },
+    {
+      "id": "127",
+      "numbers": [
+        "127"
+      ],
+      "name": "127 - Langholm to Newcastleton - from 7 August",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/127%20Langholm%20to%20Newcastleton%20-%20From%207th%20August%202025.pdf",
+      "group": "101-127",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-101-127-7-august-2025",
+      "key": "127::25"
+    },
+    {
+      "id": "200",
+      "numbers": [
+        "200"
+      ],
+      "name": "200 - Thornhill to Durisdeer - from 7 August",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-08/200-Thornhill-to-Durisdeer-From-7th-August-2025.pdf",
+      "group": "200-246",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-200-246-7-august-2025",
+      "key": "200::26"
+    },
+    {
+      "id": "202",
+      "numbers": [
+        "202"
+      ],
+      "name": "202 - Dumfries to Moniaive - from 7 August",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/202%20Dumfries%20to%20Moniaive%20-%20From%207th%20August%202025.pdf",
+      "group": "200-246",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-200-246-7-august-2025",
+      "key": "202::27"
+    },
+    {
+      "id": "212",
+      "numbers": [
+        "212"
+      ],
+      "name": "212 - Thornhill to Moniaive - from 7 August",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/212%20Thornhill%20to%20Moniaive%20-%20From%207th%20August%202025.pdf",
+      "group": "200-246",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-200-246-7-august-2025",
+      "key": "212::28"
+    },
+    {
+      "id": "213",
+      "numbers": [
+        "213"
+      ],
+      "name": "213 - Thornhill - Gatelawbridge - Park - Dumfries - From 7 August",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-08/213-Thornhill-to-Gatelawbridge-to-Park-to%20Dumfries-from-7-Aug-2025_0.pdf",
+      "group": "200-246",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-200-246-7-august-2025",
+      "key": "213::29"
+    },
+    {
+      "id": "221",
+      "numbers": [
+        "221"
+      ],
+      "name": "221 - Wanlockhead to Kirkconnel - from 7 August",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/221%20Wanlockhead%20to%20Kirkconnel%20-%20From%207th%20August%202025.pdf",
+      "group": "200-246",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-200-246-7-august-2025",
+      "key": "221::30"
+    },
+    {
+      "id": "236",
+      "numbers": [
+        "236"
+      ],
+      "name": "236 - Dumfries to Kirkton to Thornhill - from 7 August",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/236%20Dumfries%20to%20Kirkton%20to%20Thornhill%20-%20From%207th%20August%202025%20%281%29.pdf",
+      "group": "200-246",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-200-246-7-august-2025",
+      "key": "236::31"
+    },
+    {
+      "id": "246",
+      "numbers": [
+        "246"
+      ],
+      "name": "246 Dumfries to New Cumnock - From 7 August 2025",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-08/246-Dumfries-to-New-Cumnock-From-7th-August-2025.pdf",
+      "group": "200-246",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-200-246-7-august-2025",
+      "key": "246::32"
+    },
+    {
+      "id": "359",
+      "numbers": [
+        "359"
+      ],
+      "name": "359 - Newton Stewart to Girvan - from 7 August",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/359%20Newton%20Stewart%20to%20Girvan%20-%20From%207th%20August%202025.pdf",
+      "group": "358-390",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-358-390-7-august-2025",
+      "key": "359::33"
+    },
+    {
+      "id": "365",
+      "numbers": [
+        "365"
+      ],
+      "name": "365 - Stranraer local service - from 7 August",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/365%20Stranraer%20Local%20Service%20-%20From%207th%20August%202025.pdf",
+      "group": "358-390",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-358-390-7-august-2025",
+      "key": "365::34"
+    },
+    {
+      "id": "367",
+      "numbers": [
+        "367"
+      ],
+      "name": "367 - Stranraer to Portpatrick - from 7 August",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/367%20Stranraer%20to%20Portpatrick%20-%20From%207th%20August%202025.pdf",
+      "group": "358-390",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-358-390-7-august-2025",
+      "key": "367::35"
+    },
+    {
+      "id": "372",
+      "numbers": [
+        "372"
+      ],
+      "name": "372 - Dumfries to Dalbeattie - from 7 August",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/372%20Dumfries%20to%20Dalbeattie%20-%20From%207th%20August%202025.pdf",
+      "group": "358-390",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-358-390-7-august-2025",
+      "key": "372::36"
+    },
+    {
+      "id": "373",
+      "numbers": [
+        "373"
+      ],
+      "name": "373 - Dumfries to Shawhead - from 7 August",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/373%20Dumfries%20to%20Shawhead%20-%20From%207th%20August%202025.pdf",
+      "group": "358-390",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-358-390-7-august-2025",
+      "key": "373::37"
+    },
+    {
+      "id": "379",
+      "numbers": [
+        "379"
+      ],
+      "name": "379 - Annan to Gretna - from 7 August",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/379%20Annan%20to%20Gretna%20-%20From%207th%20August%202025.pdf",
+      "group": "358-390",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-358-390-7-august-2025",
+      "key": "379::38"
+    },
+    {
+      "id": "380",
+      "numbers": [
+        "380"
+      ],
+      "name": "380 - Moffat to Lockerbie - from 7 August",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/380%20Moffat%20to%20Lockerbie%20-%20From%207th%20August%202025.pdf",
+      "group": "358-390",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-358-390-7-august-2025",
+      "key": "380::39"
+    },
+    {
+      "id": "381",
+      "numbers": [
+        "381"
+      ],
+      "name": "381 - Lockerbie to Dumfries - from 7 August 2025",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/381%20Lockerbie%20to%20Dumfries%20-%20From%207th%20August%202025.pdf",
+      "group": "358-390",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-358-390-7-august-2025",
+      "key": "381::40"
+    },
+    {
+      "id": "382",
+      "numbers": [
+        "382"
+      ],
+      "name": "382 - Lockerbie to Gretna or Carlisle - from 7 August",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/382%20Lockerbie%20to%20Gretna%20or%20Carlisle%20-%20From%207th%20August%202025.pdf",
+      "group": "358-390",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-358-390-7-august-2025",
+      "key": "382::41"
+    },
+    {
+      "id": "383",
+      "numbers": [
+        "383"
+      ],
+      "name": "383 - Annan to Lockerbie - from 7 August",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/383%20Annan%20to%20Lockerbie%20-%20From%207th%20August%202025.pdf",
+      "group": "358-390",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-358-390-7-august-2025",
+      "key": "383::42"
+    },
+    {
+      "id": "384",
+      "numbers": [
+        "384"
+      ],
+      "name": "384 - Falford to Waterbeck to Annan - from 7 August",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/384%20Falford%20to%20Waterbeck%20to%20Annan%20-%20From%207th%20August%202025.pdf",
+      "group": "358-390",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-358-390-7-august-2025",
+      "key": "384::43"
+    },
+    {
+      "id": "385",
+      "numbers": [
+        "385"
+      ],
+      "name": "385 - Dumfries to Annan - from 7 August",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/385%20Dumfries%20to%20Annan%20-%20From%207th%20August%202025.pdf",
+      "group": "358-390",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-358-390-7-august-2025",
+      "key": "385::44"
+    },
+    {
+      "id": "388",
+      "numbers": [
+        "388"
+      ],
+      "name": "388 - Annan Back of the Hill - from 7 August",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/388%20Annan%20Back%20of%20the%20Hill%20-%20From%207th%20August%202025.pdf",
+      "group": "358-390",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-358-390-7-august-2025",
+      "key": "388::45"
+    },
+    {
+      "id": "390",
+      "numbers": [
+        "390"
+      ],
+      "name": "390 - Annan to Clarencefield - from 7 August",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/390%20Annan%20to%20Clarencefield%20-%20From%207th%20August%202025.pdf",
+      "group": "358-390",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-358-390-7-august-2025",
+      "key": "390::46"
+    },
+    {
+      "id": "407",
+      "numbers": [
+        "407"
+      ],
+      "name": "407 - Drummore to Stranraer - From 7 August 2025",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/407%20Drummore%20to%20Stranraer%20-%20From%207th%20August%202025.pdf",
+      "group": "407-431",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-407-431-7-august-2025",
+      "key": "407::47"
+    },
+    {
+      "id": "408",
+      "numbers": [
+        "408"
+      ],
+      "name": "408 - Stranraer to Kirkcolm - from 7 August 2025",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/408%20Stranraer%20to%20Kirkcolm%20-%20From%207th%20August%202025%20%281%29.pdf",
+      "group": "407-431",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-407-431-7-august-2025",
+      "key": "408::48"
+    },
+    {
+      "id": "415",
+      "numbers": [
+        "415"
+      ],
+      "name": "415 - Port William to Newton Stewart - from 7 August 2025",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-08/415-Port-William-to-Newton-Stewart-From-7_August_2025.pdf",
+      "group": "407-431",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-407-431-7-august-2025",
+      "key": "415::49"
+    },
+    {
+      "id": "416",
+      "numbers": [
+        "416"
+      ],
+      "name": "416 - Newton Stewart to Stranraer - From 7 August 2025",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-08/416-Newton-Stewart-to-Stranraer-From-7_August_2025.pdf",
+      "group": "407-431",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-407-431-7-august-2025",
+      "key": "416::50"
+    },
+    {
+      "id": "420",
+      "numbers": [
+        "420"
+      ],
+      "name": "420 - Newton Stewart Town Service - from 7 August",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/420%20Newton%20Stewart%20Town%20Service%20-%20From%207th%20August%202025.pdf",
+      "group": "407-431",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-407-431-7-august-2025",
+      "key": "420::51"
+    },
+    {
+      "id": "431",
+      "numbers": [
+        "431"
+      ],
+      "name": "431 - Gatehouse to Kirkcudbright - from 7 August - Kirkcudbright Bridge Closure",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/431%20Gatehouse%20to%20Kirkcudbright%20-%20From%207th%20August%202025%20-%20Kirkcudbright%20Bridge%20Closure.pdf",
+      "group": "407-431",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-407-431-7-august-2025",
+      "key": "431::52"
+    },
+    {
+      "id": "500",
+      "numbers": [
+        "500"
+      ],
+      "name": "500 - Dumfries to Newton Stewart to Stranraer - from 7 August",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-08/500_Dumfries_to_Newton_Stewart_to_Stranraer-from_7_August.pdf",
+      "group": "500-555",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-500-555-7-august-2025",
+      "key": "500::53"
+    },
+    {
+      "id": "501",
+      "numbers": [
+        "501"
+      ],
+      "name": "501 - Dumfries to Castle Douglas to Kirkcudbright - From 7 August 2025",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-08/501-Dumfries-to-Castle-Douglas-to-Kirkcudbright-From-7-August-2025.pdf",
+      "group": "500-555",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-500-555-7-august-2025",
+      "key": "501::54"
+    },
+    {
+      "id": "502",
+      "numbers": [
+        "502"
+      ],
+      "name": "502 - Dumfries to Kirkcudbright - From 7 August 2025",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-08/502-Dumfries-to-Kirkcudbright-From-7-August-2025.pdf",
+      "group": "500-555",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-500-555-7-august-2025",
+      "key": "502::55"
+    },
+    {
+      "id": "503",
+      "numbers": [
+        "503"
+      ],
+      "name": "503 - Dumfries to Castle Douglas - from 7 August",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/503%20Dumfries%20to%20Castle%20Douglas%20-%20From%207th%20August%202025%20%281%29.pdf",
+      "group": "500-555",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-500-555-7-august-2025",
+      "key": "503::56"
+    },
+    {
+      "id": "505",
+      "numbers": [
+        "505"
+      ],
+      "name": "505 - Kirkcudbright to Dalbeattie - from 7 August",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/505%20Kirkcudbright%20to%20Dalbeattie%20-%20From%207th%20August%202025.pdf",
+      "group": "500-555",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-500-555-7-august-2025",
+      "key": "505::57"
+    },
+    {
+      "id": "515",
+      "numbers": [
+        "515"
+      ],
+      "name": "515 - Castle Douglas to Mossdale - from 7 August",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/515Castle%20Douglas%20to%20Mossdale%20-%20From%207th%20August%202025.pdf",
+      "group": "500-555",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-500-555-7-august-2025",
+      "key": "515::58"
+    },
+    {
+      "id": "516",
+      "numbers": [
+        "516"
+      ],
+      "name": "516 Castle Douglas to Auchencairn - from 7 August",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/516%20Castle%20Douglas%20to%20Auchencairn%20-%20From%207th%20August%202025.pdf",
+      "group": "500-555",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-500-555-7-august-2025",
+      "key": "516::59"
+    },
+    {
+      "id": "517",
+      "numbers": [
+        "517"
+      ],
+      "name": "517 - Kirkcudbright to Borgue - from 7 August",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/517%20Kirkcudbright%20to%20Borgue%20-%20From%207th%20August%202025.pdf",
+      "group": "500-555",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-500-555-7-august-2025",
+      "key": "517::60"
+    },
+    {
+      "id": "520",
+      "numbers": [
+        "520"
+      ],
+      "name": "520 - Castle Douglas to Carsphairn - from 7 August",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/520%20Castle%20Douglas%20to%20Dalmellington%20-%20From%207th%20August%202025.pdf",
+      "group": "500-555",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-500-555-7-august-2025",
+      "key": "520::61"
+    },
+    {
+      "id": "521",
+      "numbers": [
+        "521"
+      ],
+      "name": "521 - Dumfries to New Galloway to Castle Douglas - from 7 August",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/521%20Dumfries%20to%20New%20Galloway%20to%20Castle%20Douglas%20-%20From%207th%20August%202025.pdf",
+      "group": "500-555",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-500-555-7-august-2025",
+      "key": "521::62"
+    },
+    {
+      "id": "555",
+      "numbers": [
+        "555"
+      ],
+      "name": "555 - Kirkcudbright to Dumfries - from 7 August",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/555%20Kirkcudbright%20to%20Dumfries%20-%20From%207th%20August%202025.pdf",
+      "group": "500-555",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-500-555-7-august-2025",
+      "key": "555::63"
+    },
+    {
+      "id": "CT",
+      "numbers": [
+        "CT"
+      ],
+      "name": "Community transport timetable - Moniaive to Castle Douglas - From 7 August 2025",
+      "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-08/1-CVCT-Moniaive-to-Castle-Douglas-From-7-August-2025.pdf",
+      "group": "200-246",
+      "sourcePage": "https://www.dumfriesandgalloway.gov.uk/roads-transport-parking/public-transport/bus-ferry-timetables/bus-services-200-246-7-august-2025",
+      "key": "CT::64"
+    }
+  ]
+}

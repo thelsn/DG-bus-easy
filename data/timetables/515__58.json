@@ -1,0 +1,154 @@
+{
+  "key": "515::58",
+  "id": "515",
+  "name": "515 - Castle Douglas to Mossdale - from 7 August",
+  "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/515Castle%20Douglas%20to%20Mossdale%20-%20From%207th%20August%202025.pdf",
+  "extractedAt": "2026-09-11",
+  "title": "Service 515 Castle Douglas to Mossdale",
+  "sections": [
+    {
+      "title": "Monday to Friday",
+      "headers": [],
+      "rows": [
+        {
+          "stop": "Castle Douglas Health Centre",
+          "times": [
+            "",
+            "1010",
+            "1315",
+            ""
+          ]
+        },
+        {
+          "stop": "Castle Douglas Tesco Rd End",
+          "times": [
+            "",
+            "1011",
+            "1316",
+            ""
+          ]
+        },
+        {
+          "stop": "Castle Douglas Swimming Pool",
+          "times": [
+            "",
+            "1012",
+            "1317",
+            "1532"
+          ]
+        },
+        {
+          "stop": "Castle Douglas, King Street",
+          "times": [
+            "",
+            "1015",
+            "1320",
+            "1535"
+          ]
+        },
+        {
+          "stop": "Townhead of Greenlaw",
+          "times": [
+            "",
+            "1020",
+            "1325",
+            "1540"
+          ]
+        },
+        {
+          "stop": "Laurieston",
+          "times": [
+            "",
+            "1027",
+            "1332",
+            "1547"
+          ]
+        },
+        {
+          "stop": "Laurieston Hall Road End",
+          "times": [
+            "",
+            "1029",
+            "1334",
+            "1549"
+          ]
+        },
+        {
+          "stop": "Mossdale",
+          "times": [
+            "",
+            "1040",
+            "1345",
+            "1600"
+          ]
+        },
+        {
+          "stop": "Mossdale",
+          "times": [
+            "0820",
+            "1040",
+            "1345",
+            "1600"
+          ]
+        },
+        {
+          "stop": "Laurieston Hall Road End",
+          "times": [
+            "0826",
+            "1046",
+            "1351",
+            "1611"
+          ]
+        },
+        {
+          "stop": "Laurieston",
+          "times": [
+            "0828",
+            "1048",
+            "1353",
+            "1613"
+          ]
+        },
+        {
+          "stop": "Townhead of Greenlaw",
+          "times": [
+            "0835",
+            "1055",
+            "1400",
+            "1620"
+          ]
+        },
+        {
+          "stop": "Castle Douglas, Coop",
+          "times": [
+            "",
+            "1058",
+            "1403",
+            "1618"
+          ]
+        },
+        {
+          "stop": "Castle Douglas Swimming Pool",
+          "times": [
+            "0845",
+            "1100",
+            "1405",
+            "1625"
+          ]
+        },
+        {
+          "stop": "Castle Douglas Health Centre",
+          "times": [
+            "",
+            "1105",
+            "1410",
+            ""
+          ]
+        }
+      ]
+    }
+  ],
+  "rawText": "515 Castle Douglas to Mossdale\n\nService 515 Castle Douglas to Mossdale\n\nTIMETABLE\n\nMonday to Friday Castle Douglas Health Centre ... 1010 1315 ... Castle Douglas Tesco Rd End ... 1011 1316 ... Castle Douglas High (SD) ... ... ... 1520 Castle Douglas Swimming Pool ... 1012 1317 1532 Castle Douglas, King Street ... 1015 1320 1535 Townhead of Greenlaw ... 1020 1325 1540 Laurieston ... 1027 1332 1547 Laurieston Hall Road End ... 1029 1334 1549 Mossdale ... 1040 1345 1600\n\nMossdale 0820 1040 1345 1600 Laurieston Hall Road End 0826 1046 1351 1611 Laurieston 0828 1048 1353 1613 Townhead of Greenlaw 0835 1055 1400 1620 Castle Douglas, Coop ... 1058 1403 1618 Castle Douglas High (SD) 0840 ... ... ... Castle Douglas Swimming Pool 0845 1100 1405 1625 Castle Douglas Health Centre ... 1105 1410 ...\n\nNo Saturday or Sunday Service\n\n# PUBLIC\n",
+  "ok": true,
+  "error": null
+}

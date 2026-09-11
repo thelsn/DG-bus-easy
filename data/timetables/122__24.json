@@ -1,0 +1,52 @@
+{
+  "key": "122::24",
+  "id": "122",
+  "name": "122 - 123 - Langholm to Canonbie to Annan - from 7 August",
+  "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/122%20123%20Langholm%20to%20Canonbie%20to%20Annan%20-%20From%207th%20August%202025.pdf",
+  "extractedAt": "2026-09-11",
+  "title": "122 - 123 - Langholm to Canonbie to Annan - from 7 August",
+  "sections": [
+    {
+      "title": "Timetable",
+      "headers": [
+        "revirD eht ot tseuqeR no snuR",
+        "",
+        "",
+        "RR",
+        ""
+      ],
+      "rows": [
+        {
+          "stop": "-",
+          "times": [
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "stop": "nnur etal fo tneve eht ni tiaw tub 6080 ta deludehcs ,gnimelF kcirtapkriK ta 283 ecivres fo lavirra tiawA",
+          "times": [
+            "",
+            "",
+            "*",
+            ""
+          ]
+        },
+        {
+          "stop": "ylno syadloohcS",
+          "times": [
+            "",
+            "",
+            "DS",
+            "sedoC ot yeK"
+          ]
+        }
+      ]
+    }
+  ],
+  "rawText": "#\n\nCILBUP\n\n| revirD eht ot tseuqeR no snuR | | | RR | |\n| --- | --- | --- | --- | --- |\n| nnur etal fo tneve eht ni tiaw tub 6080 ta deludehcs ,gnimelF kcirtapkriK ta 283 ecivres fo lavirra tiawA | | | * | |\n| ylno syadloohcS | | | DS | sedoC ot yeK |\n\nrevirD eht ot tseuqeR no snuR RR nnur etal fo tneve eht ni tiaw tub 6080 ta deludehcs ,gnimelF kcirtapkriK ta 283 ecivres fo lavirra tiawA * ylno syadloohcS DS sedoC ot yeK ecivreS yadnuS oN 7531 058 0 edismlohelkieM ,mlohgnaL RR - evirD doowmloH ,mlohgnaL RR - teertS eniloraC ,mlohgnaL 1531 - teertS hgiH ,mlohgnaL RR 1480 kcovirnehcuA 3431 738 0 swolloH 9331 - eibnonaC 6331 - nrubnawoR 3331 - sdaorssorC ,waleraH 0331 - nrubnawoR 7231 - eibnonaC 2231 0380 nwotrevE 6131 0280 ewonklepahC 1131 *2180 sdaorssorC ,gnimelF kcirtapkriK 8031 018 0 notweN 6031 - sdaorssorC ,gnimelF kcirtapkriK 4031 - eelloH 5521 5570 teertS sttuB ,nannA 321 221 DS 626 1 5001 teertS sttuB ,nannA - 5590 eelloH - 3590 sdaorssorC ,gnimelF kcirtapkriK 3161 1590 notweN 1161 9490 sdaorssorC ,gnimelF kcirtapkriK 2061 3490 ewonklepahC 755 1 6390 nwotrevE - 0390 eibnonaC - 8290 nrubnawoR - 6290 sdaorssorC ,waleraH - 0290 nrubnawoR - 7190 eibnonaC 6451 3190 swolloH 245 1 RR kcovirnehcuA - RR daoR ksenelG ,pO-oC 735 1 4090 teertS hgiH ,mlohgnaL - 0090 teertS eniloraC ,mlohgnaL - 7580 evirD doowmloH ,mlohgnaL - 5580 edismlohelkieM ,mlohgnaL 221 321 DS yadrutaS ot yadnoM ELBATEMIT nannA - eibnonaC - mlohgnaL 321 ,221 secivreS\n\nnannA - eibnonaC - mlohgnaL 321 221\n\n6202 yraunaJ ht5 morF\n",
+  "ok": true,
+  "error": null
+}

@@ -1,0 +1,59 @@
+{
+  "key": "517::60",
+  "id": "517",
+  "name": "517 - Kirkcudbright to Borgue - from 7 August",
+  "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/517%20Kirkcudbright%20to%20Borgue%20-%20From%207th%20August%202025.pdf",
+  "extractedAt": "2026-09-11",
+  "title": "Service 517 Kirkcudbright to Borgue",
+  "sections": [
+    {
+      "title": "Monday to Friday",
+      "headers": [],
+      "rows": [
+        {
+          "stop": "Kirkcudbright Harbour Square",
+          "times": [
+            "0915",
+            "1115",
+            "1335"
+          ]
+        },
+        {
+          "stop": "Merse Road",
+          "times": [
+            "0935",
+            "1135",
+            "1355"
+          ]
+        },
+        {
+          "stop": "Borgue",
+          "times": [
+            "1007",
+            "1207",
+            "1427"
+          ]
+        },
+        {
+          "stop": "Merse Road",
+          "times": [
+            "1029",
+            "1229",
+            "1449"
+          ]
+        },
+        {
+          "stop": "Kirkcudbright Harbour Square",
+          "times": [
+            "1050",
+            "1250",
+            "1510"
+          ]
+        }
+      ]
+    }
+  ],
+  "rawText": "PUBLIC #\n\nService 517 Kirkcudbright to Borgue\n\nTIMETABLE\n\nMonday to Friday \nKirkcudbright Harbour Square 0915 1115 1335 \nMerse Road 0935 1135 1355 \nBrighouse Bay (via The Stell/Dhoon) 0957 1157 1417 \nBorgue 1007 1207 1427 \nMerse Road 1029 1229 1449 \nKirkcudbright Harbour Square 1050 1250 1510 \n\nNo Saturday or Sunday Service\n\n# PUBLIC\n",
+  "ok": true,
+  "error": null
+}

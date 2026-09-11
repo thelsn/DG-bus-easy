@@ -1,0 +1,144 @@
+{
+  "key": "373::37",
+  "id": "373",
+  "name": "373 - Dumfries to Shawhead - from 7 August",
+  "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/373%20Dumfries%20to%20Shawhead%20-%20From%207th%20August%202025.pdf",
+  "extractedAt": "2026-09-11",
+  "title": "Service 373 Dumfries to Shawhead",
+  "sections": [
+    {
+      "title": "Monday to Saturday",
+      "headers": [],
+      "rows": [
+        {
+          "stop": "Dumfries, Railway Station",
+          "times": [
+            "-",
+            "-",
+            "1600",
+            "1740"
+          ]
+        },
+        {
+          "stop": "Dumfries, DG One",
+          "times": [
+            "-",
+            "1305",
+            "1602",
+            "1742"
+          ]
+        },
+        {
+          "stop": "Dumfries, Loreburne Centre",
+          "times": [
+            "-",
+            "1309",
+            "1604",
+            "1745"
+          ]
+        },
+        {
+          "stop": "Dumfries, Whitesands",
+          "times": [
+            "0745",
+            "1311",
+            "1608",
+            "1750"
+          ]
+        },
+        {
+          "stop": "Terregles",
+          "times": [
+            "0757",
+            "1326",
+            "1620"
+          ]
+        },
+        {
+          "stop": "RR Shawhead",
+          "times": [
+            "0804",
+            "1333",
+            "1626"
+          ]
+        },
+        {
+          "stop": "RR Shawhead",
+          "times": [
+            "0805",
+            "1333",
+            "1626"
+          ]
+        },
+        {
+          "stop": "Terregles",
+          "times": [
+            "0813",
+            "1341",
+            "1634"
+          ]
+        },
+        {
+          "stop": "Lochfield Road Medical Centre",
+          "times": [
+            "0822",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "stop": "Terregles Street",
+          "times": [
+            "-",
+            "1350",
+            "1643"
+          ]
+        },
+        {
+          "stop": "Dumfries, Whitesands",
+          "times": [
+            "0825",
+            "1356",
+            "1645"
+          ]
+        },
+        {
+          "stop": "Dumfries, Burns Statue",
+          "times": [
+            "-",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "stop": "Dumfries, Great King Street",
+          "times": [
+            "-",
+            "1402",
+            "-"
+          ]
+        },
+        {
+          "stop": "Dumfries, DG One",
+          "times": [
+            "-",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "stop": "Dumfries, Railway Station",
+          "times": [
+            "-",
+            "1405",
+            "-",
+            "-"
+          ]
+        }
+      ]
+    }
+  ],
+  "rawText": "Local Bus Tender PUBLIC # 373 Dumfries to Shawhead\n\nService 373 Dumfries to Shawhead\n\nTIMETABLE\n\nMonday to Saturday Dumfries, Railway Station - - 1600 1740 Dumfries, DG One - 1305 1602 1742 Dumfries, Loreburne Centre - 1309 1604 1745 Dumfries, Whitesands 0745 1311 1608 1750 Terregles 0757 1326 1620 RR Shawhead 0804 1333 1626 RR\n\nShawhead 0805 1333 1626 -Terregles 0813 1341 1634 -Lochfield Road Medical Centre 0822 - - -Terregles Street - 1350 1643 -Dumfries, Whitesands 0825 1356 1645 -Dumfries, Burns Statue - - - -Dumfries, Great King Street - 1402 - -Dumfries, DG One - - - -Dumfries, Railway Station - 1405 - -\n\nNo Sunday Service\n\nKey to Codes RR Runs on request to the driver only\n\n# PUBLIC\n",
+  "ok": true,
+  "error": null
+}

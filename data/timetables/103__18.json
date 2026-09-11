@@ -1,0 +1,203 @@
+{
+  "key": "103::18",
+  "id": "103",
+  "name": "103 - 104 - Lockerbie Town to Corrie - from 7 August",
+  "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/103-104%20Lockerbie%20Town%20to%20Corrie%20-%20From%207th%20August%202025.pdf",
+  "extractedAt": "2026-09-11",
+  "title": "Service\n\n# PUBLIC",
+  "sections": [
+    {
+      "title": "Monday to Saturday",
+      "headers": [],
+      "rows": [
+        {
+          "stop": "Tesco",
+          "times": [
+            "0845",
+            "0957",
+            "1053",
+            "1202",
+            "1308",
+            "1340"
+          ]
+        },
+        {
+          "stop": "High Street, Crown Hotel",
+          "times": [
+            "0848",
+            "0959",
+            "1055",
+            "1204",
+            "1310",
+            "1341"
+          ]
+        },
+        {
+          "stop": "Rosebank Crescent",
+          "times": [
+            "0850",
+            "1002",
+            "1058",
+            "1207",
+            "1313",
+            "1343"
+          ]
+        },
+        {
+          "stop": "Park View",
+          "times": [
+            "0852",
+            "1006",
+            "1100",
+            "1209",
+            "1315",
+            "1345"
+          ]
+        },
+        {
+          "stop": "Broomhouse Road",
+          "times": [
+            "0857",
+            "1011",
+            "1105",
+            "1214",
+            "1320",
+            "1350"
+          ]
+        },
+        {
+          "stop": "Matthews Court",
+          "times": [
+            "0859",
+            "1013",
+            "1107",
+            "1216",
+            "1322",
+            "1352"
+          ]
+        },
+        {
+          "stop": "Dryfe Road",
+          "times": [
+            "0900",
+            "1014",
+            "1108",
+            "1217",
+            "1323",
+            "1353"
+          ]
+        },
+        {
+          "stop": "Livingstone Place",
+          "times": [
+            "0902",
+            "1016",
+            "1110",
+            "1219",
+            "1325",
+            "1355"
+          ]
+        },
+        {
+          "stop": "Victoria Road",
+          "times": [
+            "0903",
+            "1017",
+            "1111",
+            "1220",
+            "1326",
+            "1356"
+          ]
+        },
+        {
+          "stop": "Tesco",
+          "times": [
+            "0908",
+            "1021",
+            "1113",
+            "1222",
+            "1328",
+            "1358"
+          ]
+        },
+        {
+          "stop": "Vallance Drive",
+          "times": [
+            "0912",
+            "1025",
+            "1117",
+            "-",
+            "1332"
+          ]
+        },
+        {
+          "stop": "West Acres",
+          "times": [
+            "0914",
+            "1027",
+            "1119",
+            "-",
+            "1334"
+          ]
+        },
+        {
+          "stop": "Douglas Terrace",
+          "times": [
+            "0917",
+            "1030",
+            "1122",
+            "-",
+            "1337"
+          ]
+        },
+        {
+          "stop": "Tesco",
+          "times": [
+            "0920",
+            "1033",
+            "1125",
+            "-",
+            "1339",
+            "-",
+            "103"
+          ]
+        },
+        {
+          "stop": "Lockerbie to Bankshill to Corrie Tesco",
+          "times": [
+            "0920",
+            "-",
+            "1125"
+          ]
+        },
+        {
+          "stop": "Bankshill",
+          "times": [
+            "0932",
+            "-",
+            "1136"
+          ]
+        },
+        {
+          "stop": "Corrie Common",
+          "times": [
+            "0945",
+            "-",
+            "1150"
+          ]
+        },
+        {
+          "stop": "Tesco",
+          "times": [
+            "0955",
+            "-",
+            "1200"
+          ]
+        }
+      ]
+    }
+  ],
+  "rawText": "PUBLIC # 103-104 Lockerbie Town to Corrie\n\n104 Lockerbie Town\n\nTIMETABLE\n\nMonday to Saturday Tesco 0845 0957 1053 1202 1308 1340 High Street, Crown Hotel 0848 0959 1055 1204 1310 1341 Rosebank Crescent 0850 1002 1058 1207 1313 1343 Park View 0852 1006 1100 1209 1315 1345 Broomhouse Road 0857 1011 1105 1214 1320 1350 Matthews Court 0859 1013 1107 1216 1322 1352 Dryfe Road 0900 1014 1108 1217 1323 1353 Livingstone Place 0902 1016 1110 1219 1325 1355 Victoria Road 0903 1017 1111 1220 1326 1356 Tesco 0908 1021 1113 1222 1328 1358 Vallance Drive 0912 1025 1117 - 1332 -West Acres 0914 1027 1119 - 1334 -Douglas Terrace 0917 1030 1122 - 1337 -Tesco 0920 1033 1125 - 1339 -\n\n103 Lockerbie to Bankshill to Corrie \nTesco 0920 - 1125 \nBankshill 0932 - 1136 \nCorrie Common 0945 - 1150 \nTesco 0955 - 1200 \n\nNo Sunday Service\n\n# PUBLIC\n",
+  "ok": true,
+  "error": null
+}

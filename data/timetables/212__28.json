@@ -1,0 +1,174 @@
+{
+  "key": "212::28",
+  "id": "212",
+  "name": "212 - Thornhill to Moniaive - from 7 August",
+  "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/212%20Thornhill%20to%20Moniaive%20-%20From%207th%20August%202025.pdf",
+  "extractedAt": "2026-09-11",
+  "title": "OFFICIAL",
+  "sections": [
+    {
+      "title": "Monday to Saturday",
+      "headers": [],
+      "rows": [
+        {
+          "stop": "Thornhill Health Centre",
+          "times": [
+            "0905",
+            "1205",
+            "1410",
+            "-",
+            "1625"
+          ]
+        },
+        {
+          "stop": "Thornhill, Cross",
+          "times": [
+            "0908",
+            "1208",
+            "1413",
+            "-",
+            "1627"
+          ]
+        },
+        {
+          "stop": "Virginhall",
+          "times": [
+            "-",
+            "1216",
+            "1421",
+            "-",
+            "1636"
+          ]
+        },
+        {
+          "stop": "Keir Mill",
+          "times": [
+            "-",
+            "1218",
+            "1423",
+            "-",
+            "1638"
+          ]
+        },
+        {
+          "stop": "Penpont",
+          "times": [
+            "0920",
+            "1220",
+            "1425",
+            "-",
+            "1640"
+          ]
+        },
+        {
+          "stop": "Tynron",
+          "times": [
+            "-",
+            "1224",
+            "1429",
+            "-",
+            "1644"
+          ]
+        },
+        {
+          "stop": "Kirkland",
+          "times": [
+            "-",
+            "1230",
+            "1435",
+            "-",
+            "1650"
+          ]
+        },
+        {
+          "stop": "Moniaive",
+          "times": [
+            "0930",
+            "1235",
+            "1440",
+            "-",
+            "1655"
+          ]
+        },
+        {
+          "stop": "Moniaive",
+          "times": [
+            "0930",
+            "1235",
+            "1440",
+            "-",
+            "1655"
+          ]
+        },
+        {
+          "stop": "Kirkland",
+          "times": [
+            "0935",
+            "1240",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "stop": "Tynron",
+          "times": [
+            "0941",
+            "1246",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "stop": "Penpont",
+          "times": [
+            "0945",
+            "1250",
+            "1450",
+            "1615",
+            "1705"
+          ]
+        },
+        {
+          "stop": "Keir Mill",
+          "times": [
+            "0948",
+            "1253",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "stop": "Virginhall",
+          "times": [
+            "0951",
+            "1256",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "stop": "Thornhill, Cross",
+          "times": [
+            "0958",
+            "1303",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "stop": "Thornhill Health Centre",
+          "times": [
+            "1000",
+            "1305",
+            "-",
+            "1625",
+            "-"
+          ]
+        }
+      ]
+    }
+  ],
+  "rawText": "Local Bus Tender OFFICIAL #\n\n212 Thornhill to Moniaive\n\nService 212 Thornhill to Moniaive\n\nTIMETABLE\n\nMonday to Saturday \nThornhill Health Centre 0905 1205 1410 - 1625 \nThornhill, Cross 0908 1208 1413 - 1627 \nVirginhall - 1216 1421 - 1636 \nKeir Mill - 1218 1423 - 1638 \nPenpont 0920 1220 1425 - 1640 \nTynron - 1224 1429 - 1644 \nKirkland - 1230 1435 - 1650 \nMoniaive 0930 1235 1440 - 1655 \n\nMoniaive 0930 1235 1440 - 1655 Kirkland 0935 1240 - - -Tynron 0941 1246 - - -Penpont 0945 1250 1450 1615 1705 Keir Mill 0948 1253 - - -Virginhall 0951 1256 - - -Thornhill, Cross 0958 1303 - - -Thornhill Health Centre 1000 1305 - 1625 -\n\nNo Sunday Service\n\n#OFFICIAL\n",
+  "ok": true,
+  "error": null
+}

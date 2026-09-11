@@ -1,0 +1,950 @@
+{
+  "key": "500::53",
+  "id": "500",
+  "name": "500 - Dumfries to Newton Stewart to Stranraer - from 7 August",
+  "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-08/500_Dumfries_to_Newton_Stewart_to_Stranraer-from_7_August.pdf",
+  "extractedAt": "2026-09-11",
+  "title": "Monday to Saturday",
+  "sections": [
+    {
+      "title": "Monday to Saturday",
+      "headers": [],
+      "rows": [
+        {
+          "stop": "oohcs no setarepO DS syadloohcs no ymedacA rearnartS aiv setarepO AS sedoC ot yeK",
+          "times": [
+            "9481",
+            "1051",
+            "1311"
+          ]
+        },
+        {
+          "stop": "noitatS yawliaR seirfmuD",
+          "times": [
+            "8412",
+            "8191",
+            "-",
+            "8561",
+            "8541",
+            "8521",
+            "8211",
+            "8380"
+          ]
+        },
+        {
+          "stop": "noitatS yawliaR seirfmuD",
+          "times": [
+            "4481",
+            "7541",
+            "7211"
+          ]
+        },
+        {
+          "stop": "teertS hcuelccuB seirfmuD",
+          "times": [
+            "3412",
+            "3191",
+            "-",
+            "3561",
+            "3541",
+            "3521",
+            "3211",
+            "5380"
+          ]
+        },
+        {
+          "stop": "teertS hcuelccuB seirfmuD 838 1",
+          "times": [
+            "1541",
+            "1211"
+          ]
+        },
+        {
+          "stop": "IRGD ,gninaoL hcorraG 731 2",
+          "times": [
+            "7091",
+            "-",
+            "7461",
+            "7441",
+            "7421",
+            "7111"
+          ]
+        },
+        {
+          "stop": "IRGD ,gninaoL hcorraG",
+          "times": [
+            "",
+            "5441",
+            "5111"
+          ]
+        },
+        {
+          "stop": "toofhcoL",
+          "times": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "7180"
+          ]
+        },
+        {
+          "stop": "toofhcoL",
+          "times": [
+            "8281",
+            "7341",
+            "7011"
+          ]
+        },
+        {
+          "stop": "droftekcorC",
+          "times": [
+            "7212",
+            "7581",
+            "-",
+            "7361",
+            "7341",
+            "7321",
+            "7011",
+            "7080"
+          ]
+        },
+        {
+          "stop": "droftekcorC",
+          "times": [
+            "4281",
+            "3341",
+            "3011"
+          ]
+        },
+        {
+          "stop": "mlohgnirpS",
+          "times": [
+            "7112",
+            "3581",
+            "-",
+            "3361",
+            "3341",
+            "3321",
+            "3011",
+            "3080"
+          ]
+        },
+        {
+          "stop": "mlohgnirpS",
+          "times": [
+            "7181",
+            "6241",
+            "6501"
+          ]
+        },
+        {
+          "stop": "looP gnimmiwS salguoD eltsaC",
+          "times": [
+            "3112",
+            "6481",
+            "-",
+            "6261",
+            "6241",
+            "6221",
+            "6501",
+            "6570"
+          ]
+        },
+        {
+          "stop": "looP gnimmiwS salguoD eltsaC",
+          "times": [
+            "5181",
+            "4241",
+            "4501"
+          ]
+        },
+        {
+          "stop": "teertS gniK ,salguoD eltsaC",
+          "times": [
+            "6012",
+            "4481",
+            "-",
+            "4261",
+            "4241",
+            "4221",
+            "4501",
+            "4570"
+          ]
+        },
+        {
+          "stop": "teertS gniK ,salguoD eltsaC",
+          "times": [
+            "0181",
+            "9141",
+            "9401"
+          ]
+        },
+        {
+          "stop": "eeD fo egdirB",
+          "times": [
+            "4012",
+            "9381",
+            "-",
+            "9161",
+            "9141",
+            "9121",
+            "9401",
+            "9470"
+          ]
+        },
+        {
+          "stop": "eeD fo egdirB",
+          "times": [
+            "2081",
+            "2141",
+            "2401"
+          ]
+        },
+        {
+          "stop": "mlohnywT",
+          "times": [
+            "9502",
+            "2381",
+            "-",
+            "2161",
+            "2141",
+            "2121",
+            "2401",
+            "2470"
+          ]
+        },
+        {
+          "stop": "mlohnywT",
+          "times": [
+            "2571",
+            "2041",
+            "0301"
+          ]
+        },
+        {
+          "stop": "traped teelF fo esuohetaG",
+          "times": [
+            "2502",
+            "2281",
+            "-",
+            "2061",
+            "2041",
+            "2021",
+            "2301",
+            "2370"
+          ]
+        },
+        {
+          "stop": "traped teelF fo esuohetaG",
+          "times": [
+            "2571",
+            "2531",
+            "0201"
+          ]
+        },
+        {
+          "stop": "evirra teelF fo esuohetaG",
+          "times": [
+            "2502",
+            "2281",
+            "-",
+            "2551",
+            "2531",
+            "2511",
+            "2201",
+            "2370"
+          ]
+        },
+        {
+          "stop": "evirra teelF fo esuohetaG",
+          "times": [
+            "0471",
+            "0431",
+            "5001"
+          ]
+        },
+        {
+          "stop": "htiulsraC",
+          "times": [
+            "0402",
+            "0181",
+            "-",
+            "0451",
+            "0431",
+            "0411",
+            "0101",
+            "0270"
+          ]
+        },
+        {
+          "stop": "htiulsraC",
+          "times": [
+            "2371",
+            "2331",
+            "7590"
+          ]
+        },
+        {
+          "stop": "nwoteerC",
+          "times": [
+            "2302",
+            "2081",
+            "-",
+            "2351",
+            "2331",
+            "2311",
+            "2001",
+            "2170"
+          ]
+        },
+        {
+          "stop": "nwoteerC",
+          "times": [
+            "4271",
+            "4231",
+            "9490"
+          ]
+        },
+        {
+          "stop": "erunlaP",
+          "times": [
+            "4202",
+            "4571",
+            "-",
+            "4251",
+            "4231",
+            "4211",
+            "4590",
+            "4070"
+          ]
+        },
+        {
+          "stop": "erunlaP",
+          "times": [
+            "1271",
+            "1231",
+            "6490"
+          ]
+        },
+        {
+          "stop": "giarckcalB",
+          "times": [
+            "1202",
+            "1571",
+            "-",
+            "1251",
+            "1231",
+            "1211",
+            "1590",
+            "1070"
+          ]
+        },
+        {
+          "stop": "giarckcalB",
+          "times": [
+            "5171",
+            "5131",
+            "0490"
+          ]
+        },
+        {
+          "stop": "qS doowhsaD ,trawetS notweN",
+          "times": [
+            "3102",
+            "5471",
+            "2161",
+            "5151",
+            "5131",
+            "5111",
+            "5490",
+            "5560"
+          ]
+        },
+        {
+          "stop": "qS doowhsaD ,trawetS notweN",
+          "times": [
+            "2071",
+            "2031",
+            "7290"
+          ]
+        },
+        {
+          "stop": "nawockriK",
+          "times": [
+            "2002",
+            "2371",
+            "9551",
+            "2051",
+            "2031",
+            "2011",
+            "2390",
+            "2460"
+          ]
+        },
+        {
+          "stop": "nawockriK",
+          "times": [
+            "7461",
+            "7421",
+            "2190"
+          ]
+        },
+        {
+          "stop": "eculnelG",
+          "times": [
+            "7491",
+            "7171",
+            "6451",
+            "7441",
+            "7421",
+            "7401",
+            "7190",
+            "7260"
+          ]
+        },
+        {
+          "stop": "eculnelG",
+          "times": [
+            "0461",
+            "0421",
+            "5090"
+          ]
+        },
+        {
+          "stop": "tigarnuD",
+          "times": [
+            "0491",
+            "0171",
+            "1451",
+            "0441",
+            "0421",
+            "0401",
+            "0190",
+            "0260"
+          ]
+        },
+        {
+          "stop": "tigarnuD",
+          "times": [
+            "5361",
+            "5321",
+            "0090"
+          ]
+        },
+        {
+          "stop": "ydenneK eltsaC",
+          "times": [
+            "5391",
+            "5071",
+            "6351",
+            "5341",
+            "5321",
+            "5301",
+            "5090",
+            "5160"
+          ]
+        },
+        {
+          "stop": "ydenneK eltsaC",
+          "times": [
+            "0361",
+            "0321",
+            "5580"
+          ]
+        },
+        {
+          "stop": "eidoR troP ,rearnartS",
+          "times": [
+            "0391",
+            "0071",
+            "035"
+          ]
+        },
+        {
+          "stop": "eid oR troP ,rearnartS yadnuS DS yadrutaS ot yadnoM",
+          "times": [
+            "5491",
+            "5551",
+            "5511"
+          ]
+        },
+        {
+          "stop": "eidoR troP ,rearnartS",
+          "times": [
+            "6522",
+            "6491",
+            "6561",
+            "6471",
+            "1451",
+            "1141",
+            "6511",
+            "1480"
+          ]
+        },
+        {
+          "stop": "eidoR troP ,rearnartS",
+          "times": [
+            "0491",
+            "0551",
+            "0511"
+          ]
+        },
+        {
+          "stop": "ydenneK eltsaC",
+          "times": [
+            "1522",
+            "1491",
+            "0561",
+            "1471",
+            "6351",
+            "6041",
+            "1511",
+            "6380"
+          ]
+        },
+        {
+          "stop": "ydenneK eltsaC",
+          "times": [
+            "6391",
+            "6451",
+            "6411"
+          ]
+        },
+        {
+          "stop": "tigarnuD",
+          "times": [
+            "6422",
+            "6391",
+            "5461",
+            "6371",
+            "1351",
+            "1041",
+            "6411",
+            "1380"
+          ]
+        },
+        {
+          "stop": "tigarnuD",
+          "times": [
+            "0391",
+            "0451",
+            "0411"
+          ]
+        },
+        {
+          "stop": "eculnelG",
+          "times": [
+            "0422",
+            "0391",
+            "0461",
+            "0371",
+            "5251",
+            "5531",
+            "0411",
+            "5280"
+          ]
+        },
+        {
+          "stop": "eculnelG",
+          "times": [
+            "5191",
+            "5251",
+            "5211"
+          ]
+        },
+        {
+          "stop": "nawockriK",
+          "times": [
+            "5222",
+            "5191",
+            "8261",
+            "5171",
+            "0151",
+            "0431",
+            "5211",
+            "0180"
+          ]
+        },
+        {
+          "stop": "nawockriK",
+          "times": [
+            "5091",
+            "5151",
+            "5111"
+          ]
+        },
+        {
+          "stop": "qS doowhsaD ,trawetS notweN",
+          "times": [
+            "3122",
+            "3091",
+            "516"
+          ]
+        },
+        {
+          "stop": "qS doowhsaD ,trawetS notweN",
+          "times": [
+            "0091",
+            "0151",
+            "0111"
+          ]
+        },
+        {
+          "stop": "giarckcalB",
+          "times": [
+            "6022",
+            "6581",
+            "-",
+            "6561",
+            "1541",
+            "1231",
+            "6011",
+            "1570"
+          ]
+        },
+        {
+          "stop": "giarckcalB",
+          "times": [
+            "8581",
+            "8051",
+            "8011"
+          ]
+        },
+        {
+          "stop": "erunlaP",
+          "times": [
+            "4022",
+            "4581",
+            "-",
+            "4561",
+            "9441",
+            "9131",
+            "4011",
+            "9470"
+          ]
+        },
+        {
+          "stop": "erunlaP",
+          "times": [
+            "0581",
+            "0051",
+            "0011"
+          ]
+        },
+        {
+          "stop": "nwoteerC",
+          "times": [
+            "6512",
+            "6481",
+            "-",
+            "6461",
+            "1441",
+            "1131",
+            "6501",
+            "1470"
+          ]
+        },
+        {
+          "stop": "nwoteerC",
+          "times": [
+            "2481",
+            "2541",
+            "2501"
+          ]
+        },
+        {
+          "stop": "htiulsraC",
+          "times": [
+            "0512",
+            "0481",
+            "-",
+            "0461",
+            "5341",
+            "5031",
+            "0501",
+            "5370"
+          ]
+        },
+        {
+          "stop": "htiulsraC",
+          "times": [
+            "0381",
+            "0441",
+            "0401"
+          ]
+        },
+        {
+          "stop": "traped teelF fo esuohetaG",
+          "times": [
+            "5312",
+            "5281",
+            "-",
+            "5261",
+            "0241",
+            "0521",
+            "5301",
+            "0270"
+          ]
+        },
+        {
+          "stop": "traped teelF fo esuohetaG",
+          "times": [
+            "0381",
+            "0341",
+            "0301"
+          ]
+        },
+        {
+          "stop": "evirra teelF fo esuohetaG",
+          "times": [
+            "5312",
+            "5281",
+            "-",
+            "5261",
+            "0141",
+            "0421",
+            "5201",
+            "0270"
+          ]
+        },
+        {
+          "stop": "evirra teelF fo esuohetaG",
+          "times": [
+            "8181",
+            "8141",
+            "8101"
+          ]
+        },
+        {
+          "stop": "mlohnywT",
+          "times": [
+            "5212",
+            "5181",
+            "-",
+            "5161",
+            "0041",
+            "0321",
+            "5101",
+            "0170"
+          ]
+        },
+        {
+          "stop": "mlohnywT",
+          "times": [
+            "0181",
+            "0141",
+            "0101"
+          ]
+        },
+        {
+          "stop": "eeD fo egdirB",
+          "times": [
+            "7112",
+            "7081",
+            "-",
+            "7061",
+            "2531",
+            "2221",
+            "7001",
+            "2070"
+          ]
+        },
+        {
+          "stop": "eeD fo egdirB",
+          "times": [
+            "5081",
+            "5041",
+            "5001"
+          ]
+        },
+        {
+          "stop": "teertS krawgnilraC salguoD eltsaC",
+          "times": [
+            "2112",
+            "2081",
+            "-",
+            "2061",
+            "7431",
+            "7121",
+            "2001",
+            "7560"
+          ]
+        },
+        {
+          "stop": "teertS krawgnilraC salguoD eltsaC",
+          "times": [
+            "2081",
+            "2041",
+            "2001"
+          ]
+        },
+        {
+          "stop": "looP gnimmiwS salguoD eltsaC",
+          "times": [
+            "7012",
+            "7571",
+            "-",
+            "7551",
+            "2431",
+            "2121",
+            "7590",
+            "2560"
+          ]
+        },
+        {
+          "stop": "looP gnimmiwS salguoD eltsaC",
+          "times": [
+            "3571",
+            "3531",
+            "3590"
+          ]
+        },
+        {
+          "stop": "mlohgnirpS",
+          "times": [
+            "7502",
+            "7471",
+            "-",
+            "7451",
+            "2331",
+            "2021",
+            "7490",
+            "2460"
+          ]
+        },
+        {
+          "stop": "mlohgnirpS",
+          "times": [
+            "8471",
+            "8431",
+            "849"
+          ]
+        },
+        {
+          "stop": "droftekcorC 250 2",
+          "times": [
+            "2471",
+            "-",
+            "2451",
+            "7231",
+            "7511",
+            "2490",
+            "7360"
+          ]
+        },
+        {
+          "stop": "drof tekcorC",
+          "times": [
+            "0471",
+            "0431",
+            ""
+          ]
+        },
+        {
+          "stop": "toofhcoL",
+          "times": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "stop": "toofhcoL",
+          "times": [
+            "5371",
+            "5331",
+            "6390"
+          ]
+        },
+        {
+          "stop": "IRGD ,gninaoL hcorraG",
+          "times": [
+            "1402",
+            "1371",
+            "-",
+            "1351",
+            "6131",
+            "6411",
+            "1390",
+            "6260"
+          ]
+        },
+        {
+          "stop": "IRGD ,gninaoL hcorraG",
+          "times": [
+            "0371",
+            "0331",
+            "0390"
+          ]
+        },
+        {
+          "stop": "sdnasetihW seirfmuD",
+          "times": [
+            "3302",
+            "3271",
+            "-",
+            "3251",
+            "8031",
+            "8311",
+            "3290",
+            "5160"
+          ]
+        },
+        {
+          "stop": "sdnasetihW seirfmuD",
+          "times": [
+            "3271",
+            "3231",
+            "3290"
+          ]
+        },
+        {
+          "stop": "ertneC enruberoL seirfmuD",
+          "times": [
+            "8202",
+            "8171",
+            "-",
+            "8151",
+            "3031",
+            "3311",
+            "8190",
+            "3160"
+          ]
+        },
+        {
+          "stop": "ertneC enruberoL seirfmuD",
+          "times": [
+            "5171",
+            "5131",
+            "5190"
+          ]
+        },
+        {
+          "stop": "noitatS yawliaR seirfmuD",
+          "times": [
+            "5202",
+            "5171",
+            "-",
+            "5151",
+            "0031",
+            "0311",
+            "5190",
+            "0160"
+          ]
+        }
+      ]
+    }
+  ],
+  "rawText": "#\n\nCILBUP\n\n## Monday to Saturday\n\nylno syadloohcs no setarepO DS syadloohcs no ymedacA rearnartS aiv setarepO AS sedoC ot yeK\n\n9481 1051 1311 noitatS yawliaR seirfmuD 8412 8191 - 8561 8541 8521 8211 8380 noitatS yawliaR seirfmuD 4481 7541 7211 teertS hcuelccuB seirfmuD 3412 3191 - 3561 3541 3521 3211 5380 teertS hcuelccuB seirfmuD 838 1 1541 1211 IRGD ,gninaoL hcorraG 731 2 7091 - 7461 7441 7421 7111 72 80 IRGD ,gninaoL hcorraG \u2026 5441 5111 toofhcoL - - - - - - - 7180 toofhcoL 8281 7341 7011 droftekcorC 7212 7581 - 7361 7341 7321 7011 7080 droftekcorC 4281 3341 3011 mlohgnirpS 7112 3581 - 3361 3341 3321 3011 3080 mlohgnirpS 7181 6241 6501 looP gnimmiwS salguoD eltsaC 3112 6481 - 6261 6241 6221 6501 6570 looP gnimmiwS salguoD eltsaC 5181 4241 4501 teertS gniK ,salguoD eltsaC 6012 4481 - 4261 4241 4221 4501 4570 teertS gniK ,salguoD eltsaC 0181 9141 9401 eeD fo egdirB 4012 9381 - 9161 9141 9121 9401 9470 eeD fo egdirB 2081 2141 2401 mlohnywT 9502 2381 - 2161 2141 2121 2401 2470 mlohnywT 2571 2041 0301 traped teelF fo esuohetaG 2502 2281 - 2061 2041 2021 2301 2370 traped teelF fo esuohetaG 2571 2531 0201 evirra teelF fo esuohetaG 2502 2281 - 2551 2531 2511 2201 2370 evirra teelF fo esuohetaG 0471 0431 5001 htiulsraC 0402 0181 - 0451 0431 0411 0101 0270 htiulsraC 2371 2331 7590 nwoteerC 2302 2081 - 2351 2331 2311 2001 2170 nwoteerC 4271 4231 9490 erunlaP 4202 4571 - 4251 4231 4211 4590 4070 erunlaP 1271 1231 6490 giarckcalB 1202 1571 - 1251 1231 1211 1590 1070 giarckcalB 5171 5131 0490 qS doowhsaD ,trawetS notweN 3102 5471 2161 5151 5131 5111 5490 5560 qS doowhsaD ,trawetS notweN 2071 2031 7290 nawockriK 2002 2371 9551 2051 2031 2011 2390 2460 nawockriK 7461 7421 2190 eculnelG 7491 7171 6451 7441 7421 7401 7190 7260 eculnelG 0461 0421 5090 tigarnuD 0491 0171 1451 0441 0421 0401 0190 0260 tigarnuD 5361 5321 0090 ydenneK eltsaC 5391 5071 6351 5341 5321 5301 5090 5160 ydenneK eltsaC 0361 0321 5580 eidoR troP ,rearnartS 0391 0071 035 1 0341 0321 0301 0090 0160 eid oR troP ,rearnartS yadnuS DS yadrutaS ot yadnoM\n\n5491 5551 5511 eidoR troP ,rearnartS 6522 6491 6561 6471 1451 1141 6511 1480 eidoR troP ,rearnartS 0491 0551 0511 ydenneK eltsaC 1522 1491 0561 1471 6351 6041 1511 6380 ydenneK eltsaC 6391 6451 6411 tigarnuD 6422 6391 5461 6371 1351 1041 6411 1380 tigarnuD 0391 0451 0411 eculnelG 0422 0391 0461 0371 5251 5531 0411 5280 eculnelG 5191 5251 5211 nawockriK 5222 5191 8261 5171 0151 0431 5211 0180 nawockriK 5091 5151 5111 qS doowhsaD ,trawetS notweN 3122 3091 516 1 3071 8541 8231 3111 8570 qS doowhsaD ,trawetS notweN 0091 0151 0111 giarckcalB 6022 6581 - 6561 1541 1231 6011 1570 giarckcalB 8581 8051 8011 erunlaP 4022 4581 - 4561 9441 9131 4011 9470 erunlaP 0581 0051 0011 nwoteerC 6512 6481 - 6461 1441 1131 6501 1470 nwoteerC 2481 2541 2501 htiulsraC 0512 0481 - 0461 5341 5031 0501 5370 htiulsraC 0381 0441 0401 traped teelF fo esuohetaG 5312 5281 - 5261 0241 0521 5301 0270 traped teelF fo esuohetaG 0381 0341 0301 evirra teelF fo esuohetaG 5312 5281 - 5261 0141 0421 5201 0270 evirra teelF fo esuohetaG 8181 8141 8101 mlohnywT 5212 5181 - 5161 0041 0321 5101 0170 mlohnywT 0181 0141 0101 eeD fo egdirB 7112 7081 - 7061 2531 2221 7001 2070 eeD fo egdirB 5081 5041 5001 teertS krawgnilraC salguoD eltsaC 2112 2081 - 2061 7431 7121 2001 7560 teertS krawgnilraC salguoD eltsaC 2081 2041 2001 looP gnimmiwS salguoD eltsaC 7012 7571 - 7551 2431 2121 7590 2560 looP gnimmiwS salguoD eltsaC 3571 3531 3590 mlohgnirpS 7502 7471 - 7451 2331 2021 7490 2460 mlohgnirpS 8471 8431 849 0 droftekcorC 250 2 2471 - 2451 7231 7511 2490 7360 drof tekcorC 0471 0431 \u2026 toofhcoL - - - - - - - - toofhcoL 5371 5331 6390 IRGD ,gninaoL hcorraG 1402 1371 - 1351 6131 6411 1390 6260 IRGD ,gninaoL hcorraG 0371 0331 0390 sdnasetihW seirfmuD 3302 3271 - 3251 8031 8311 3290 5160 sdnasetihW seirfmuD 3271 3231 3290 ertneC enruberoL seirfmuD 8202 8171 - 8151 3031 3311 8190 3160 ertneC enruberoL seirfmuD 5171 5131 5190 noitatS yawliaR seirfmuD 5202 5171 - 5151 0031 0311 5190 0160 noitat S yawliaR seirfmuD yadnuS DS AS yadrutaS ot yadnoM\n\nELBATEMIT\n\nrearnartS ot trawetS notweN ot seirfmuD 005 ecivreS\n",
+  "ok": true,
+  "error": null
+}

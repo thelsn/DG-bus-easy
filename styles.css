@@ -1,0 +1,177 @@
+:root {
+  --purple: #5b2c86;
+  --purple-dark: #3f1b61;
+  --purple-light: #efe6f7;
+  --bg: #f3f0f6;
+  --card: #fff;
+  --text: #222;
+  --muted: #555;
+  --line: #d5c9df;
+  --ok: #1f6b3a;
+  --bad: #8a1f1f;
+}
+
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; }
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: var(--text);
+  background: var(--bg);
+  line-height: 1.35;
+}
+
+.wrap { width: min(920px, calc(100% - 1rem)); margin: 0 auto; }
+
+.top {
+  background: var(--purple);
+  color: #fff;
+  padding: 0.8rem 0;
+}
+.top h1 { margin: 0; font-size: 1.3rem; }
+.sub { margin: 0.2rem 0 0; font-size: 0.9rem; }
+
+.controls { margin: 0.75rem 0; display: grid; gap: 0.45rem; }
+#search {
+  width: 100%;
+  padding: 0.7rem;
+  border: 1px solid var(--line);
+  border-radius: 3px;
+  font-size: 1rem;
+}
+.chips { display: flex; flex-wrap: wrap; gap: 0.3rem; }
+.chip {
+  border: 1px solid var(--purple);
+  background: #fff;
+  color: var(--purple);
+  padding: 0.35rem 0.55rem;
+  border-radius: 3px;
+  font-size: 0.85rem;
+}
+.chip.on { background: var(--purple); color: #fff; }
+.check { color: var(--muted); font-size: 0.95rem; }
+
+.msg { margin: 0.35rem 0; color: var(--muted); font-size: 0.9rem; }
+.msg.ok { color: var(--ok); }
+.msg.bad { color: var(--bad); }
+
+.list { list-style: none; margin: 0 0 1rem; padding: 0; display: grid; gap: 0.35rem; }
+.item {
+  width: 100%;
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  gap: 0.55rem;
+  align-items: start;
+  text-align: left;
+  border: 1px solid var(--line);
+  background: var(--card);
+  padding: 0.6rem;
+  border-radius: 3px;
+  font: inherit;
+  color: inherit;
+}
+.item.on { border-color: var(--purple); background: var(--purple-light); }
+.num {
+  min-width: 2.5rem;
+  text-align: center;
+  background: var(--purple);
+  color: #fff;
+  font-weight: 700;
+  padding: 0.35rem 0.3rem;
+  border-radius: 3px;
+}
+.name { margin: 0; font-weight: 700; font-size: 0.95rem; }
+.group { margin: 0.15rem 0 0; color: var(--muted); font-size: 0.8rem; }
+.star {
+  border: 0;
+  background: transparent;
+  color: var(--purple);
+  font-size: 1.15rem;
+  padding: 0;
+}
+
+.box {
+  border: 1px solid var(--line);
+  background: var(--card);
+  padding: 0.75rem;
+  border-radius: 3px;
+  margin-bottom: 1rem;
+}
+.hidden { display: none !important; }
+
+.detail-top { display: grid; gap: 0.7rem; }
+.badge {
+  display: inline-block;
+  background: var(--purple);
+  color: #fff;
+  font-weight: 700;
+  padding: 0.2rem 0.45rem;
+  border-radius: 3px;
+  font-size: 0.85rem;
+}
+.detail-top h2 { margin: 0.3rem 0 0; font-size: 1.05rem; }
+.actions { display: flex; flex-wrap: wrap; gap: 0.35rem; }
+.actions button, .actions a {
+  border: 1px solid var(--purple);
+  background: #fff;
+  color: var(--purple);
+  text-decoration: none;
+  padding: 0.45rem 0.65rem;
+  border-radius: 3px;
+  font: inherit;
+  font-weight: 700;
+}
+.actions button.on { background: var(--purple); color: #fff; }
+
+.tt { margin-top: 0.7rem; border-top: 1px solid var(--line); padding-top: 0.7rem; }
+.tt h3 { margin: 0 0 0.35rem; font-size: 0.95rem; color: var(--purple-dark); }
+.scroll {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  border: 1px solid var(--line);
+}
+table.grid {
+  border-collapse: collapse;
+  min-width: 100%;
+  font-size: 0.82rem;
+}
+table.grid th, table.grid td {
+  border: 1px solid var(--line);
+  padding: 0.3rem 0.4rem;
+  white-space: nowrap;
+  text-align: left;
+}
+table.grid th { background: var(--purple-light); }
+table.grid td:first-child, table.grid th:first-child {
+  position: sticky;
+  left: 0;
+  background: #fff;
+  font-weight: 700;
+  z-index: 1;
+}
+table.grid th:first-child { background: var(--purple-light); }
+
+.raw {
+  white-space: pre-wrap;
+  font-family: Consolas, Menlo, monospace;
+  font-size: 0.78rem;
+  background: #24182f;
+  color: #f4ecff;
+  padding: 0.65rem;
+  border-radius: 3px;
+  max-height: 22rem;
+  overflow: auto;
+}
+
+.foot {
+  color: var(--muted);
+  font-size: 0.78rem;
+  padding: 0 0 1.4rem;
+}
+.foot a { color: var(--purple); }
+
+@media (min-width: 760px) {
+  .detail-top {
+    grid-template-columns: 1fr auto;
+    align-items: start;
+  }
+}

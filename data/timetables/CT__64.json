@@ -1,0 +1,109 @@
+{
+  "key": "CT::64",
+  "id": "CT",
+  "name": "Community transport timetable - Moniaive to Castle Douglas - From 7 August 2025",
+  "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-08/1-CVCT-Moniaive-to-Castle-Douglas-From-7-August-2025.pdf",
+  "extractedAt": "2026-09-11",
+  "title": "OFFICIAL",
+  "sections": [
+    {
+      "title": "Alternate Thursdays Only - to Castle Douglas",
+      "headers": [],
+      "rows": [
+        {
+          "stop": "Moniaive",
+          "times": [
+            "1115"
+          ]
+        },
+        {
+          "stop": "Kirkland",
+          "times": [
+            "1120"
+          ]
+        },
+        {
+          "stop": "Wallaceton",
+          "times": [
+            "1125"
+          ]
+        },
+        {
+          "stop": "Dunscore",
+          "times": [
+            "1130"
+          ]
+        },
+        {
+          "stop": "Newtonairds",
+          "times": [
+            "1135"
+          ]
+        },
+        {
+          "stop": "Shawhead",
+          "times": [
+            "1145"
+          ]
+        },
+        {
+          "stop": "Castle Douglas",
+          "times": [
+            "1205"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Alternate Thursdays Only - to Moniaive",
+      "headers": [],
+      "rows": [
+        {
+          "stop": "Castle Douglas",
+          "times": [
+            "1505"
+          ]
+        },
+        {
+          "stop": "Shawhead",
+          "times": [
+            "1525"
+          ]
+        },
+        {
+          "stop": "Newtonairds",
+          "times": [
+            "1535"
+          ]
+        },
+        {
+          "stop": "Dunscore",
+          "times": [
+            "1540"
+          ]
+        },
+        {
+          "stop": "Wallaceton",
+          "times": [
+            "1545"
+          ]
+        },
+        {
+          "stop": "Kirkland",
+          "times": [
+            "1550"
+          ]
+        },
+        {
+          "stop": "Moniaive",
+          "times": [
+            "1555"
+          ]
+        }
+      ]
+    }
+  ],
+  "rawText": "1 CVCT Moniaive to Castle Douglas\n\n1 CVCT Moniaive to Castle Douglas\n\nTIMETABLE\n\nAlternate Thursdays Only \nMoniaive 1115 Castle Douglas 1505 \nKirkland 1120 Shawhead 1525 \nWallaceton 1125 Newtonairds 1535 \nDunscore 1130 Dunscore 1540 \nNewtonairds 1135 Wallaceton 1545 \nShawhead 1145 Kirkland 1550 \nCastle Douglas 1205 Moniaive 1555 \n\nCommunity Transport\n\n# OFFICIAL\n",
+  "ok": true,
+  "error": null
+}

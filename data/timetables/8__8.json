@@ -1,0 +1,58 @@
+{
+  "key": "8::8",
+  "id": "8",
+  "name": "8 - Dumfries Town Centre - Cargenbridge - from 7 August",
+  "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/8%20Dumfries%20Town%20Centre%20to%20Cargenbridge%20-%20From%207th%20August%202025.pdf",
+  "extractedAt": "2026-09-11",
+  "title": "Service 8 Dumfries to Cargenbridge",
+  "sections": [
+    {
+      "title": "Service 8 Dumfries to Cargenbridge",
+      "headers": [
+        "",
+        "TIMETABLE",
+        ""
+      ],
+      "rows": [
+        {
+          "stop": "-",
+          "times": [
+            "-",
+            "-"
+          ]
+        },
+        {
+          "stop": "",
+          "times": [
+            "Monday to Saturday",
+            ""
+          ]
+        },
+        {
+          "stop": "",
+          "times": [
+            "Burns Statue 0855 0955 1055 1155 Janefield Avenue 0902 1002 1102 1202 Cargenbridge \u2026 \u2026 \u2026 \u2026 Rotchell Road 0903 1003 1103 1203 Broomlands 0905 1005 1105 1205 Drungans Dr 0910 1010 1110 1210 Burns Statue 0923 1023 1123 1223",
+            "1255 1355 1455 1555 1655 1755 1855 1302 1402 1502 1602 1702 1802 1902 \u2026 \u2026 \u2026 \u2026 \u2026 \u2026 \u2026 1303 1403 1503 1603 1703 1803 1903 1305 1405 1505 1605 1705 1805 1905 1310 1410 1510 1610 1710 1810 1910 1323 1423 1523 1623 1723 1823 1923"
+          ]
+        },
+        {
+          "stop": "",
+          "times": [
+            "Sunday",
+            ""
+          ]
+        },
+        {
+          "stop": "",
+          "times": [
+            "Burns Statue 1105 1305 1505 1705 Janefield Avenue 1110 1310 1510 1710 Cargenbridge 1116 1316 1516 1716 Rotchell Road 1120 1320 1520 1720 Broomlands 1122 1322 1522 1722 East Riverside Dr 1127 1327 1527 1727 Burns Statue 1135 1335 1535 1735",
+            "1905 1910 1916 1920 1922 1927 1935"
+          ]
+        }
+      ]
+    }
+  ],
+  "rawText": "Service 8 Dumfries to Cargenbridge\n\n| | TIMETABLE | |\n| --- | --- | --- |\n| | Monday to Saturday | |\n| | Burns Statue 0855 0955 1055 1155 Janefield Avenue 0902 1002 1102 1202 Cargenbridge \u2026 \u2026 \u2026 \u2026 Rotchell Road 0903 1003 1103 1203 Broomlands 0905 1005 1105 1205 Drungans Dr 0910 1010 1110 1210 Burns Statue 0923 1023 1123 1223 | 1255 1355 1455 1555 1655 1755 1855 1302 1402 1502 1602 1702 1802 1902 \u2026 \u2026 \u2026 \u2026 \u2026 \u2026 \u2026 1303 1403 1503 1603 1703 1803 1903 1305 1405 1505 1605 1705 1805 1905 1310 1410 1510 1610 1710 1810 1910 1323 1423 1523 1623 1723 1823 1923 |\n| | Sunday | |\n| | Burns Statue 1105 1305 1505 1705 Janefield Avenue 1110 1310 1510 1710 Cargenbridge 1116 1316 1516 1716 Rotchell Road 1120 1320 1520 1720 Broomlands 1122 1322 1522 1722 East Riverside Dr 1127 1327 1527 1727 Burns Statue 1135 1335 1535 1735 | 1905 1910 1916 1920 1922 1927 1935 |\n| | | |\n",
+  "ok": true,
+  "error": null
+}

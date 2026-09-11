@@ -1,0 +1,44 @@
+{
+  "key": "521::62",
+  "id": "521",
+  "name": "521 - Dumfries to New Galloway to Castle Douglas - from 7 August",
+  "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/521%20Dumfries%20to%20New%20Galloway%20to%20Castle%20Douglas%20-%20From%207th%20August%202025.pdf",
+  "extractedAt": "2026-09-11",
+  "title": "OFFICIAL",
+  "sections": [
+    {
+      "title": "Service 521 Dumfries to Laurieston to Castle Douglas",
+      "headers": [
+        "",
+        "TIMETABLE",
+        ""
+      ],
+      "rows": [
+        {
+          "stop": "-",
+          "times": [
+            "-",
+            "-"
+          ]
+        },
+        {
+          "stop": "",
+          "times": [
+            "Monday to Saturday",
+            "NS WS"
+          ]
+        },
+        {
+          "stop": "",
+          "times": [
+            "CASTLE DOUGLAS LAURIESTON MOSSDALE NEW GALLOWAY DALRY arr DALRY dep BALMACLELLAN CORSOCK CROCKETFORD DFS, BUCCLEUCH STREET DFS, RAILWAY STATION D&G COLLEGE D&G COLLEGE DFS, RAILWAY STATION DFS, DG ONE DFS, LOREBURNE CENTRE DFS, WHITESANDS (5) CROCKETFORD CORSOCK BALMACLELLAN DALRY NEW GALLOWAY MOSSDALE LAURIESTON No Sunday service Key to codes",
+            "0700 \u2026 0712 0915 0722 0930 0731 0939 0737 0945 0741 0945 0748 0952 0801 1005 0811 1015 0826 1033 0830 1044 0850 \u2026 WS NS \u2026 1640 1300 1700 1303 1705 1305 1708 1310 1715 1328 1733 1339 1743 1351 1755 1358 1801 1415 1808 1425 RR 1437 RR NS Does not operate on Saturdays WS Operates on Wednesday and Saturday only RR Operates on request to driver"
+          ]
+        }
+      ]
+    }
+  ],
+  "rawText": "Local Bus Tender OFFICIAL #\n\n521 Dumfries to Laurieston to Castle Douglas\n\nService 521 Dumfries to Laurieston to Castle Douglas\n\n| | TIMETABLE | |\n| --- | --- | --- |\n| | | |\n| | Monday to Saturday | NS WS |\n| | CASTLE DOUGLAS LAURIESTON MOSSDALE NEW GALLOWAY DALRY arr DALRY dep BALMACLELLAN CORSOCK CROCKETFORD DFS, BUCCLEUCH STREET DFS, RAILWAY STATION D&G COLLEGE D&G COLLEGE DFS, RAILWAY STATION DFS, DG ONE DFS, LOREBURNE CENTRE DFS, WHITESANDS (5) CROCKETFORD CORSOCK BALMACLELLAN DALRY NEW GALLOWAY MOSSDALE LAURIESTON No Sunday service Key to codes | 0700 \u2026 0712 0915 0722 0930 0731 0939 0737 0945 0741 0945 0748 0952 0801 1005 0811 1015 0826 1033 0830 1044 0850 \u2026 WS NS \u2026 1640 1300 1700 1303 1705 1305 1708 1310 1715 1328 1733 1339 1743 1351 1755 1358 1801 1415 1808 1425 RR 1437 RR NS Does not operate on Saturdays WS Operates on Wednesday and Saturday only RR Operates on request to driver |\n\n#OFFICIAL\n",
+  "ok": true,
+  "error": null
+}

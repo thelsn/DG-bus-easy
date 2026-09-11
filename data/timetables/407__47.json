@@ -1,0 +1,235 @@
+{
+  "key": "407::47",
+  "id": "407",
+  "name": "407 - Drummore to Stranraer - From 7 August 2025",
+  "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/407%20Drummore%20to%20Stranraer%20-%20From%207th%20August%202025.pdf",
+  "extractedAt": "2026-09-11",
+  "title": "OFFICIAL",
+  "sections": [
+    {
+      "title": "Monday to Saturday",
+      "headers": [],
+      "rows": [
+        {
+          "stop": "SD SSH Stranraer, George Street",
+          "times": [
+            "-",
+            "-",
+            "-",
+            "1520",
+            "1530"
+          ]
+        },
+        {
+          "stop": "Stranraer, Port Rodie",
+          "times": [
+            "0717",
+            "0920",
+            "1320",
+            "1525",
+            "1535",
+            "1805"
+          ]
+        },
+        {
+          "stop": "Stranraer Academy",
+          "times": [
+            "-",
+            "-",
+            "-",
+            "1530",
+            "-"
+          ]
+        },
+        {
+          "stop": "Stranraer, Leisure Pool",
+          "times": [
+            "0719",
+            "0924",
+            "1324",
+            "1539",
+            "1539",
+            "1809"
+          ]
+        },
+        {
+          "stop": "Lochans",
+          "times": [
+            "-",
+            "0930",
+            "1330",
+            "1545",
+            "1545",
+            "1815"
+          ]
+        },
+        {
+          "stop": "Stoneykirk, St Stephens",
+          "times": [
+            "-",
+            "0936",
+            "1336",
+            "1551",
+            "1551",
+            "1821"
+          ]
+        },
+        {
+          "stop": "Sandhead",
+          "times": [
+            "0731",
+            "0941",
+            "1341",
+            "1556",
+            "1556",
+            "1826"
+          ]
+        },
+        {
+          "stop": "Ardwell",
+          "times": [
+            "0737",
+            "0947",
+            "1347",
+            "1602",
+            "1602",
+            "1832"
+          ]
+        },
+        {
+          "stop": "Port Logan",
+          "times": [
+            "-",
+            "0954",
+            "1354",
+            "1609",
+            "1609",
+            "1839"
+          ]
+        },
+        {
+          "stop": "Drummore",
+          "times": [
+            "0745",
+            "1004",
+            "1404",
+            "1619",
+            "1619",
+            "1849"
+          ]
+        },
+        {
+          "stop": "SD SSH Drummore",
+          "times": [
+            "0745",
+            "0745",
+            "1005",
+            "1405",
+            "1620",
+            "1850"
+          ]
+        },
+        {
+          "stop": "Port Logan",
+          "times": [
+            "0756",
+            "0756",
+            "1015",
+            "1415",
+            "1631"
+          ]
+        },
+        {
+          "stop": "Ardwell",
+          "times": [
+            "0803",
+            "0803",
+            "1022",
+            "1422",
+            "1638",
+            "1858"
+          ]
+        },
+        {
+          "stop": "Sandhead",
+          "times": [
+            "0809",
+            "0809",
+            "1028",
+            "1428",
+            "1644",
+            "1903"
+          ]
+        },
+        {
+          "stop": "Stoneykirk, St Stephens",
+          "times": [
+            "0814",
+            "0814",
+            "1033",
+            "1433",
+            "1649",
+            "1907"
+          ]
+        },
+        {
+          "stop": "Lochans",
+          "times": [
+            "0820",
+            "0820",
+            "1039",
+            "1439",
+            "1655"
+          ]
+        },
+        {
+          "stop": "Stranraer, Leisure Pool",
+          "times": [
+            "0826",
+            "0826",
+            "1045",
+            "1445",
+            "1701",
+            "1915"
+          ]
+        },
+        {
+          "stop": "Stranraer, George Street",
+          "times": [
+            "0827",
+            "0827",
+            "1046",
+            "1446",
+            "1702",
+            "1916"
+          ]
+        },
+        {
+          "stop": "Stranraer, Port Rodie",
+          "times": [
+            "0829",
+            "0829",
+            "1048",
+            "1448",
+            "-",
+            "1918"
+          ]
+        },
+        {
+          "stop": "Stranraer Academy",
+          "times": [
+            "0835",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        }
+      ]
+    }
+  ],
+  "rawText": "OFFICIAL # 407 Drummore to Stranraer\n\nService 407 Drummore to Stranraer\n\nTIMETABLE\n\nMonday to Saturday SD SSH Stranraer, George Street - - - 1520 1530 -Stranraer, Port Rodie 0717 0920 1320 1525 1535 1805 Stranraer Academy - - - 1530 - -Stranraer, Leisure Pool 0719 0924 1324 1539 1539 1809 Lochans - 0930 1330 1545 1545 1815 Stoneykirk, St Stephens - 0936 1336 1551 1551 1821 Sandhead 0731 0941 1341 1556 1556 1826 Ardwell 0737 0947 1347 1602 1602 1832 Port Logan - 0954 1354 1609 1609 1839 Drummore 0745 1004 1404 1619 1619 1849\n\nSD SSH Drummore 0745 0745 1005 1405 1620 1850 Port Logan 0756 0756 1015 1415 1631 -Ardwell 0803 0803 1022 1422 1638 1858 Sandhead 0809 0809 1028 1428 1644 1903 Stoneykirk, St Stephens 0814 0814 1033 1433 1649 1907 Lochans 0820 0820 1039 1439 1655 -Stranraer, Leisure Pool 0826 0826 1045 1445 1701 1915 Stranraer, George Street 0827 0827 1046 1446 1702 1916 Stranraer, Port Rodie 0829 0829 1048 1448 - 1918 Stranraer Academy 0835 - - - - -\n\nNo Sunday Service\n\nKey to Codes SD Operates on schooldays only SSH Operates on Saturdays and school holidays only\n\n#OFFICIAL\n",
+  "ok": true,
+  "error": null
+}

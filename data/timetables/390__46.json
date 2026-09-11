@@ -1,0 +1,47 @@
+{
+  "key": "390::46",
+  "id": "390",
+  "name": "390 - Annan to Clarencefield - from 7 August",
+  "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/390%20Annan%20to%20Clarencefield%20-%20From%207th%20August%202025.pdf",
+  "extractedAt": "2026-09-11",
+  "title": "Service 390 Annan to Clarencefield",
+  "sections": [
+    {
+      "title": "Monday to Saturday",
+      "headers": [],
+      "rows": [
+        {
+          "stop": "Annan, Butts Street",
+          "times": [
+            "1012",
+            "1223"
+          ]
+        },
+        {
+          "stop": "Powfoot",
+          "times": [
+            "1022",
+            "1233"
+          ]
+        },
+        {
+          "stop": "Newbie",
+          "times": [
+            "1032",
+            "1243"
+          ]
+        },
+        {
+          "stop": "Annan, Butts Street",
+          "times": [
+            "1039",
+            "1250"
+          ]
+        }
+      ]
+    }
+  ],
+  "rawText": "PUBLIC # 390 Annan to Clarencefield\n\nService 390 Annan to Clarencefield\n\nTIMETABLE\n\nMonday to Saturday \nAnnan, Butts Street 1012 1223 \nPowfoot 1022 1233 \nNewbie 1032 1243 \nAnnan, Butts Street 1039 1250 \n\nNo Sunday Service\n\n# PUBLIC\n",
+  "ok": true,
+  "error": null
+}

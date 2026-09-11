@@ -1,0 +1,451 @@
+{
+  "key": "420::51",
+  "id": "420",
+  "name": "420 - Newton Stewart Town Service - from 7 August",
+  "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/420%20Newton%20Stewart%20Town%20Service%20-%20From%207th%20August%202025.pdf",
+  "extractedAt": "2026-09-11",
+  "title": "Service\n\nService 420 Newton Stewart Town Service",
+  "sections": [
+    {
+      "title": "Monday to Saturday",
+      "headers": [],
+      "rows": [
+        {
+          "stop": "Newton Stewart, Dashwood Sq",
+          "times": [
+            "",
+            "1020",
+            "",
+            "",
+            "1120",
+            "",
+            "",
+            "1220",
+            "",
+            "1320",
+            ""
+          ]
+        },
+        {
+          "stop": "Newton Stewart, Elizabeth Crescent",
+          "times": [
+            "",
+            "1022",
+            "",
+            "",
+            "1122",
+            "",
+            "",
+            "1222",
+            "",
+            "1322",
+            ""
+          ]
+        },
+        {
+          "stop": "Newton Stewart, Elm Grove",
+          "times": [
+            "",
+            "1023",
+            "",
+            "",
+            "1123",
+            "",
+            "",
+            "1223",
+            "",
+            "1323",
+            ""
+          ]
+        },
+        {
+          "stop": "Newton Stewart Hospital",
+          "times": [
+            "",
+            "1032",
+            "",
+            "",
+            "1132",
+            "",
+            "",
+            "1232",
+            "",
+            "1332",
+            ""
+          ]
+        },
+        {
+          "stop": "St Couans Road/Pl",
+          "times": [
+            "",
+            "1035",
+            "",
+            "",
+            "1135",
+            "",
+            "",
+            "1235",
+            "",
+            "1335",
+            ""
+          ]
+        },
+        {
+          "stop": "Newton Stewart, Dashwood Sq",
+          "times": [
+            "",
+            "1040",
+            "1040",
+            "",
+            "1140",
+            "1140",
+            "",
+            "",
+            "",
+            "1340",
+            "1340"
+          ]
+        },
+        {
+          "stop": "Victoria Street",
+          "times": [
+            "",
+            "",
+            "1042",
+            "",
+            "",
+            "1142",
+            "",
+            "",
+            "",
+            "",
+            "1342"
+          ]
+        },
+        {
+          "stop": "Bower Drive",
+          "times": [
+            "",
+            "",
+            "1046",
+            "",
+            "",
+            "1146",
+            "",
+            "",
+            "",
+            "",
+            "1346"
+          ]
+        },
+        {
+          "stop": "Old Minigaff",
+          "times": [
+            "",
+            "",
+            "1048",
+            "",
+            "",
+            "1148",
+            "",
+            "",
+            "",
+            "",
+            "1348"
+          ]
+        },
+        {
+          "stop": "McGregor Drive",
+          "times": [
+            "",
+            "",
+            "1052",
+            "",
+            "",
+            "1152",
+            "",
+            "",
+            "",
+            "",
+            "1352"
+          ]
+        },
+        {
+          "stop": "Heron Way",
+          "times": [
+            "",
+            "",
+            "1054",
+            "",
+            "",
+            "1154",
+            "",
+            "",
+            "",
+            "",
+            "1354"
+          ]
+        },
+        {
+          "stop": "Dunkitterick Drive",
+          "times": [
+            "",
+            "",
+            "1056",
+            "",
+            "",
+            "1156",
+            "",
+            "",
+            "",
+            "",
+            "1356"
+          ]
+        },
+        {
+          "stop": "Masonfield",
+          "times": [
+            "",
+            "",
+            "1058",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "1358"
+          ]
+        },
+        {
+          "stop": "Victoria Street",
+          "times": [
+            "",
+            "",
+            "1102",
+            "",
+            "",
+            "1200",
+            "",
+            "",
+            "",
+            "",
+            "1402"
+          ]
+        },
+        {
+          "stop": "Sainsburys",
+          "times": [
+            "",
+            "",
+            "1104",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Newton Stewart, Dashwood Sq",
+          "times": [
+            "1010",
+            "",
+            "1108",
+            "",
+            "",
+            "1205",
+            "1210",
+            "",
+            "",
+            "",
+            "1405"
+          ]
+        },
+        {
+          "stop": "Windsor Terrace",
+          "times": [
+            "1013",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "1213",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Douglas Ewart High",
+          "times": [
+            "1015",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "1215",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Newton Stewart, Dashwood Sq",
+          "times": [
+            "1020",
+            "",
+            "",
+            "1108",
+            "",
+            "",
+            "1220",
+            "",
+            "1310",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Victoria Street",
+          "times": [
+            "",
+            "",
+            "",
+            "1109",
+            "",
+            "",
+            "",
+            "",
+            "1311",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Ashgrove Court",
+          "times": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "1314",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Douglas Terrace",
+          "times": [
+            "",
+            "",
+            "",
+            "1114",
+            "",
+            "",
+            "",
+            "",
+            "1315",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "East Drive",
+          "times": [
+            "",
+            "",
+            "",
+            "1115",
+            "",
+            "",
+            "",
+            "",
+            "1316",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Douglas Terrace",
+          "times": [
+            "",
+            "",
+            "",
+            "1116",
+            "",
+            "",
+            "",
+            "",
+            "1317",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Ashgrove Court",
+          "times": [
+            "",
+            "",
+            "",
+            "1117",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Victoria Street",
+          "times": [
+            "",
+            "",
+            "",
+            "1118",
+            "",
+            "",
+            "",
+            "",
+            "1319",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Newton Stewart, Dashwood Sq",
+          "times": [
+            "",
+            "",
+            "",
+            "1120",
+            "",
+            "",
+            "",
+            "",
+            "1320",
+            "",
+            ""
+          ]
+        }
+      ]
+    }
+  ],
+  "rawText": "420 Newton Stewart Town Service\n\nService 420 Newton Stewart Town Service\n\nTIMETABLE\n\nMonday to Saturday Newton Stewart, Dashwood Sq ... 1020 ... ... 1120 ... ... 1220 ... 1320 ... Newton Stewart, Elizabeth Crescent ... 1022 ... ... 1122 ... ... 1222 ... 1322 ... Newton Stewart, Elm Grove ... 1023 ... ... 1123 ... ... 1223 ... 1323 ... Newton Stewart Hospital ... 1032 ... ... 1132 ... ... 1232 ... 1332 ... St Couans Road/Pl ... 1035 ... ... 1135 ... ... 1235 ... 1335 ... Newton Stewart, Dashwood Sq ... 1040 1040 ... 1140 1140 ... ... ... 1340 1340 Victoria Street ... ... 1042 ... ... 1142 ... ... ... ... 1342 Bower Drive ... ... 1046 ... ... 1146 ... ... ... ... 1346 Old Minigaff ... ... 1048 ... ... 1148 ... ... ... ... 1348 McGregor Drive ... ... 1052 ... ... 1152 ... ... ... ... 1352 Heron Way ... ... 1054 ... ... 1154 ... ... ... ... 1354 Dunkitterick Drive ... ... 1056 ... ... 1156 ... ... ... ... 1356 Masonfield ... ... 1058 ... ... ... ... ... ... ... 1358 Victoria Street ... ... 1102 ... ... 1200 ... ... ... ... 1402 Sainsburys ... ... 1104 ... ... ... ... ... ... ... ... Newton Stewart, Dashwood Sq 1010 ... 1108 ... ... 1205 1210 ... ... ... 1405 Windsor Terrace 1013 ... ... ... ... ... 1213 ... ... ... ... Douglas Ewart High 1015 ... ... ... ... ... 1215 ... ... ... ... Newton Stewart, Dashwood Sq 1020 ... ... 1108 ... ... 1220 ... 1310 ... ... Victoria Street ... ... ... 1109 ... ... ... ... 1311 ... ... Ashgrove Court ... ... ... ... ... ... ... ... 1314 ... ... Douglas Terrace ... ... ... 1114 ... ... ... ... 1315 ... ... East Drive ... ... ... 1115 ... ... ... ... 1316 ... ... Douglas Terrace ... ... ... 1116 ... ... ... ... 1317 ... ... Ashgrove Court ... ... ... 1117 ... ... ... ... ... ... ... Victoria Street ... ... ... 1118 ... ... ... ... 1319 ... ... Newton Stewart, Dashwood Sq ... ... ... 1120 ... ... ... ... 1320 ... ...\n\nNo Sunday Service\n\n# PUBLIC\n",
+  "ok": true,
+  "error": null
+}

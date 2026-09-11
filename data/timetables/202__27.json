@@ -1,0 +1,410 @@
+{
+  "key": "202::27",
+  "id": "202",
+  "name": "202 - Dumfries to Moniaive - from 7 August",
+  "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/202%20Dumfries%20to%20Moniaive%20-%20From%207th%20August%202025.pdf",
+  "extractedAt": "2026-09-11",
+  "title": "Service 202 Moniaive to Dumfries",
+  "sections": [
+    {
+      "title": "Monday to Saturday",
+      "headers": [],
+      "rows": [
+        {
+          "stop": "Th NTh Thornhill Health Centre",
+          "times": [
+            "0715",
+            "",
+            "",
+            "",
+            "",
+            "1705"
+          ]
+        },
+        {
+          "stop": "Penpont",
+          "times": [
+            "0722",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Kirkland",
+          "times": [
+            "0730",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Moniaive",
+          "times": [
+            "0735",
+            "0935",
+            "0935",
+            "1240",
+            "1500",
+            ""
+          ]
+        },
+        {
+          "stop": "Kirkland",
+          "times": [
+            "0739",
+            "0939",
+            "0939",
+            "1245",
+            "1504",
+            ""
+          ]
+        },
+        {
+          "stop": "Wallaceton",
+          "times": [
+            "0743",
+            "0943",
+            "0943",
+            "1248",
+            "1508",
+            ""
+          ]
+        },
+        {
+          "stop": "Dunscore",
+          "times": [
+            "0749",
+            "0949",
+            "0949",
+            "1254",
+            "1514",
+            ""
+          ]
+        },
+        {
+          "stop": "Milton",
+          "times": [
+            "0753",
+            "",
+            "0953",
+            "1258",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Morrington",
+          "times": [
+            "0756",
+            "0951",
+            "0956",
+            "1301",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Newtonairds",
+          "times": [
+            "0801",
+            "0956",
+            "1001",
+            "1306",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Cormaddie",
+          "times": [
+            "0808",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Gribton",
+          "times": [
+            "",
+            "1003",
+            "1008",
+            "1313",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Newbridge",
+          "times": [
+            "0816",
+            "1010",
+            "1015",
+            "1320",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Woodlands Estate",
+          "times": [
+            "0817",
+            "1011",
+            "1016",
+            "1321",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Dumfries, Whitesands",
+          "times": [
+            "",
+            "1019",
+            "1024",
+            "1329",
+            "1535",
+            "1725"
+          ]
+        },
+        {
+          "stop": "Dumfries Rail Station",
+          "times": [
+            "0835",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Dumfries, DG One",
+          "times": [
+            "0840",
+            "1030",
+            "1030",
+            "1335",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Monday to Saturday",
+      "headers": [],
+      "rows": [
+        {
+          "stop": "Th NTh Dumfries Rail Station",
+          "times": [
+            "0835",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "stop": "Dumfries, DG One",
+          "times": [
+            "0840",
+            "1035",
+            "1340",
+            "1340",
+            "",
+            "1745"
+          ]
+        },
+        {
+          "stop": "Dumfries, Loreburne Centre",
+          "times": [
+            "0842",
+            "1038",
+            "1343",
+            "1343",
+            "",
+            "1748"
+          ]
+        },
+        {
+          "stop": "Dumfries, Whitesands",
+          "times": [
+            "0845",
+            "1040",
+            "1345",
+            "1345",
+            "1555",
+            "1750"
+          ]
+        },
+        {
+          "stop": "Woodlands Estate",
+          "times": [
+            "0851",
+            "1047",
+            "1352",
+            "1352",
+            "1601",
+            "1756"
+          ]
+        },
+        {
+          "stop": "Newbridge",
+          "times": [
+            "0852",
+            "1048",
+            "1353",
+            "1353",
+            "1602",
+            "1757"
+          ]
+        },
+        {
+          "stop": "Gribton",
+          "times": [
+            "0858",
+            "1054",
+            "1359",
+            "1359",
+            "",
+            "1803"
+          ]
+        },
+        {
+          "stop": "Cormaddie",
+          "times": [
+            "",
+            "",
+            "",
+            "",
+            "1610",
+            ""
+          ]
+        },
+        {
+          "stop": "Newtonairds",
+          "times": [
+            "0905",
+            "",
+            "1406",
+            "1406",
+            "1617",
+            "1810"
+          ]
+        },
+        {
+          "stop": "Morrington",
+          "times": [
+            "0910",
+            "",
+            "1410",
+            "1410",
+            "1622",
+            "1815"
+          ]
+        },
+        {
+          "stop": "Milton",
+          "times": [
+            "0913",
+            "",
+            "",
+            "1414",
+            "1625",
+            "1818"
+          ]
+        },
+        {
+          "stop": "Dunscore",
+          "times": [
+            "0917",
+            "1106",
+            "1414",
+            "1419",
+            "1629",
+            "1822"
+          ]
+        },
+        {
+          "stop": "Wallaceton",
+          "times": [
+            "0922",
+            "1111",
+            "1419",
+            "1424",
+            "1634",
+            "1827"
+          ]
+        },
+        {
+          "stop": "Kirkland",
+          "times": [
+            "0926",
+            "1116",
+            "1424",
+            "1429",
+            "1639",
+            "1832"
+          ]
+        },
+        {
+          "stop": "Moniaive",
+          "times": [
+            "0930",
+            "1120",
+            "1428",
+            "1433",
+            "1644",
+            "1835"
+          ]
+        },
+        {
+          "stop": "Kirkland",
+          "times": [
+            "",
+            "",
+            "",
+            "",
+            "1648",
+            "1840"
+          ]
+        },
+        {
+          "stop": "Penpont",
+          "times": [
+            "",
+            "",
+            "",
+            "",
+            "1657",
+            "1849"
+          ]
+        },
+        {
+          "stop": "Thornhill Health Centre",
+          "times": [
+            "",
+            "",
+            "",
+            "",
+            "1704",
+            "1855"
+          ]
+        }
+      ]
+    }
+  ],
+  "rawText": "Local Bus Tender PUBLIC # 202 Dumfries to Moniaive\n\nService 202 Moniaive to Dumfries\n\nTIMETABLE\n\nMonday to Saturday Th NTh Thornhill Health Centre 0715 \u2026 \u2026 \u2026 \u2026 1705 Penpont 0722 \u2026 \u2026 \u2026 \u2026 \u2026 Kirkland 0730 \u2026 \u2026 \u2026 \u2026 \u2026 Moniaive 0735 0935 0935 1240 1500 \u2026 Kirkland 0739 0939 0939 1245 1504 \u2026 Wallaceton 0743 0943 0943 1248 1508 \u2026 Dunscore 0749 0949 0949 1254 1514 \u2026 Milton 0753 \u2026 0953 1258 \u2026 \u2026 Morrington 0756 0951 0956 1301 \u2026 \u2026 Newtonairds 0801 0956 1001 1306 \u2026 \u2026 Cormaddie 0808 \u2026 \u2026 \u2026 \u2026 \u2026 Gribton \u2026 1003 1008 1313 \u2026 \u2026 Newbridge 0816 1010 1015 1320 \u2026 \u2026 Woodlands Estate 0817 1011 1016 1321 \u2026 \u2026 Dumfries, Whitesands \u2026 1019 1024 1329 1535 1725 Dumfries Rail Station 0835 \u2026 \u2026 \u2026 \u2026 \u2026 Dumfries, DG One 0840 1030 1030 1335 \u2026 \u2026\n\nMonday to Saturday Th NTh Dumfries Rail Station 0835 \u2026 \u2026 \u2026 \u2026 \u2026 Dumfries, DG One 0840 1035 1340 1340 \u2026 1745 Dumfries, Loreburne Centre 0842 1038 1343 1343 \u2026 1748 Dumfries, Whitesands 0845 1040 1345 1345 1555 1750 Woodlands Estate 0851 1047 1352 1352 1601 1756 Newbridge 0852 1048 1353 1353 1602 1757 Gribton 0858 1054 1359 1359 \u2026 1803 Cormaddie \u2026 \u2026 \u2026 \u2026 1610 \u2026 Newtonairds 0905 \u2026 1406 1406 1617 1810 Morrington 0910 \u2026 1410 1410 1622 1815 Milton 0913 \u2026 \u2026 1414 1625 1818 Dunscore 0917 1106 1414 1419 1629 1822 Wallaceton 0922 1111 1419 1424 1634 1827 Kirkland 0926 1116 1424 1429 1639 1832 Moniaive 0930 1120 1428 1433 1644 1835 Kirkland \u2026 \u2026 \u2026 \u2026 1648 1840 Penpont \u2026 \u2026 \u2026 \u2026 1657 1849 Thornhill Health Centre \u2026 \u2026 \u2026 \u2026 1704 1855\n\nNo Sunday Service\n\nKey to Codes Th Thursday only NTh Not Thursday\n\n# PUBLIC\n",
+  "ok": true,
+  "error": null
+}

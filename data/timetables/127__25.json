@@ -1,0 +1,44 @@
+{
+  "key": "127::25",
+  "id": "127",
+  "name": "127 - Langholm to Newcastleton - from 7 August",
+  "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/127%20Langholm%20to%20Newcastleton%20-%20From%207th%20August%202025.pdf",
+  "extractedAt": "2026-09-11",
+  "title": "Service 127 Langholm to Newcastleton",
+  "sections": [
+    {
+      "title": "Service 127 Langholm to Newcastleton",
+      "headers": [
+        "TIMETABLE",
+        "",
+        ""
+      ],
+      "rows": [
+        {
+          "stop": "-",
+          "times": [
+            "-",
+            "-"
+          ]
+        },
+        {
+          "stop": "Newcastleton Harelaw Rowanburn Canonbie Langholm Langholm Academy Langholm Academy Langholm Canonbie Rowanburn Harelaw Newcastleton",
+          "times": [
+            "RR SD ... 0800 ... 0815 ... 0820 0720 0823 0730 0835 ... 0838 SD SD RR 1525 ... 1526 1700 1538 1710 1541 1712 1543 1715 1558 1729",
+            ""
+          ]
+        },
+        {
+          "stop": "No Saturday or Sunday service Key to Codes",
+          "times": [
+            "RR Runs on Request to driver SD School Days only",
+            ""
+          ]
+        }
+      ]
+    }
+  ],
+  "rawText": "Local Bus Tender PUBLIC # 127 Langholm to Newcastleton\n\nService 127 Langholm to Newcastleton\n\n| TIMETABLE | | |\n| --- | --- | --- |\n| Newcastleton Harelaw Rowanburn Canonbie Langholm Langholm Academy Langholm Academy Langholm Canonbie Rowanburn Harelaw Newcastleton | RR SD ... 0800 ... 0815 ... 0820 0720 0823 0730 0835 ... 0838 SD SD RR 1525 ... 1526 1700 1538 1710 1541 1712 1543 1715 1558 1729 | |\n| | | |\n| No Saturday or Sunday service Key to Codes | RR Runs on Request to driver SD School Days only | |\n\n# PUBLIC\n",
+  "ok": true,
+  "error": null
+}

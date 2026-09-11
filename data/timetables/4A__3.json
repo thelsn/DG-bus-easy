@@ -1,0 +1,91 @@
+{
+  "key": "4A::3",
+  "id": "4A",
+  "name": "4A - Great King Street, Dumfries to Barkerland - from 7 August 2025",
+  "pdfUrl": "https://www.dumfriesandgalloway.gov.uk/sites/default/files/2025-07/4A%20Great%20King%20Street%2C%20Dumfries%20to%20Barkerland%20-%20From%207th%20August%202025%20%281%29.pdf",
+  "extractedAt": "2026-09-11",
+  "title": "OFFICIAL",
+  "sections": [
+    {
+      "title": "Monday to Friday",
+      "headers": [],
+      "rows": [
+        {
+          "stop": "Great King Street",
+          "times": [
+            "0920",
+            "1020",
+            "1220",
+            "1325"
+          ]
+        },
+        {
+          "stop": "DG One",
+          "times": [
+            "0922",
+            "1022",
+            "1222",
+            "1327"
+          ]
+        },
+        {
+          "stop": "Cresswell Ave",
+          "times": [
+            "0924",
+            "1024",
+            "1224",
+            "1329"
+          ]
+        },
+        {
+          "stop": "Barkerland Avenue",
+          "times": [
+            "0925",
+            "1025",
+            "1225",
+            "1335"
+          ]
+        },
+        {
+          "stop": "Rosevale Street",
+          "times": [
+            "0926",
+            "1026",
+            "1226",
+            "1336"
+          ]
+        },
+        {
+          "stop": "Eastfield Road",
+          "times": [
+            "0928",
+            "1028",
+            "1228",
+            "1338"
+          ]
+        },
+        {
+          "stop": "DG One",
+          "times": [
+            "0930",
+            "1030",
+            "1230",
+            "1340"
+          ]
+        },
+        {
+          "stop": "Great King Street",
+          "times": [
+            "0935",
+            "1035",
+            "1235",
+            "1345"
+          ]
+        }
+      ]
+    }
+  ],
+  "rawText": "OFFICIAL # 4A Great King Street to Barkerland\n\nService 4A Great King Street to Barkerland From 7th August 2025\n\nTIMETABLE\n\nMonday to Friday Great King Street 0920 1020 1220 1325 DG One 0922 1022 1222 1327 Cresswell Ave 0924 1024 1224 1329 Barkerland Avenue 0925 1025 1225 1335 Rosevale Street 0926 1026 1226 1336 Eastfield Road 0928 1028 1228 1338 DG One 0930 1030 1230 1340 Great King Street 0935 1035 1235 1345\n\n#OFFICIAL\n",
+  "ok": true,
+  "error": null
+}
